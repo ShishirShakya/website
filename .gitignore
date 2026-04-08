@@ -105,6 +105,11 @@ ENV/
 # IDE settings
 .vscode/
 
+# Cursor: ignore local/editor-only paths; keep `.cursor/rules/` versioned
+.cursor/*
+!.cursor/rules/
+!.cursor/rules/**
+
 # MyST / Jupyter Book build outputs
 _build/
 book-clean/
@@ -122,3 +127,6 @@ book-*/images/
 
 # Private / local files
 private/
+
+legacy/
+

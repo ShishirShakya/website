@@ -1,0 +1,17 @@
+[project]
+name = "website"
+version = "0.1.0"
+description = "MyST documentation site"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ghp-import",
+    "jupyter-book",
+    "jupytext",
+    "matplotlib",
+    "mystmd",
+    "numpy",
+]
+
+[tool.uv]
+package = false

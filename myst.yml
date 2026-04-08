@@ -1,6 +1,6 @@
 version: 1
 project:
-  title: Website Title
+  title: Shishir Shakya
   # authors:
   #   - name: Author Name
   copyright: '2026'
@@ -9,20 +9,41 @@ project:
     - Thumbs.db
     - .DS_Store
     - '**.ipynb_checkpoints'
-  github: opengeos/myst-website-template
-  thebe:
-    binder:
-      repo: opengeos/myst-website-template
-      provider: github
-      url: https://mybinder.org
-      ref: main
-  bibliography:
-    - book/references.bib
+  # Omit repo link in article frontmatter (no GitHub badge on pages).
+  github: null
+  # thebe:
+  #   binder:
+  #     repo: opengeos/myst-website-template
+  #     provider: github
+  #     url: https://mybinder.org
+  #     ref: main
+  # bibliography:
+  #   - book/references.bib
   toc:
     - file: index.md
-    - title: Preface
+    - title: CV
       children:
-        - file: book/preface.md
+        - file: book/cv/index.md
+        - file: book/cv/research-interests.md
+        - file: book/cv/technical-expertise.md
+        - file: book/cv/education.md
+        - file: book/cv/academic-positions-and-teaching.md
+        - file: book/cv/research-affiliations.md
+        - file: book/cv/current-projects.md
+        - file: book/cv/revise-and-resubmit.md
+        - file: book/cv/under-review.md
+        - file: book/cv/publications.md
+        - file: book/cv/policy-briefs.md
+        - file: book/cv/book-chapters.md
+        - file: book/cv/external-funding.md
+        - file: book/cv/internal-grants.md
+        - file: book/cv/awards.md
+        - file: book/cv/departmental-services.md
+        - file: book/cv/disciplinary-services.md
+        - file: book/cv/media-coverage.md
+        - file: book/cv/invited-research-presentation.md
+        - file: book/cv/conference-presentations.md
+        - file: book/cv/mentorship.md
     - title: Getting Started
       children:
         - file: book/part01/getting-started.md

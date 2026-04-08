@@ -28,7 +28,7 @@ A reusable template for building websites with [MyST Markdown](https://mystmd.or
 ├── CNAME                       # Custom domain (optional)
 ├── robots.txt                  # Search engine directives
 ├── book/                       # Site content
-│   ├── preface.md
+│   ├── contacts/               # CV pages
 │   ├── part01/
 │   │   ├── getting-started.md
 │   │   └── installation.md

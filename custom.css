@@ -2,6 +2,11 @@
   display: none !important;
 }
 
+/* No GitHub icon in the frontmatter badge row */
+.myst-fm-github-link {
+  display: none !important;
+}
+
 table td:first-child,
 table th:first-child {
   white-space: nowrap;

@@ -1,0 +1,25 @@
+---
+description: Do not use en dashes or em dashes in prose or comments
+alwaysApply: true
+---
+
+# No en dash or em dash
+
+Do not use the en dash (`–`, U+2013) or em dash (`—`, U+2014) in user-facing copy, Markdown, comments, or strings.
+
+Use instead:
+
+- ASCII hyphen-minus (`-`), often with spaces: `one - two`
+- A colon after a label: `**Label**: detail`
+- Commas or parentheses for appositives or asides
+
+```markdown
+<!-- Bad -->
+Topics — methods and results
+
+<!-- Good -->
+Topics: methods and results
+Topics - methods and results
+```
+
+Hyphenated compounds and minus signs in code (`a - b`, `file-name`) are fine.
