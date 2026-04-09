@@ -34,6 +34,7 @@ project:
         - file: book/cv/under-review.md
         - file: book/cv/publications.md
         - file: book/cv/policy-briefs.md
+        - file: book/cv/op-eds-and-popular-writing.md
         - file: book/cv/book-chapters.md
         - file: book/cv/external-funding.md
         - file: book/cv/internal-grants.md
