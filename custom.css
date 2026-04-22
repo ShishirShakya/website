@@ -1,3 +1,8 @@
+/* MyST turns DOIs (links or plain text) into citations and a References section; the site uses CV lists and direct links instead. */
+section#references {
+  display: none !important;
+}
+
 .myst-fm-downloads-dropdown {
   display: none !important;
 }

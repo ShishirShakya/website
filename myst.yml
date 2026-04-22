@@ -34,6 +34,7 @@ project:
               children:
                 - file: book/cv/publications.md
                 - file: book/cv/publications-healthcare-labor-economics.md
+                - file: book/cv/publications-substance-use-disorder.md
                 - file: book/cv/publications-institutional-economics.md
                 - file: book/cv/publications-education-teaching-economics.md
             - file: book/cv/book-chapters.md

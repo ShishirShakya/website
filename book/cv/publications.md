@@ -2,7 +2,7 @@
 title: Publications
 ---
 
-<!-- Themed lists under Publications in the site TOC are generated from this file. After edits, run: `uv run python scripts/generate_publications_md.py` -->
+<!-- Themed lists (healthcare, substance use disorder, institutional, education) in the site TOC are generated from this file. After edits, run: `python scripts/generate_publications_md.py` -->
 
 # Publications
 
@@ -10,7 +10,7 @@ title: Publications
 
 2. Tyner, A., ..., **Shakya, S.**, ... et al. (2026). Investigating the replicability of the social and behavioural sciences. *Nature*. [Download](https://osf.io/preprints/metaarxiv/b7x8f)
 
-3. Ammons, J., **Shakya, S.** & Zhukov, K. (2026). Covert Regime Change and Ideology. *Public Choice*. [Download](https://link.springer.com/article/10.1007/s11127-026-01382-w)
+3. Ammons, J., **Shakya, S.** & Zhukov, K. (2026). Covert Regime Change and Ideology. *Public Choice*. <a href="https://link.springer.com/article/10.1007/s11127-026-01382-w" target="_blank" rel="noopener noreferrer">Download</a>
 
 4. **Shakya, S.** and Ammons, J. (2025). The Invisible Hand Meets the Raised Fist: Social Movements and Market Legitimacy. *Journal of Economic Behavior & Organization*. [Download](https://www.dropbox.com/scl/fi/gqvbgmgf2midszre44cyf/The-Invisible-Hand-Meets-the-Raised-Fist.pdf?rlkey=fg7jdpiv4w9xlw5tgoyl66j4s&st=0bttotm2&dl=0)
 
@@ -28,19 +28,19 @@ title: Publications
 
 11. Scarcioffolo, A., Mugabe, D., & **Shakya, S.** (2024). Stuck in the middle: The conundrum of firms' responsiveness to environmental policy in shale production. *Applied Economics Letters*. [Download](https://www.dropbox.com/scl/fi/w5kh21t0f5q2uiqjpei98/Stuck-in-the-middle-the-conundrum-of-firms-responsiveness-to-environmental-policy-in-shale-production.pdf?rlkey=j0hb5mevqm08lm11dp9zjscdn&dl=0)
 
-12. **Shakya, S.**, Plemmons, A., & Norris, C. (2024). Military spouse licensing: A case study of registered nurses near military bases. *Journal of Regulatory Economics*. [Download](https://link.springer.com/article/10.1007/s11149-024-09480-7)
+12. **Shakya, S.**, Plemmons, A., & Norris, C. (2024). Military spouse licensing: A case study of registered nurses near military bases. *Journal of Regulatory Economics*. <a href="https://link.springer.com/article/10.1007/s11149-024-09480-7" target="_blank" rel="noopener noreferrer">Download</a>
 
 13. Beniwal, S., & **Shakya, S.** (2024). Hospital ownership changes and charge-to-cost shifts. *Economics Letters*. [Download](https://www.dropbox.com/scl/fi/nob6hng0eydoob8ja7d1h/HospitalOwnershipChangeAndCostAnalysis.pdf?rlkey=2qaufyd6evfcatbbtmcwxnex8&dl=0)
 
-14. Ammons, J., & **Shakya, S.** (2024). Revolutions and corruption. *Public Choice*. [Download](https://link.springer.com/article/10.1007/s11127-024-01173-1)
+14. Ammons, J., & **Shakya, S.** (2024). Revolutions and corruption. *Public Choice*. <a href="https://link.springer.com/article/10.1007/s11127-024-01173-1" target="_blank" rel="noopener noreferrer">Download</a>
 
 15. **Shakya, S.**, & Bretschneider Fries, C. (2024). The effect of substance use Certificate-of-Need laws on access to substance use disorder treatment facilities. *Southern Economic Journal*. [Download](https://www.dropbox.com/scl/fi/fkhpvcf0ico3xjxjcs66b/Southern-Economic-Journal-2024-Shakya-The-effect-of-substance-use-Certificate-of-Need-laws-on-access-to-substance-use.pdf?rlkey=lapu9zmq0x9gwe362ttpeailb&dl=0)
 
-16. **Shakya, S.**, Plemmons, A., Bae, K., & Timmons, E. (2024). The pharmacist will see you now: Pharmacist prescriptive authority and access to care in Idaho. *Contemporary Economic Policy*. [Download](https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12647)
+16. **Shakya, S.**, Plemmons, A., Bae, K., & Timmons, E. (2024). The pharmacist will see you now: Pharmacist prescriptive authority and access to care in Idaho. *Contemporary Economic Policy*. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12647" target="_blank" rel="noopener noreferrer">Download</a>
 
 17. **Shakya, S.**, & Levinstein, M. (2024). Grading policy, email nudges, and grade outcomes. *The Journal of Economic Education*. [Download](https://www.dropbox.com/scl/fi/o9seuixtlkn74xdnzljcw/Grading-policy-email-nudges-and-grade-outcomes.pdf?rlkey=i1k0jzv8h55txa5625x35ik1g&dl=0)
 
-18. Shah Mobariz, A., & **Shakya, S.** (2024). Cultural influences on gender gap in test scores: Findings from Afghanistan's university entrance examination. *Applied Economics Letters*. [Download](https://www.tandfonline.com/doi/pdf/10.1080/13504851.2024.2332523)
+18. Shah Mobariz, A., & **Shakya, S.** (2024). Cultural influences on gender gap in test scores: Findings from Afghanistan's university entrance examination. *Applied Economics Letters*. <a href="https://www.tandfonline.com/doi/pdf/10.1080/13504851.2024.2332523" target="_blank" rel="noopener noreferrer">Download</a>
 
 19. Bae, K., Norris, C., **Shakya, S.**, & Timmons, E. (2023). Advanced practice registered nurse full practice authority, provider supply, and health outcomes: A border analysis. *Policy, Politics, and Nursing Practice*. [Download](https://www.dropbox.com/scl/fi/4vw2vcl9v5ckwrmnjloxk/Advanced-Practice-Registered-Nurse-Full-Practice-Authority-Border-Analysis.pdf?rlkey=c11r6bonquwwn2elijdnxjtgb&dl=0)
 
@@ -70,7 +70,7 @@ title: Publications
 
 32. **Shakya, S.**, & Plemmons, A. (2021). The impact of economic freedom on startups. *Journal of Regional Analysis and Policy*. [Download](https://jrap.scholasticahq.com/article/18968-the-impact-of-economic-freedom-on-startups/attachment/50505.pdf)
 
-33. **Shakya, S.**, Erfanian, E., & Scarcioffolo, A. (2020). The political economy of Vermont's abortion bill. *Applied Economics Letters*. [Download](https://www.tandfonline.com/doi/abs/10.1080/13504851.2020.1854663)
+33. **Shakya, S.**, Erfanian, E., & Scarcioffolo, A. (2020). The political economy of Vermont's abortion bill. *Applied Economics Letters*. <a href="https://www.tandfonline.com/doi/abs/10.1080/13504851.2020.1854663" target="_blank" rel="noopener noreferrer">Download</a>
 
 34. **Shakya, S.**, & Plemmons, A. (2020). Does scope of practice affect mobility of nurse practitioners serving Medicare beneficiaries? *Journal of Labor Research*. [Download](https://www.dropbox.com/scl/fi/va11jwf56xhnqmwdi985j/Does-Scope-of-Practice-Affect-Mobility-of-Nurse-Practitioners-Serving-Medicare-Beneficiaries.pdf?rlkey=htja0s8nr7ifete5a7jy5f3r4&dl=0)
 

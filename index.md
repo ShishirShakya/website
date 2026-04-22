@@ -5,7 +5,7 @@ subtitle: Assistant Professor of Economics, Appalachian State University
 
 ## Introduction
 
-I am an applied economist. My work combines health economics and institutional economics: I study how rules and markets shape health care providers' labor markets, licensing and scope of practice, and health outcomes, using causal inference and policy evaluation. I also work on teaching and education, including generative AI and assessment design for learning at scale.
+I am an applied economist. My work combines health economics, institutional economics, and teaching and education: I study how rules and markets shape health care providers' labor markets, licensing and scope of practice, and health outcomes, using causal inference and policy evaluation. I also work on substance use disorder and related policy (treatment access, certificate-of-need and supply-side regulation, and opioid and prescription-monitoring systems), and on generative AI and assessment design for learning at scale.
 
 I am a research fellow of the [Knee Center for the Study of Occupational Regulation](https://knee.wvu.edu/) at West Virginia University and a research fellow at the [Archbridge Institute](https://www.archbridgeinstitute.org/). Through the National Institutes of Health I contribute to AIM-AHEAD Bridge2AI: I was a research fellow in the Clinical Care Training Program, and I am a mentor for the AI-READI and CLINAQ fellowship programs.
 
@@ -32,7 +32,7 @@ Nature: replicability in the social and behavioural sciences
 :::
 
 :::{card}
-:link: https://doi.org/10.1111/jrh.70020
+:link: https://www.dropbox.com/scl/fi/6vupzn4iwu2jzzl4gnhtc/The-Journal-of-Rural-Health-2025-Sugg-Mapping-maternity-care-deserts-Driving-distance-and-health-outcomes-in-North.pdf?rlkey=zia9y7p4vinyz5uc72q0lzuct&st=g5om58hn&dl=0
 ![Wiley, publisher of the Journal of Rural Health](book/images/wiley-vch-logo.svg)
 +++
 NRHA Article of the Year 2025: Journal of Rural Health (maternity care deserts)
