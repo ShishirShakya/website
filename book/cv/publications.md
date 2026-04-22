@@ -2,6 +2,8 @@
 title: Publications
 ---
 
+<!-- Themed lists under Publications in the site TOC are generated from this file. After edits, run: `uv run python scripts/generate_publications_md.py` -->
+
 # Publications
 
 1. Miske, O., ..., **Shakya, S.**, ... et al. (2026). Investigating the reproducibility of the social and behavioural sciences. *Nature*. [Download](https://repository.essex.ac.uk/42891/1/SCOREreproducibility.fullmanuscript.pdf)

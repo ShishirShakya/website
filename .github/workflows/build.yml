@@ -22,8 +22,15 @@ jobs:
         with:
           node-version: 18.x
 
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
       - name: Install MyST Markdown
         run: npm install -g mystmd
+
+      - name: Check generated publication pages
+        run: python scripts/generate_publications_md.py --check
 
       - name: Build HTML Assets
         run: myst build --html

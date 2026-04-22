@@ -1,0 +1,15 @@
+---
+description: MyST site layout, myst.yml, and where content lives
+globs: myst.yml,index.md,book/**/*.md
+alwaysApply: false
+---
+
+# MyST website (this repo)
+
+- **Config:** `myst.yml` at the repo root defines the project TOC, excludes, and site template (`book-theme`, `custom.css`).
+- **Landing:** `index.md` (site home). **CV and prose:** `book/cv/`, `book/images/`, `book/references.bib` (if used).
+- **Legacy R Bookdown** folders `PMP/` and `MHDE/` are listed under `project.exclude` so MyST does not ingest them. They are not the built site; do not add them to the TOC unless the user rewrites that workflow.
+- **Books:** the sidebar entry for Mostly Handsdirty Metrics is an **external** TOC link to the Netlify book (`mhdm.netlify.app`), not a local chapter tree, unless the user changes that in `myst.yml`.
+- **Do not** add large generated folders (`_book`, `_build`) to the site TOC.
+
+When adding a page: create the `.md` file, add it to `project.toc` in a sensible place, and keep slugs/URLs consistent with `site.options.folders`.

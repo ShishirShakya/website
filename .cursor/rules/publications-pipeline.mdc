@@ -1,0 +1,17 @@
+---
+description: Source and generated files for split publication CV pages
+globs: book/cv/publications.md,book/cv/publications-*.md,scripts/generate_publications_md.py
+alwaysApply: false
+---
+
+# Publications split pipeline
+
+- **Source of truth:** `book/cv/publications.md` (the numbered list under `# Publications`). Generated files must start with YAML frontmatter (`---` on line 1). Do not put an HTML comment above the first `---`, or MyST will not parse `title` and will show `title: ...` on the page.
+- **Generated (do not edit by hand):** `book/cv/publications-healthcare-labor-economics.md`, `book/cv/publications-institutional-economics.md`, `book/cv/publications-education-teaching-economics.md`. They are produced by `scripts/generate_publications_md.py` and are checked in pre-commit and CI.
+- After editing `publications.md` or the script, run:
+
+```bash
+python scripts/generate_publications_md.py
+```
+
+- The generator uses keyword rules to assign items to three themes. If classification is wrong, either adjust keywords in the script (with a clear comment) or change the list in `publications.md` so the text is classifiable, rather than hand-editing generated files (those edits will be lost).

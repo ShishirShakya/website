@@ -1,0 +1,13 @@
+---
+description: GitHub Actions and what CI expects from this project
+globs: .github/**/*.yml,scripts/**
+alwaysApply: false
+---
+
+# CI and workflows
+
+- **PRs (`build.yml`):** Node, global `mystmd`, `python scripts/generate_publications_md.py --check`, then `myst build --html`. Keep these steps in sync with local development.
+- **Deploy (`deploy.yml` on `main`):** `myst build --html` with `BASE_URL` set for GitHub Pages project sites; artifact is `_build/html/`.
+- **Pre-commit (`.pre-commit-config.yaml`):** includes `generate_publications_md.py --check` when `book/cv/publications.md` changes. Do not remove that hook without a replacement check.
+
+If you add new required commands (linters, extra builds), add them to the same place in `build.yml` so PRs stay green with production behavior.

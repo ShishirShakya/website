@@ -1,0 +1,18 @@
+---
+description: Surgical edits, minimal scope, and verification for this repo
+alwaysApply: true
+---
+
+# Change discipline
+
+- Change only what the user asked for. Do not refactor, reformat, or "clean up" unrelated files.
+- Match existing style in neighboring lines (Markdown headings, list style, `myst.yml` indentation).
+- If a change would leave dead code, imports, or config entries **only because of your edit**, remove those orphans.
+- Prefer edits that are easy to review: small diffs, one clear intent per change.
+
+**Verify when relevant (run from repo root):**
+
+- `python scripts/generate_publications_md.py --check` after any change to `book/cv/publications.md` or the generator
+- `myst build --html` after changes to `myst.yml` or site Markdown
+
+If something is ambiguous, state assumptions or ask; do not guess and ship.

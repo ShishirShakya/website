@@ -127,6 +127,7 @@ book-*/images/
 
 # Private / local files
 private/
-
 legacy/
 
+
+.claude/

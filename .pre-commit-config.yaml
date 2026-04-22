@@ -30,3 +30,12 @@ repos:
     rev: 0.8.1
     hooks:
       - id: nbstripout
+
+  - repo: local
+    hooks:
+      - id: generate-publications
+        name: Generate publication category pages
+        entry: python scripts/generate_publications_md.py --check
+        language: python
+        pass_filenames: false
+        files: book/cv/publications\.md

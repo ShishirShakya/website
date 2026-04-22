@@ -9,7 +9,7 @@ I am an applied economist. My work combines health economics and institutional e
 
 I am a research fellow of the [Knee Center for the Study of Occupational Regulation](https://knee.wvu.edu/) at West Virginia University and a research fellow at the [Archbridge Institute](https://www.archbridgeinstitute.org/). Through the National Institutes of Health I contribute to AIM-AHEAD Bridge2AI: I was a research fellow in the Clinical Care Training Program, and I am a mentor for the AI-READI and CLINAQ fellowship programs.
 
-Beyond journal articles, I write policy briefs and evidence products for foundations, policy institutes, and state audiences. I use R, SQL, Python, and LaTeX; I work with the OMOP common data model for clinical analytics and with locally hosted agentic AI for research. I pursue external funding and help convene collaborators through grants and conferences. Research and commentary have appeared in outlets such as Modern Healthcare and the Deseret News, among others.
+Beyond journal articles, I write policy briefs and evidence products for foundations, policy institutes, and state audiences. Methods, tools, and software are summarized on the [Technical expertise](book/cv/technical-expertise.md) page of the [CV](book/cv/index.md). I pursue external funding and help convene collaborators through grants and conferences. Research and commentary have appeared in outlets such as Modern Healthcare and the Deseret News, among others.
 
 ---
 
