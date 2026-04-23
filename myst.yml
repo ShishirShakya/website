@@ -28,24 +28,16 @@ project:
       children:
         - file: book/cv/index.md
 
-        - title: Research Output
+        - title: Publications
           children:
-            - title: Publications
-              children:
-                - file: book/cv/publications.md
-                - file: book/cv/publications-healthcare-labor-economics.md
-                - file: book/cv/publications-substance-use-disorder.md
-                - file: book/cv/publications-institutional-economics.md
-                - file: book/cv/publications-education-teaching-economics.md
+            - file: book/cv/publications.md
+            - file: book/cv/publications-healthcare-labor-economics.md
+            - file: book/cv/publications-substance-use-disorder.md
+            - file: book/cv/publications-institutional-economics.md
+            - file: book/cv/publications-education-teaching-economics.md
             - file: book/cv/book-chapters.md
             - file: book/cv/policy-briefs.md
             - file: book/cv/op-eds-and-popular-writing.md
-
-        - title: Work in Progress
-          children:
-            - file: book/cv/revise-and-resubmit.md
-            - file: book/cv/under-review.md
-            - file: book/cv/current-projects.md
 
         - title: Professional Experience
           children:
@@ -79,7 +71,7 @@ site:
   options:
     logo: logo.png
     logo_dark: logo.png
-    favicon: fav.ico
+    favicon: logo.png
     folders: true
     style: custom.css
     # analytics_google: G-XXX

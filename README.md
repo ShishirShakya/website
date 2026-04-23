@@ -23,8 +23,7 @@ A reusable template for building websites with [MyST Markdown](https://mystmd.or
 ├── myst.yml                    # MyST configuration
 ├── index.md                    # Landing page
 ├── requirements.txt            # Python dependencies
-├── logo.png                    # Site logo
-├── fav.ico                     # Favicon
+├── logo.png                    # Site logo and browser tab favicon (myst.yml site.options)
 ├── CNAME                       # Custom domain (optional)
 ├── robots.txt                  # Search engine directives
 ├── book/                       # Site content

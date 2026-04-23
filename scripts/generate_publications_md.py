@@ -133,8 +133,8 @@ def classify_publication(text: str) -> str:
 
 def parse_publications(content: str) -> List[str]:
     """Extract numbered publications from markdown content"""
-    # Find the publications list (starts after "# Publications")
-    match = re.search(r'# Publications\n\n(.+)', content, re.DOTALL)
+    # Find the publications list (starts after the main heading in publications.md)
+    match = re.search(r'# All publications\n\n(.+)', content, re.DOTALL)
     if not match:
         return []
 
