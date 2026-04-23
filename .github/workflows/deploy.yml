@@ -1,3 +1,7 @@
+# Pushes the MyST build to the user Pages repo so the site is served at
+# https://shishirshakya.github.io/ (not /website/). Requires a repository secret
+# GH_PAGES_DEPLOY_TOKEN: a fine-grained PAT with Contents: Read and write on
+# ShishirShakya/ShishirShakya.github.io (Classic PAT: repo scope is fine).
 name: deploy
 
 on:
@@ -5,29 +9,18 @@ on:
     branches:
       - main
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
+permissions:
+  contents: read
+
 jobs:
   deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v6
 
       - uses: actions/setup-node@v6
         with:
@@ -37,23 +30,16 @@ jobs:
         run: npm install -g mystmd
 
       - name: Build HTML Assets
-        # For GitHub Pages at username.github.io/<repo>, keep BASE_URL. If you use a
-        # custom domain at the site root, remove BASE_URL and add your domain CNAME
-        # at the build output (or configure Pages with the custom host).
         env:
-          BASE_URL: /${{ github.event.repository.name }}
+          BASE_URL: /
         run: myst build --html
 
-      # - name: Copy static files
-      #   run: |
-      #     cp robots.txt ./_build/html/
-      #     # cp CNAME ./_build/html/
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+      - name: Deploy to shishirshakya.github.io
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          path: "./_build/html"
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v5
+          token: ${{ secrets.GH_PAGES_DEPLOY_TOKEN }}
+          branch: main
+          folder: _build/html
+          repository-name: ShishirShakya/ShishirShakya.github.io
+          clean: true
+          single-commit: true
