@@ -37,7 +37,9 @@ jobs:
         run: npm install -g mystmd
 
       - name: Build HTML Assets
-        # Remove BASE_URL if using a custom domain (CNAME)
+        # For GitHub Pages at username.github.io/<repo>, keep BASE_URL. If you use a
+        # custom domain at the site root, remove BASE_URL and add your domain CNAME
+        # at the build output (or configure Pages with the custom host).
         env:
           BASE_URL: /${{ github.event.repository.name }}
         run: myst build --html

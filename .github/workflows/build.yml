@@ -1,3 +1,5 @@
+# PR checks: MyST build + generated publications check. (Netlify PR preview is
+# disabled; enable the commented step and set NETLIFY_* secrets to use it.)
 name: build
 
 on:
