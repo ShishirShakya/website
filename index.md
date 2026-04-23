@@ -11,9 +11,25 @@ thumbnail: book/images/headshot.webp
 
 :::{grid-item}
 :columns: 4
-![Shishir Shakya, Assistant Professor of Economics, Appalachian State University](book/images/headshot.webp)
+<div class="intro-headshot-wrap">
+<img src="book/images/headshot.webp" alt="Shishir Shakya, Assistant Professor of Economics, Appalachian State University" width="280" />
+</div>
 
 <div class="intro-tagline"><span>Educator</span><span>Economist</span><span>Entrepreneur</span></div>
+
+<div class="intro-story-icons" aria-label="Affiliations and themes">
+  <div class="intro-story-3x3">
+    <div class="intro-story-cell"><img src="book/images/nepal.png" alt="Nepal" width="36" height="36" /></div>
+    <div class="intro-story-cell"><img src="book/images/wvu.webp" alt="West Virginia University" width="36" height="36" /></div>
+    <div class="intro-story-cell"><img src="book/images/ship.png" alt="Maritime" width="36" height="36" /></div>
+    <div class="intro-story-cell"><img src="logo.png" alt="This site" width="36" height="36" /></div>
+    <div class="intro-story-cell"><img src="book/images/usa.avif" alt="United States" width="36" height="36" /></div>
+    <div class="intro-story-cell"><img src="book/images/aim-ahead.png" alt="NIH AIM-AHEAD Bridge2AI" width="36" height="36" /></div>
+    <div class="intro-story-cell"><img src="book/images/agentic-ai.png" alt="Agentic AI" width="36" height="36" /></div>
+    <div class="intro-story-cell"><img src="book/images/F3-logo.jpg" alt="F3" width="36" height="36" /></div>
+    <div class="intro-story-cell intro-story-cell--empty" aria-hidden="true"></div>
+  </div>
+</div>
 :::
 
 :::{grid-item}
