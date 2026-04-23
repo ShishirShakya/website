@@ -34,12 +34,22 @@ jobs:
           BASE_URL: /
         run: myst build --html
 
+      # If a push is "denied to github-actions[bot]", GH_PAGES_DEPLOY_TOKEN was
+      # empty; GITHUB_TOKEN cannot push to another repository.
+      - name: Check deploy secret is set
+        env:
+          DEPLOY_PAT: ${{ secrets.GH_PAGES_DEPLOY_TOKEN }}
+        run: |
+          if [ -z "$DEPLOY_PAT" ]; then
+            echo "::error::Set repository secret GH_PAGES_DEPLOY_TOKEN to a PAT with Contents: write on ShishirShakya.github.io"
+            exit 1
+          fi
+
       - name: Deploy to shishirshakya.github.io
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          token: ${{ secrets.GH_PAGES_DEPLOY_TOKEN }}
-          branch: main
-          folder: _build/html
-          repository-name: ShishirShakya/ShishirShakya.github.io
-          clean: true
-          single-commit: true
+          personal_token: ${{ secrets.GH_PAGES_DEPLOY_TOKEN }}
+          publish_dir: _build/html
+          publish_branch: main
+          external_repository: ShishirShakya/ShishirShakya.github.io
+          force_orphan: true
