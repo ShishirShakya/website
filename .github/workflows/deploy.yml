@@ -45,11 +45,13 @@ jobs:
             exit 1
           fi
 
+      # The user Pages repo still uses branch `master` for the live site; `main` had
+      # the MyST build but Pages was not serving it. Overwrite `master` so the apex URL updates.
       - name: Deploy to shishirshakya.github.io
         uses: peaceiris/actions-gh-pages@v4
         with:
           personal_token: ${{ secrets.GH_PAGES_DEPLOY_TOKEN }}
           publish_dir: _build/html
-          publish_branch: main
+          publish_branch: master
           external_repository: ShishirShakya/ShishirShakya.github.io
           force_orphan: true
