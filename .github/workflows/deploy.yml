@@ -29,9 +29,9 @@ jobs:
       - name: Install MyST Markdown
         run: npm install -g mystmd
 
+      # For apex GitHub user Pages (shishirshakya.github.io/) do not set BASE_URL; see
+      # https://mystmd.org/guide/deployment (root URL does not use a subfolder base).
       - name: Build HTML Assets
-        env:
-          BASE_URL: /
         run: myst build --html
 
       # If a push is "denied to github-actions[bot]", GH_PAGES_DEPLOY_TOKEN was

@@ -35,8 +35,6 @@ jobs:
         run: python scripts/generate_publications_md.py --check
 
       - name: Build HTML Assets
-        env:
-          BASE_URL: /
         run: myst build --html
 
       # - name: Deploy to Netlify

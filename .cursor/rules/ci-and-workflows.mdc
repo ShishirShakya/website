@@ -7,7 +7,7 @@ alwaysApply: false
 # CI and workflows
 
 - **PRs (`build.yml`):** Node, global `mystmd`, `python scripts/generate_publications_md.py --check`, then `myst build --html`. Keep these steps in sync with local development.
-- **Deploy (`deploy.yml` on `main`):** `myst build --html` with `BASE_URL: /` and [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) with `personal_token` pushing `_build/html` to `ShishirShakya.github.io` on **`master`** (the branch GitHub Pages serves for that user site; secret `GH_PAGES_DEPLOY_TOKEN` must be able to push to that repo).
+- **Deploy (`deploy.yml` on `main`):** `myst build --html` with **no** `BASE_URL` (apex user Pages is site root; setting `BASE_URL` breaks the MyST “wrong BASE_URL” dialog), then [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) with `personal_token` pushing `_build/html` to `ShishirShakya.github.io` on **`master`** (secret `GH_PAGES_DEPLOY_TOKEN`).
 - **Pre-commit (`.pre-commit-config.yaml`):** includes `generate_publications_md.py --check` when `book/cv/publications.md` changes. Do not remove that hook without a replacement check.
 
 If you add new required commands (linters, extra builds), add them to the same place in `build.yml` so PRs stay green with production behavior.
