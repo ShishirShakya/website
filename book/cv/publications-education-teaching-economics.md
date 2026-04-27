@@ -8,9 +8,11 @@ title: Education and Teaching Economics
 
 2. Tyner, A., ..., **Shakya, S.**, ... et al. (2026). Investigating the replicability of the social and behavioural sciences. *Nature*. [Download](https://osf.io/preprints/metaarxiv/b7x8f)
 
-3. **Shakya, S.**, & Levinstein, M. (2024). Grading policy, email nudges, and grade outcomes. *The Journal of Economic Education*. [Download](https://www.dropbox.com/scl/fi/o9seuixtlkn74xdnzljcw/Grading-policy-email-nudges-and-grade-outcomes.pdf?rlkey=i1k0jzv8h55txa5625x35ik1g&dl=0)
+3. Babaei-Balderlou, S. and **Shakya, S.** (2026). The Invisible Hand of Gen-AI: Can AI-Enhanced Study Groups Improve Learning Outcomes? *The Journal of Economic Education*.
 
-4. Shah Mobariz, A., & **Shakya, S.** (2024). Cultural influences on gender gap in test scores: Findings from Afghanistan's university entrance examination. *Applied Economics Letters*. <a href="https://www.tandfonline.com/doi/pdf/10.1080/13504851.2024.2332523" target="_blank" rel="noopener noreferrer">Download</a>
+4. **Shakya, S.**, & Levinstein, M. (2024). Grading policy, email nudges, and grade outcomes. *The Journal of Economic Education*. [Download](https://www.dropbox.com/scl/fi/o9seuixtlkn74xdnzljcw/Grading-policy-email-nudges-and-grade-outcomes.pdf?rlkey=i1k0jzv8h55txa5625x35ik1g&dl=0)
 
-5. **Shakya, S.** & Sevigny, E. (2020). Replication of a research claim from Bersani and Doherty (2013). *Center for Open Science, Systematizing Confidence in Open Research and Evidence (SCORE) Project*. [Download](https://osf.io/9bme4)
+5. Shah Mobariz, A., & **Shakya, S.** (2024). Cultural influences on gender gap in test scores: Findings from Afghanistan's university entrance examination. *Applied Economics Letters*. <a href="https://www.tandfonline.com/doi/pdf/10.1080/13504851.2024.2332523" target="_blank" rel="noopener noreferrer">Download</a>
+
+6. **Shakya, S.** & Sevigny, E. (2020). Replication of a research claim from Bersani and Doherty (2013). *Center for Open Science, Systematizing Confidence in Open Research and Evidence (SCORE) Project*. [Download](https://osf.io/9bme4)
 

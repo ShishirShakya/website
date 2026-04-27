@@ -12,19 +12,23 @@ title: All publications
 
 3. Ammons, J., **Shakya, S.** & Zhukov, K. (2026). Covert Regime Change and Ideology. *Public Choice*. <a href="https://link.springer.com/article/10.1007/s11127-026-01382-w" target="_blank" rel="noopener noreferrer">Download</a>
 
-4. **Shakya, S.** and Ammons, J. (2025). The Invisible Hand Meets the Raised Fist: Social Movements and Market Legitimacy. *Journal of Economic Behavior & Organization*. [Download](https://www.dropbox.com/scl/fi/gqvbgmgf2midszre44cyf/The-Invisible-Hand-Meets-the-Raised-Fist.pdf?rlkey=fg7jdpiv4w9xlw5tgoyl66j4s&st=0bttotm2&dl=0)
+4. **Shakya, S.**, & Roy, A. (2026). Access to mental health care services and suicide rates in the United States. *Journal of Policy Analysis and Management*.
 
-5. Ammons, J., **Shakya, S.**, & Callais, J. T. (2025). What do women get from a successful revolution? *Journal of Institutional Economics*. [Download](https://www.dropbox.com/scl/fi/691ysf6zimszgb1b3wscz/what-do-women-get-from-a-successful-revolution.pdf?rlkey=1yebirjrvyaq7yl2jt8mdf0ob&st=5rhg36b8&dl=0)
+5. Babaei-Balderlou, S. and **Shakya, S.** (2026). The Invisible Hand of Gen-AI: Can AI-Enhanced Study Groups Improve Learning Outcomes? *The Journal of Economic Education*.
 
-6. Hodges, C. & **Shakya, S.** (2025). Prescription opioid spillovers: Retail pharmacies level analysis. *Journal of Substance Use and Addiction Treatment*. [Download](https://www.dropbox.com/scl/fi/sto4f3852u4mbzur56ih1/Prescription-opioid-spillovers_-Retail-pharmacy-level-analysis.pdf?rlkey=mb52o2583pgs17660hkd7d5ke&st=afw12tku&dl=0)
+6. **Shakya, S.** and Ammons, J. (2025). The Invisible Hand Meets the Raised Fist: Social Movements and Market Legitimacy. *Journal of Economic Behavior & Organization*. [Download](https://www.dropbox.com/scl/fi/gqvbgmgf2midszre44cyf/The-Invisible-Hand-Meets-the-Raised-Fist.pdf?rlkey=fg7jdpiv4w9xlw5tgoyl66j4s&st=0bttotm2&dl=0)
 
-7. Nepal, T., & **Shakya, S.** (2025). Scope-of-practice regulations and physician assistant inter-state mobility. *Journal of Labor Research*. [Download](https://www.dropbox.com/scl/fi/tqgnrk9fxrvznrlokdhmk/Shakya-Scope-of-Practice-Regulations-and-Physician-Assistant-Inter-State-Practice-Relocation.pdf?rlkey=usoy1gpnm952ocwktug0tcoac&st=ahe0oxz0&dl=0)
+7. Ammons, J., **Shakya, S.**, & Callais, J. T. (2025). What do women get from a successful revolution? *Journal of Institutional Economics*. [Download](https://www.dropbox.com/scl/fi/691ysf6zimszgb1b3wscz/what-do-women-get-from-a-successful-revolution.pdf?rlkey=1yebirjrvyaq7yl2jt8mdf0ob&st=5rhg36b8&dl=0)
 
-8. Sugg, M., **Shakya, S.**, Ulrich, S., Runkle, J., & Tyson, J. (2025). Mapping maternity care deserts: Driving distance and health outcomes in North Carolina. *The Journal of Rural Health*. DOI: 10.1111/jrh.70020. (NRHA Article of the Year, 2026.) [Download](https://www.dropbox.com/scl/fi/6vupzn4iwu2jzzl4gnhtc/The-Journal-of-Rural-Health-2025-Sugg-Mapping-maternity-care-deserts-Driving-distance-and-health-outcomes-in-North.pdf?rlkey=zia9y7p4vinyz5uc72q0lzuct&st=g5om58hn&dl=0)
+8. Hodges, C. & **Shakya, S.** (2025). Prescription opioid spillovers: Retail pharmacies level analysis. *Journal of Substance Use and Addiction Treatment*. [Download](https://www.dropbox.com/scl/fi/sto4f3852u4mbzur56ih1/Prescription-opioid-spillovers_-Retail-pharmacy-level-analysis.pdf?rlkey=mb52o2583pgs17660hkd7d5ke&st=afw12tku&dl=0)
 
-9. **Shakya, S.**, Nepal, T., Mathew, M., & Timmons, E. (2024). Anti-maintenance of certification and elderly physician supply. *Economics Letters*. [Download](https://www.dropbox.com/scl/fi/fqb0916bkwk97m4we1riz/Anti-maintenance-of-certification-and-elderly-physician-supply.pdf?rlkey=2qqz14u2x47qfjy7ravd7d0o7&st=r1x2agmo&dl=0)
+9. Nepal, T., & **Shakya, S.** (2025). Scope-of-practice regulations and physician assistant inter-state mobility. *Journal of Labor Research*. [Download](https://www.dropbox.com/scl/fi/tqgnrk9fxrvznrlokdhmk/Shakya-Scope-of-Practice-Regulations-and-Physician-Assistant-Inter-State-Practice-Relocation.pdf?rlkey=usoy1gpnm952ocwktug0tcoac&st=ahe0oxz0&dl=0)
 
-10. **Shakya, S.**, & Plemmons, A. (2024). Scope of practice and opioid prescribing behavior of nurse practitioners serving Medicare beneficiaries. *Health Economics*. [Download](https://www.dropbox.com/scl/fi/wfmbm1mc9hqyzhkqp9rxh/Shakya-Plemmons-HE-2024.pdf?rlkey=nlb07mwl20nsox976xla7inhg&st=kp9of3qz&dl=0)
+10. Sugg, M., **Shakya, S.**, Ulrich, S., Runkle, J., & Tyson, J. (2025). Mapping maternity care deserts: Driving distance and health outcomes in North Carolina. *The Journal of Rural Health*. DOI: 10.1111/jrh.70020. (NRHA Article of the Year, 2026.) [Download](https://www.dropbox.com/scl/fi/6vupzn4iwu2jzzl4gnhtc/The-Journal-of-Rural-Health-2025-Sugg-Mapping-maternity-care-deserts-Driving-distance-and-health-outcomes-in-North.pdf?rlkey=zia9y7p4vinyz5uc72q0lzuct&st=g5om58hn&dl=0)
+
+11. **Shakya, S.**, Nepal, T., Mathew, M., & Timmons, E. (2024). Anti-maintenance of certification and elderly physician supply. *Economics Letters*. [Download](https://www.dropbox.com/scl/fi/fqb0916bkwk97m4we1riz/Anti-maintenance-of-certification-and-elderly-physician-supply.pdf?rlkey=2qqz14u2x47qfjy7ravd7d0o7&st=r1x2agmo&dl=0)
+
+12. **Shakya, S.**, & Plemmons, A. (2024). Scope of practice and opioid prescribing behavior of nurse practitioners serving Medicare beneficiaries. *Health Economics*. [Download](https://www.dropbox.com/scl/fi/wfmbm1mc9hqyzhkqp9rxh/Shakya-Plemmons-HE-2024.pdf?rlkey=nlb07mwl20nsox976xla7inhg&st=kp9of3qz&dl=0)
 
 11. Scarcioffolo, A., Mugabe, D., & **Shakya, S.** (2024). Stuck in the middle: The conundrum of firms' responsiveness to environmental policy in shale production. *Applied Economics Letters*. [Download](https://www.dropbox.com/scl/fi/w5kh21t0f5q2uiqjpei98/Stuck-in-the-middle-the-conundrum-of-firms-responsiveness-to-environmental-policy-in-shale-production.pdf?rlkey=j0hb5mevqm08lm11dp9zjscdn&dl=0)
 
@@ -85,3 +89,4 @@ title: All publications
 39. **Shakya, S.**, Nepal, R., & Sharma, K. (2018). Electricity consumption and economic growth: empirical evidence from a resource-rich landlocked economy. *International Journal of Global Energy Issues*, 41(5-6):226-247. [Download](https://www.inderscience.com/offers.php?id=97139)
 
 40. **Shakya, S.** & Lama, N. (2016). Possible decision rules to allocate quotas and reservations to ensure equity for Nepalese poor. *Economic Journal of Development Issues*, 17(1-2):149-162. [Download](https://www.dropbox.com/scl/fi/bex13j7asy4007n51h3ex/11801.pdf?rlkey=56d65l8c3aw93ehwcw3z98f4c&dl=0)
+

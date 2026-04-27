@@ -26,7 +26,7 @@ thumbnail: book/images/headshot.webp
     <div class="intro-story-cell"><img src="book/images/usa.avif" alt="United States" width="36" height="36" /></div>
     <div class="intro-story-cell"><img src="book/images/aim-ahead.png" alt="NIH AIM-AHEAD Bridge2AI" width="36" height="36" /></div>
     <div class="intro-story-cell"><img src="book/images/agentic-ai.png" alt="Agentic AI" width="36" height="36" /></div>
-    <div class="intro-story-cell"><img src="book/images/F3-logo.jpg" alt="F3" width="36" height="36" /></div>
+    <div class="intro-story-cell intro-story-cell--empty" aria-hidden="true"></div>
     <div class="intro-story-cell intro-story-cell--empty" aria-hidden="true"></div>
   </div>
 </div>
@@ -34,11 +34,15 @@ thumbnail: book/images/headshot.webp
 
 :::{grid-item}
 :columns: 8
-I am an applied economist. My work combines health economics, institutional economics, and teaching and education: I study how rules and markets shape health care providers' labor markets, licensing and scope of practice, and health outcomes, using causal inference and policy evaluation. I also work on substance use disorder and related policy (treatment access, certificate-of-need and supply-side regulation, and opioid and prescription-monitoring systems), and on generative AI and assessment design for learning at scale.
+I am an applied economist working at the intersection of health economics, institutional economics, and economics education. I study how regulation and market structure shape healthcare labor markets, licensing and scope of practice, and patient outcomes, using causal inference and policy evaluation.
 
-I am a research fellow of the [Knee Center for the Study of Occupational Regulation](https://knee.wvu.edu/) at West Virginia University and a research fellow at the [Archbridge Institute](https://www.archbridgeinstitute.org/). Through the National Institutes of Health I contribute to AIM-AHEAD Bridge2AI: I was a research fellow in the Clinical Care Training Program, and I am a mentor for the AI-READI and CLINAQ fellowship programs.
+I also examine substance use disorder policy, including treatment access, certificate-of-need laws, and opioid and prescription-monitoring systems.
 
-Beyond journal articles, I write policy briefs and evidence products for foundations, policy institutes, and state audiences. Methods, tools, and software are summarized on the [Technical expertise](book/cv/technical-expertise.md) page of the [CV](book/cv/index.md). I pursue external funding and help convene collaborators through grants and conferences. Research and commentary have appeared in outlets such as Modern Healthcare and the Deseret News, among others.
+In addition, I study generative AI and assessment design for learning at scale.
+
+I am a research fellow at the [Archbridge Institute](https://www.archbridgeinstitute.org/). Through the National Institutes of Health I contribute to AIM-AHEAD Bridge2AI: I was a research fellow in the Clinical Care Training Program, and I am a mentor for the AI-READI and CLINAQ fellowship programs.
+
+Beyond journal articles, I write policy briefs and evidence products for foundations, policy institutes, and state audiences. You can find my [CV](book/cv/index.md).
 :::
 
 ::::
