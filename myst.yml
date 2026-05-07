@@ -67,6 +67,17 @@ project:
         - title: Mostly Handsdirty Metrics
           url: https://mhdm.netlify.app/
 
+    - title: Projects
+      children:
+        - title: WCOB AI Working Group
+          url: https://huggingface.co/spaces/shishirshakya/wcob-ai-wg
+        - title: US State AI Laws
+          url: https://huggingface.co/spaces/shishirshakya/ai-state-laws
+        - title: Court Opinions on CON Law
+          url: https://huggingface.co/spaces/shishirshakya/con-law-court-opinions
+        - title: AI-powered Scalable Online Oral Exam
+          url: https://mymeritguide.com/
+
 site:
   options:
     logo: logo.png
