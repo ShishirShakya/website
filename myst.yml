@@ -70,7 +70,7 @@ project:
     - title: Projects
       children:
         - title: WCOB AI Working Group
-          url: https://huggingface.co/spaces/shishirshakya/wcob-ai-wg
+          url: https://shishirshakya-wcob-ai-wg.hf.space
         - title: US State AI Laws
           url: https://huggingface.co/spaces/shishirshakya/ai-state-laws
         - title: Court Opinions on CON Law
