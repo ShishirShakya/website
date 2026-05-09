@@ -69,16 +69,12 @@ project:
 
     - title: Projects
       children:
-        - title: WCOB AI Working Group
-          url: https://shishirshakya-wcob-ai-wg.hf.space
-        - title: US State AI Laws
-          url: https://huggingface.co/spaces/shishirshakya/ai-state-laws
-        - title: Court Opinions on CON Law
-          url: https://huggingface.co/spaces/shishirshakya/con-law-court-opinions
-        - title: AI-powered Scalable Online Oral Exam
-          url: https://mymeritguide.com/
-        - title: US Immigration Narratives
-          url: https://shishirshakya-us-immigration-wiki-llm.hf.space
+        - file: book/projects/index.md
+        - file: book/projects/wcob-ai-wg.md
+        - file: book/projects/us-state-ai-laws.md
+        - file: book/projects/con-court-opinions.md
+        - file: book/projects/oral-exam-mymerits.md
+        - file: book/projects/us-immigration-narratives.md
 
 site:
   options:

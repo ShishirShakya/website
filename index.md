@@ -75,7 +75,7 @@ NRHA Article of the Year 2025: Journal of Rural Health (maternity care deserts)
 :::
 
 :::{card}
-:link: https://mymeritguide.com
+:link: book/projects/oral-exam-mymerits.md
 ![MyMeritGuide](book/images/mmg.png)
 +++
 MyMeritGuide: founding engineer, FERPA-aware, AI-assisted oral exams and learning validation
