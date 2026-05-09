@@ -11,6 +11,8 @@ project:
     - '**.ipynb_checkpoints'
     - PMP
     - MHDE
+    - book/projects/wcob-ai-wg.md
+    - book/projects/index.md
   # Omit repo link in article frontmatter (no GitHub badge on pages).
   github: null
   # thebe:
@@ -69,8 +71,6 @@ project:
 
     - title: Projects
       children:
-        - file: book/projects/index.md
-        - file: book/projects/wcob-ai-wg.md
         - file: book/projects/us-state-ai-laws.md
         - file: book/projects/con-court-opinions.md
         - file: book/projects/oral-exam-mymerits.md

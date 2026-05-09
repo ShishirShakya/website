@@ -1,9 +1,9 @@
 ---
 title: US Immigration Narratives
-description: LLM-assisted exploration of narratives around US immigration themes.
+description: Citation-grounded wiki and chat over US immigrant integration research for a subgroup-conditional narrative.
 ---
 
-**US Immigration Narratives** is an interactive wiki-style experience built around immigration-related topics. It uses an LLM-backed interface on Hugging Face Spaces so visitors can explore curated narrative threads and prompts.
+Pro- and anti-immigration advocacy too often present immigrants as a monolith. Decades of US research show immigrants follow very different paths into American civic life: some thrive, some get blocked, and some succeed economically yet never feel at home. I extend insight on dispersed knowledge to scholarly synthesis itself, building a publicly accessible wiki-LLM that has ingested 200+ peer-reviewed papers on US immigrant integration. A citation-grounded chat interface aggregates findings on demand and crowdsources research questions from the public, turning literature review into open epistemic infrastructure rather than a centralized authority claim. The result is a subgroup-conditional pro-immigration narrative that honors classical liberal commitments while owning the heterogeneity uniform advocacy obscures.
 
 <div class="project-launch-wrap">
 <a class="project-launch-btn" href="https://shishirshakya-us-immigration-wiki-llm.hf.space" target="_blank" rel="noopener noreferrer">Open the live app</a>
