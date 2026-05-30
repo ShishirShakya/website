@@ -52,6 +52,7 @@ Beyond journal articles, I write policy briefs and evidence products for foundat
 ## Featured links
 
 ::::{grid} 2 2 4 4
+:class: featured-links-grid
 
 :::{card}
 :link: https://scholar.google.com/citations?user=mvYtqK8AAAAJ&hl=en
@@ -79,6 +80,32 @@ NRHA Article of the Year 2025: Journal of Rural Health (maternity care deserts)
 ![MyMeritGuide](book/images/mmg.png)
 +++
 MyMeritGuide: founding engineer, FERPA-aware, AI-assisted oral exams and learning validation
+:::
+
+:::{card}
+:link: https://www.youtube.com/watch?v=bqY-9tUCJ7o
+![Ignite Resilience: Shishir Shakya](https://i.ytimg.com/vi/bqY-9tUCJ7o/hqdefault.jpg)
++++
+Ignite Resilience: interview with Trish Oxford (YouTube)
+:::
+
+:::{card}
+:link: https://youtu.be/qmMgv7sdLA4?t=109
+![Human Progress and Flourishing Workshop](https://i.ytimg.com/vi/qmMgv7sdLA4/hqdefault.jpg)
++++
+Challey Institute: Human Progress and Flourishing Workshop (YouTube)
+:::
+
+:::{card}
+&nbsp;
++++
+&nbsp;
+:::
+
+:::{card}
+&nbsp;
++++
+&nbsp;
 :::
 
 ::::

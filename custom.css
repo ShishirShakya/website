@@ -208,3 +208,25 @@ a.project-launch-btn:hover {
 .project-launch-url code {
   font-size: 0.85rem;
 }
+
+/* Homepage Featured links: reserved empty card slots (7 and 8) in 2x4 grid */
+.featured-links-grid > *:nth-child(7),
+.featured-links-grid > *:nth-child(8) {
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+.featured-links-grid > *:nth-child(7) .myst-card,
+.featured-links-grid > *:nth-child(8) .myst-card,
+.featured-links-grid > *:nth-child(7).myst-card,
+.featured-links-grid > *:nth-child(8).myst-card {
+  border-style: dashed;
+}
+
+.featured-links-grid > *:nth-child(7) .myst-card-body,
+.featured-links-grid > *:nth-child(8) .myst-card-body,
+.featured-links-grid > *:nth-child(7) .myst-card-footer,
+.featured-links-grid > *:nth-child(8) .myst-card-footer {
+  visibility: hidden;
+  min-height: 3rem;
+}
