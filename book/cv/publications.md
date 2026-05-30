@@ -2,7 +2,7 @@
 title: All publications
 ---
 
-<!-- Themed lists (healthcare, substance use disorder, institutional, education) in the site TOC are generated from this file. After edits, run: `python scripts/generate_publications_md.py` -->
+<!-- Themed lists (healthcare, SUD, institutional, education, veterans health, strategic analysis) in the site TOC are generated from this file. After edits, run: `python scripts/generate_publications_md.py` -->
 
 # All publications
 

@@ -26,55 +26,56 @@ project:
   toc:
     - file: index.md
 
-    - title: CV
+    - file: book/cv/index.md
+
+    - title: Publications
       children:
-        - file: book/cv/index.md
+        - file: book/cv/publications.md
+        - file: book/cv/publications-healthcare-labor-economics.md
+        - file: book/cv/publications-substance-use-disorder.md
+        - file: book/cv/publications-institutional-economics.md
+        - file: book/cv/publications-education-teaching-economics.md
+        - file: book/cv/publications-veterans-health.md
+        - file: book/cv/publications-strategic-analysis.md
+        - file: book/cv/revise-and-resubmit.md
+        - file: book/cv/under-review.md
+        - file: book/cv/current-projects.md
+        - file: book/cv/book-chapters.md
+        - file: book/cv/policy-briefs.md
+        - file: book/cv/op-eds-and-popular-writing.md
 
-        - title: Publications
-          children:
-            - file: book/cv/publications.md
-            - file: book/cv/publications-healthcare-labor-economics.md
-            - file: book/cv/publications-substance-use-disorder.md
-            - file: book/cv/publications-institutional-economics.md
-            - file: book/cv/publications-education-teaching-economics.md
-            - file: book/cv/revise-and-resubmit.md
-            - file: book/cv/under-review.md
-            - file: book/cv/current-projects.md
-            - file: book/cv/book-chapters.md
-            - file: book/cv/books-under-development.md
-            - file: book/cv/policy-briefs.md
-            - file: book/cv/op-eds-and-popular-writing.md
+    - title: Professional Experience
+      children:
+        - file: book/cv/academic-positions-and-teaching.md
+        - file: book/cv/research-affiliations.md
+        - file: book/cv/education.md
 
-        - title: Professional Experience
-          children:
-            - file: book/cv/academic-positions-and-teaching.md
-            - file: book/cv/research-affiliations.md
-            - file: book/cv/education.md
+    - title: Funding & Recognition
+      children:
+        - file: book/cv/external-funding.md
+        - file: book/cv/internal-grants.md
+        - file: book/cv/awards.md
 
-        - title: Funding & Recognition
-          children:
-            - file: book/cv/external-funding.md
-            - file: book/cv/internal-grants.md
-            - file: book/cv/awards.md
+    - title: Engagement & Service
+      children:
+        - file: book/cv/presentations.md
+        - file: book/cv/media-coverage.md
+        - file: book/cv/service.md
+        - file: book/cv/mentorship.md
 
-        - title: Engagement & Service
-          children:
-            - file: book/cv/presentations.md
-            - file: book/cv/media-coverage.md
-            - file: book/cv/service.md
-            - file: book/cv/mentorship.md
-
-        - title: Technical Expertise
-          children:
-            - file: book/cv/technical-expertise.md
-            - file: book/cv/research-software-and-web-platforms.md
+    - title: Technical Expertise
+      children:
+        - file: book/cv/technical-expertise.md
+        - file: book/cv/research-software-and-web-platforms.md
 
     - title: Books
       children:
         - title: Mostly Handsdirty Metrics
           url: https://mhdm.netlify.app/
+        - title: Applied Business Statistics with NOAA Data & Agentic-AI
+          url: https://econ2200.netlify.app/
 
-    - title: Projects
+    - title: Agentic-AI Projects
       children:
         - file: book/projects/us-state-ai-laws.md
         - file: book/projects/con-court-opinions.md

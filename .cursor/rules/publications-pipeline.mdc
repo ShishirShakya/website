@@ -7,7 +7,8 @@ alwaysApply: false
 # Publications split pipeline
 
 - **Source of truth:** `book/cv/publications.md` (the numbered list under `# Publications`). Generated files must start with YAML frontmatter (`---` on line 1). Do not put an HTML comment above the first `---`, or MyST will not parse `title` and will show `title: ...` on the page.
-- **Generated (do not edit by hand):** `book/cv/publications-healthcare-labor-economics.md`, `book/cv/publications-substance-use-disorder.md`, `book/cv/publications-institutional-economics.md`, `book/cv/publications-education-teaching-economics.md`. They are produced by `scripts/generate_publications_md.py` and are checked in pre-commit and CI.
+- **Generated (do not edit by hand):** `book/cv/publications-healthcare-labor-economics.md`, `book/cv/publications-substance-use-disorder.md`, `book/cv/publications-institutional-economics.md`, `book/cv/publications-education-teaching-economics.md`, `book/cv/publications-veterans-health.md`, `book/cv/publications-strategic-analysis.md`. They are produced by `scripts/generate_publications_md.py` and are checked in pre-commit and CI.
+- **Veterans Health** and **Strategic Analysis** are overlapping filters (not exclusive with the four primary themes). Adjust `VETERANS_HEALTH_KEYWORDS` and `STRATEGIC_ANALYSIS_KEYWORDS` in the script if classification is wrong.
 - After editing `publications.md` or the script, run:
 
 ```bash

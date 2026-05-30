@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """
-Generate themed publication pages from book/cv/publications.md (four themes).
+Generate themed publication pages from book/cv/publications.md.
+
+Four exclusive themes (healthcare, SUD, institutional, education) plus two
+overlapping reserve-relevant filters (veterans health, strategic analysis).
 
 Usage:
     python scripts/generate_publications_md.py          # Generate files
@@ -98,6 +101,27 @@ EDUCATION_KEYWORDS = [
     'learning', 'assessment', 'exam', 'classroom'
 ]
 
+# Overlapping filters (items may also appear in a primary theme above).
+VETERANS_HEALTH_KEYWORDS = [
+    'military spouse',
+    'military base',
+    'military bases',
+    'veterans health administration',
+    'veterans health',
+]
+
+STRATEGIC_ANALYSIS_KEYWORDS = [
+    'covert regime change',
+    'regime change and ideology',
+    'successful revolution',
+    'revolutions and corruption',
+    'social movements',
+    'market legitimacy',
+    'reproducibility of the social',
+    'replicability of the social',
+    'score project',
+]
+
 # When scores tie, pick the first in this list (specific themes before broad).
 _TIE_PRIORITY = ['sud', 'education', 'healthcare', 'institutional']
 
@@ -159,6 +183,17 @@ def categorize_publications(publications: List[str]) -> Dict[str, List[str]]:
 
     return categorized
 
+
+def filter_publications(publications: List[str], keywords: List[str]) -> List[str]:
+    """Return publications whose text matches any keyword (overlap allowed)."""
+    matched: List[str] = []
+    for pub in publications:
+        text_lower = pub.lower()
+        if any(kw in text_lower for kw in keywords):
+            matched.append(pub)
+    return matched
+
+
 def generate_category_file(category: str, publications: List[str], output_path: Path):
     """Generate a themed publication markdown file"""
 
@@ -167,6 +202,8 @@ def generate_category_file(category: str, publications: List[str], output_path: 
         'sud': 'Substance Use Disorder',
         'institutional': 'Institutional Economics',
         'education': 'Education and Teaching Economics',
+        'veterans_health': 'Veterans Health',
+        'strategic_analysis': 'Strategic Analysis',
     }
 
     t = titles[category]
@@ -213,18 +250,23 @@ def main():
     publications = parse_publications(content)
     categorized = categorize_publications(publications)
 
+    veterans_health = filter_publications(publications, VETERANS_HEALTH_KEYWORDS)
+    strategic_analysis = filter_publications(publications, STRATEGIC_ANALYSIS_KEYWORDS)
+
     # Generate files
-    files = {
-        'healthcare': output_dir / 'publications-healthcare-labor-economics.md',
-        'sud': output_dir / 'publications-substance-use-disorder.md',
-        'institutional': output_dir / 'publications-institutional-economics.md',
-        'education': output_dir / 'publications-education-teaching-economics.md',
+    files: Dict[str, tuple[Path, List[str]]] = {
+        'healthcare': (output_dir / 'publications-healthcare-labor-economics.md', categorized['healthcare']),
+        'sud': (output_dir / 'publications-substance-use-disorder.md', categorized['sud']),
+        'institutional': (output_dir / 'publications-institutional-economics.md', categorized['institutional']),
+        'education': (output_dir / 'publications-education-teaching-economics.md', categorized['education']),
+        'veterans_health': (output_dir / 'publications-veterans-health.md', veterans_health),
+        'strategic_analysis': (output_dir / 'publications-strategic-analysis.md', strategic_analysis),
     }
 
     if check_mode:
         # Check if files are up-to-date
         all_match = True
-        for category, filepath in files.items():
+        for category, (filepath, pubs) in files.items():
             if not filepath.exists():
                 print(f"Error: {filepath} does not exist")
                 all_match = False
@@ -233,7 +275,7 @@ def main():
             # Generate expected content
             import tempfile
             temp_path = Path(tempfile.mktemp())
-            generate_category_file(category, categorized[category], temp_path)
+            generate_category_file(category, pubs, temp_path)
             expected = temp_path.read_text(encoding='utf-8')
             actual = filepath.read_text(encoding='utf-8')
             temp_path.unlink()
@@ -249,8 +291,8 @@ def main():
             print("All publication files are up-to-date")
     else:
         # Generate files
-        for category, filepath in files.items():
-            generate_category_file(category, categorized[category], filepath)
+        for category, (filepath, pubs) in files.items():
+            generate_category_file(category, pubs, filepath)
             print(f"Generated: {filepath}")
 
 if __name__ == '__main__':
