@@ -6,5 +6,6 @@ title: Revise and resubmit
 
 1. Bailey, J., & **Shakya, S.** (n.d.). The impact of repealing Certificate-of-Need laws on healthcare spending: A causal analysis. *Health Economics*.
 2. **Shakya, S.** and Ammons, J. (n.d.). The deep roots of revolution: Folklore and revolts. *Journal of Public Finance and Public Choice*.
-3. Ammons, J., Shakya, G., & **Shakya, S.** (n.d.). Town, Gown, and Touchdowns: How Athletic Reclassification Shapes Local Entrepreneurial Ecosystems. *Journal of Business Venturing Insights*.
-4. **Shakya, S.**, Ammons, J., & Mahmood, T. (n.d.). The Development Costs of Revolution: Evidence from Violent and Nonviolent Transitions. *Kyklos*.
+3. **Shakya, S.**, Ammons, J., & Mahmood, T. (n.d.). The Development Costs of Revolution: Evidence from Violent and Nonviolent Transitions. *Kyklos*.
+4. Kanimian, S. & **Shakya, S.** (n.d.). Ripple Effects by Ownership Types: Impact of Hospital Closures on Charges and Profitability. *Eastern Economic Journal*.
+5. **Shakya, S.**, Morgan, A., Orozco, E., & Timmons, E. (n.d.). Healthcare Policy Spillovers: Impact on Nurse Practitioners and Health Outcomes in North Carolina. *Journal of Regulatory Economics*. [Download](https://ssrn.com/abstract=6064866)

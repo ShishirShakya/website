@@ -69,6 +69,13 @@ title: Presentations
 ## Conference presentations
 
 - Multiple papers presentation, discussants of multiple papers, and session chairs.
+- Idea-to-Impact Collider Workshop & Reception, Boone, NC (May 2026)
+- Workshop in Experimental & Environmental Economics, Boone, NC (Apr 2026)
+- Human Progress & Flourishing Workshop presentation, Challey Institute for Global Innovation, Fargo, ND (Apr 2026)
+- Appalachian Research in Business Symposium (ARBS), Boone, NC (Apr 2026)
+- Public Choice Society Annual Meetings, San Antonio, TX (Mar 2026)
+- Mountains to Coast Flood Resiliency Collider, Wilmington, NC (Feb 2026)
+- Southern Economic Association (SEA), Tampa, FL (Nov 2025)
 - Flourishing and the Future Conference, Boone, NC (Aug 2025)
 - 2025 AIM-AHEAD Annual Meeting, Fort Worth, TX (Jul 2025)
 - Bridge2AI All Hands Conference, Rockville, MD (May 2025)

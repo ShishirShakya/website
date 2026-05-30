@@ -8,7 +8,7 @@ title: Education and Teaching Economics
 
 2. Tyner, A., ..., **Shakya, S.**, ... et al. (2026). Investigating the replicability of the social and behavioural sciences. *Nature*. [Download](https://osf.io/preprints/metaarxiv/b7x8f)
 
-3. Babaei-Balderlou, S. and **Shakya, S.** (2026). The Invisible Hand of Gen-AI: Can AI-Enhanced Study Groups Improve Learning Outcomes? *The Journal of Economic Education*.
+3. Babaei-Balderlou, S. and **Shakya, S.** (2026). The Invisible Hand of Gen-AI: Can AI-Enhanced Study Groups Improve Learning Outcomes? *The Journal of Economic Education*. *Forthcoming*.
 
 4. **Shakya, S.**, & Levinstein, M. (2024). Grading policy, email nudges, and grade outcomes. *The Journal of Economic Education*. [Download](https://www.dropbox.com/scl/fi/o9seuixtlkn74xdnzljcw/Grading-policy-email-nudges-and-grade-outcomes.pdf?rlkey=i1k0jzv8h55txa5625x35ik1g&dl=0)
 

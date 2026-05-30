@@ -37,7 +37,11 @@ project:
             - file: book/cv/publications-substance-use-disorder.md
             - file: book/cv/publications-institutional-economics.md
             - file: book/cv/publications-education-teaching-economics.md
+            - file: book/cv/revise-and-resubmit.md
+            - file: book/cv/under-review.md
+            - file: book/cv/current-projects.md
             - file: book/cv/book-chapters.md
+            - file: book/cv/books-under-development.md
             - file: book/cv/policy-briefs.md
             - file: book/cv/op-eds-and-popular-writing.md
 
@@ -63,6 +67,7 @@ project:
         - title: Technical Expertise
           children:
             - file: book/cv/technical-expertise.md
+            - file: book/cv/research-software-and-web-platforms.md
 
     - title: Books
       children:
