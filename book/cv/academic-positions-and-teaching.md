@@ -16,4 +16,3 @@ title: Academic positions and teaching
   - Elementary Business and Economic Statistics
   - Principles of Macroeconomics
 - **Graduate Research Assistant**: Regional Research Institute (RRI), WVU (2016-2018)
-- **Economic Consultant**: National Planning Commission, Nepal (2016)
