@@ -26,7 +26,7 @@ thumbnail: book/images/headshot.webp
     <div class="intro-story-cell"><img src="book/images/usa.avif" alt="United States" width="36" height="36" /></div>
     <div class="intro-story-cell"><img src="book/images/aim-ahead.png" alt="NIH AIM-AHEAD Bridge2AI" width="36" height="36" /></div>
     <div class="intro-story-cell"><img src="book/images/agentic-ai.png" alt="Agentic AI" width="36" height="36" /></div>
-    <div class="intro-story-cell intro-story-cell--empty" aria-hidden="true"></div>
+    <div class="intro-story-cell"><img src="book/images/F3-logo.jpg" alt="Flourishing and the Future" width="36" height="36" /></div>
     <div class="intro-story-cell intro-story-cell--empty" aria-hidden="true"></div>
   </div>
 </div>
@@ -36,11 +36,9 @@ thumbnail: book/images/headshot.webp
 :columns: 8
 I am an applied economist working at the intersection of health economics, institutional economics, and economics education. I study how regulation and market structure shape healthcare labor markets, licensing and scope of practice, and patient outcomes, using causal inference and policy evaluation.
 
-I also examine substance use disorder policy, including treatment access, certificate-of-need laws, and opioid and prescription-monitoring systems.
+I also examine substance use disorder policy, including treatment access, certificate-of-need laws, and opioid and prescription-monitoring systems. In parallel, I study generative AI and assessment design for learning at scale, and I am Founding Engineer of [MyMeritGuide](https://mymeritguide.com/), an agentic-AI platform for authentic oral assessment.
 
-In addition, I study generative AI and assessment design for learning at scale.
-
-I am a research fellow at the [Archbridge Institute](https://www.archbridgeinstitute.org/). Through the National Institutes of Health I contribute to AIM-AHEAD Bridge2AI: I was a research fellow in the Clinical Care Training Program, and I am a mentor for the AI-READI and CLINAQ fellowship programs.
+I am a Research Affiliate at the [Knee Regulatory Research Center](https://knee.wvu.edu/contact-us/research-affiliates) at West Virginia University, a Nonresident Scholar at the [Sheila and Robert Challey Institute for Global Innovation and Growth](https://www.ndsu.edu/challeyinstitute/), and a Research Fellow at the [Archbridge Institute](https://www.archbridgeinstitute.org/). Through the National Institutes of Health I contribute to AIM-AHEAD Bridge2AI: I was a research fellow in the Clinical Care Training Program, and I am a mentor for the AI-READI and CLINAQ fellowship programs.
 
 Beyond journal articles, I write policy briefs and evidence products for foundations, policy institutes, and state audiences. You can find my [CV](book/cv/index.md).
 :::

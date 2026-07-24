@@ -10,11 +10,11 @@ title: All publications
 
 2. Tyner, A., ..., **Shakya, S.**, ... et al. (2026). Investigating the replicability of the social and behavioural sciences. *Nature*. [Download](https://osf.io/preprints/metaarxiv/b7x8f)
 
-3. Kanimian, S. & **Shakya, S.** (2026). When a Neighbor Closes: Ownership and Hospital Profits. *Eastern Economic Journal*. *Forthcoming*.
+3. Kanimian, S. & **Shakya, S.** (2026). When a Neighbor Closes: Ownership and Hospital Profits. *Eastern Economic Journal*. [Download](https://www.dropbox.com/scl/fi/izdybn3pgfkd99rbhtvgk/Kanimian_et_al-2026-Eastern_Economic_Journal.pdf?rlkey=ygyw1k05nr4mvn3n068riofai&st=dcq24u4y&dl=0)
 
 4. Ammons, J. & **Shakya, S.** (2026). Town, Gown, and Touchdowns: How Athletic Reclassification Shapes Local Entrepreneurial Ecosystems. *Journal of Business Venturing Insights*. [Download](https://www.dropbox.com/scl/fi/n7k1dozqmkxtganwn7jtv/TownGownAndTouchdowns.pdf?rlkey=c9q3ubh1jhvlvi0aawxc4mvl8&st=5vlwa84s&dl=0)
 
-5. **Shakya, S.** and Roy, A. (2026). Access to mental health care services and suicide rates in the United States. *Journal of Policy Analysis and Management*. *Forthcoming*.
+5. **Shakya, S.** and RoyChoudhury, A. (2026). Access to mental health care services and suicide rates in the United States. *Journal of Policy Analysis and Management*. [Download](https://www.dropbox.com/scl/fi/99w08a9akb5vjf1k04ffe/Access-to-Mental-Health-Care-Services-and-Suicide-Rates-in-the-United-States.pdf?rlkey=8g8o5yqhd95o20c9pvzth7npu&st=grdkwgzq&dl=0)
 
 6. Babaei-Balderlou, S. and **Shakya, S.** (2026). The Invisible Hand of Gen-AI: Can AI-Enhanced Study Groups Improve Learning Outcomes? *The Journal of Economic Education*. *Forthcoming*.
 
@@ -26,7 +26,7 @@ title: All publications
 
 10. Hodges, C. & **Shakya, S.** (2025). Prescription opioid spillovers: Retail pharmacy-level analysis. *Journal of Substance Use and Addiction Treatment*. [Download](https://www.dropbox.com/scl/fi/sto4f3852u4mbzur56ih1/Prescription-opioid-spillovers_-Retail-pharmacy-level-analysis.pdf?rlkey=mb52o2583pgs17660hkd7d5ke&st=afw12tku&dl=0)
 
-11. Nepal, T., & **Shakya, S.** (2025). Scope-of-practice regulations and physician assistant inter-state mobility. *Journal of Labor Research*. [Download](https://www.dropbox.com/scl/fi/tqgnrk9fxrvznrlokdhmk/Shakya-Scope-of-Practice-Regulations-and-Physician-Assistant-Inter-State-Practice-Relocation.pdf?rlkey=usoy1gpnm952ocwktug0tcoac&st=ahe0oxz0&dl=0)
+11. Nepal, T., & **Shakya, S.** (2025). Scope-of-Practice Regulations and Physician Assistant Inter-State Practice Relocation. *Journal of Labor Research*. [Download](https://www.dropbox.com/scl/fi/tqgnrk9fxrvznrlokdhmk/Shakya-Scope-of-Practice-Regulations-and-Physician-Assistant-Inter-State-Practice-Relocation.pdf?rlkey=usoy1gpnm952ocwktug0tcoac&st=ahe0oxz0&dl=0)
 
 12. Sugg, M., **Shakya, S.**, Ulrich, S., Runkle, J., & Tyson, J. (2025). Mapping maternity care deserts: Driving distance and health outcomes in North Carolina. *The Journal of Rural Health*. DOI: 10.1111/jrh.70020. (NRHA Article of the Year, 2026.) [Download](https://www.dropbox.com/scl/fi/6vupzn4iwu2jzzl4gnhtc/The-Journal-of-Rural-Health-2025-Sugg-Mapping-maternity-care-deserts-Driving-distance-and-health-outcomes-in-North.pdf?rlkey=zia9y7p4vinyz5uc72q0lzuct&st=g5om58hn&dl=0)
 
