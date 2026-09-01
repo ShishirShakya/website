@@ -37,6 +37,12 @@ jobs:
       - name: Build HTML Assets
         run: myst build --html
 
+      # Direct download URLs (not in TOC), e.g. /files/MessyData.xlsx
+      - name: Copy static download files
+        run: |
+          cp -r files _build/html/files
+          test -f _build/html/files/MessyData.xlsx
+
       # - name: Deploy to Netlify
       #   uses: nwtgck/actions-netlify@v3.0
       #   with:

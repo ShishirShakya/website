@@ -34,6 +34,10 @@ jobs:
       - name: Build HTML Assets
         run: myst build --html
 
+      # Direct download URLs (not in TOC), e.g. /files/MessyData.xlsx
+      - name: Copy static download files
+        run: cp -r files _build/html/files
+
       # If a push is "denied to github-actions[bot]", GH_PAGES_DEPLOY_TOKEN was
       # empty; GITHUB_TOKEN cannot push to another repository.
       - name: Check deploy secret is set
