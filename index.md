@@ -49,7 +49,6 @@ Beyond journal articles, I write policy briefs and evidence products for foundat
 ## Featured links
 
 ::::{grid} 2 2 4 4
-:class: featured-links-grid
 
 :::{card}
 :link: https://scholar.google.com/citations?user=mvYtqK8AAAAJ&hl=en
@@ -94,15 +93,17 @@ Challey Institute: Human Progress and Flourishing Workshop (YouTube)
 :::
 
 :::{card}
-&nbsp;
+:link: https://www.youtube.com/watch?v=8XUKn-raeG8
+![Decode Econ: AI in the Classroom](https://i.ytimg.com/vi/8XUKn-raeG8/hqdefault.jpg)
 +++
-&nbsp;
+Decode Econ: AI in the classroom (YouTube)
 :::
 
 :::{card}
-&nbsp;
+:link: https://www.youtube.com/watch?v=q2dXo21SNJQ
+![MyMeritGuide: online oral examination](https://i.ytimg.com/vi/q2dXo21SNJQ/hqdefault.jpg)
 +++
-&nbsp;
+MyMeritGuide: online oral examination (YouTube)
 :::
 
 ::::
