@@ -247,6 +247,12 @@ article.content table,
   font-variant-numeric: tabular-nums;
 }
 
+/* Homepage: frontmatter is the sole hero; tighten gap into the bio grid */
+article:has(.intro-bio-grid) #skip-to-frontmatter {
+  margin-bottom: 1.25rem;
+  padding-top: 1.5rem;
+}
+
 /* Homepage only: WVU mark beside frontmatter title (h1 stays plain text in YAML) */
 article:has(.intro-bio-grid) #skip-to-frontmatter h1.myst-fm-block-title {
   display: inline-flex;
@@ -265,12 +271,12 @@ article:has(.intro-bio-grid) #skip-to-frontmatter h1.myst-fm-block-title::after 
   background: url('book/images/wvu.webp') no-repeat center / contain;
 }
 
-/* Introduction bio grid: native :columns: 4/8 from index.md; avoid equal-height stretch */
+/* Homepage bio grid: native :columns: 4/8 from index.md; avoid equal-height stretch */
 .myst-grid.intro-bio-grid {
   align-items: start;
 }
 
-/* Tagline under headshot: align with h2#introduction .heading-text (book theme / Tailwind-like) */
+/* Tagline under headshot: display weight, stacked roles */
 .intro-bio-grid .intro-tagline {
   display: block;
   margin: 0.75rem 0 0;

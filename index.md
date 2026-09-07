@@ -5,8 +5,6 @@ subtitle: Assistant Professor of Economics, Appalachian State University
 thumbnail: book/images/headshot.webp
 ---
 
-## Introduction
-
 :::: {grid} 1 12 12 12
 :class: intro-bio-grid
 
