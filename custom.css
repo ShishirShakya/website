@@ -1,3 +1,175 @@
+/* Design tokens: white ground, slate ink, teal signal / amber caution.
+   Fonts are self-hosted; CI copies fonts/ to _build/html/fonts (same pattern as files/). */
+
+@font-face {
+  font-family: 'Archivo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/archivo-latin-400-normal.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Archivo';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/fonts/archivo-latin-500-normal.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Archivo';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/fonts/archivo-latin-600-normal.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Archivo';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/fonts/archivo-latin-700-normal.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Source Serif 4';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/source-serif-4-latin-400-normal.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Source Serif 4';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/source-serif-4-latin-400-italic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Source Serif 4';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/fonts/source-serif-4-latin-600-normal.woff2') format('woff2');
+}
+
+:root {
+  --ink: #1b2a33;
+  --ink-soft: #4a5c66;
+  --ground: #ffffff;
+  --panel: #f2f5f6;
+  --rule: #c6d0d5;
+  --signal: #0e7c7b;
+  --signal-deep: #0a5c5b;
+  --caution: #b07400;
+
+  --font-display: 'Archivo', system-ui, sans-serif;
+  --font-body: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --measure: 68ch;
+}
+
+html.dark,
+.dark {
+  --ink: #e8edef;
+  --ink-soft: #a8b6bd;
+  --ground: #131c21;
+  --panel: #1c272d;
+  --rule: #3a4a53;
+  --signal: #4fb3b1;
+  --signal-deep: #6ecfcd;
+  --caution: #d9a02e;
+}
+
+/* Site-wide type and color overrides against book-theme utilities */
+body,
+article.content,
+main {
+  font-family: var(--font-body) !important;
+  color: var(--ink);
+}
+
+body {
+  background-color: var(--ground);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.myst-fm-block-title,
+.heading-text,
+nav,
+.sidebar,
+.nav-link,
+button,
+.myst-card-title,
+.myst-card-footer,
+.intro-tagline {
+  font-family: var(--font-display) !important;
+  letter-spacing: -0.015em;
+}
+
+h1,
+.myst-fm-block-title {
+  font-size: 2.25rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: 1.75rem;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+h3 {
+  font-size: 1.375rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+h4 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+article.content p,
+article.content li {
+  font-size: 1.0625rem;
+  line-height: 1.65;
+}
+
+article.content > p,
+article.content > ul,
+article.content > ol,
+article.content > blockquote {
+  max-width: var(--measure);
+}
+
+a {
+  color: var(--signal);
+}
+
+a:hover {
+  color: var(--signal-deep);
+}
+
+/* Tabular figures for CV lists, tables, and structured data */
+ol,
+ul,
+table,
+article.content table,
+.myst-grid .myst-card-footer {
+  font-variant-numeric: tabular-nums;
+}
+
 /* Homepage only: WVU mark beside frontmatter title (h1 stays plain text in YAML) */
 article:has(.intro-bio-grid) #skip-to-frontmatter h1.myst-fm-block-title {
   display: inline-flex;
@@ -26,21 +198,15 @@ article:has(.intro-bio-grid) #skip-to-frontmatter h1.myst-fm-block-title::after 
   display: block;
   margin: 0.75rem 0 0;
   text-align: left;
-  font-family: inherit;
   font-size: 1.25rem;
   font-weight: 700;
   line-height: 1.3;
   letter-spacing: -0.01em;
-  color: rgb(28 25 23);
+  color: var(--ink);
 }
 
 .intro-bio-grid .intro-tagline span {
   display: block;
-}
-
-html.dark .intro-bio-grid .intro-tagline,
-.dark .intro-bio-grid .intro-tagline {
-  color: rgb(245 245 244);
 }
 
 /* Homepage: headshot only (not the small story icons below) */
@@ -170,31 +336,26 @@ table th:first-child {
   margin: 1.75rem 0;
   padding: 1.25rem 1.25rem 1rem;
   border-radius: 0.5rem;
-  border: 2px solid rgb(214 211 209);
-  background: rgb(250 250 249);
-}
-
-html.dark .project-launch-wrap,
-.dark .project-launch-wrap {
-  border-color: rgb(68 64 60);
-  background: rgb(41 37 36);
+  border: 2px solid var(--rule);
+  background: var(--panel);
 }
 
 a.project-launch-btn {
   display: inline-block;
   margin: 0 0 0.75rem;
   padding: 0.65rem 1.35rem;
+  font-family: var(--font-display);
   font-size: 1.125rem;
   font-weight: 700;
   text-decoration: none !important;
   color: #fff !important;
-  background: rgb(194 65 12);
+  background: var(--signal);
   border-radius: 0.375rem;
-  box-shadow: 0 2px 0 rgb(154 52 18);
+  box-shadow: 0 2px 0 var(--signal-deep);
 }
 
 a.project-launch-btn:hover {
-  background: rgb(234 88 12);
+  background: var(--signal-deep);
   color: #fff !important;
 }
 
@@ -203,29 +364,25 @@ a.project-launch-btn:hover {
   font-size: 0.9rem;
   line-height: 1.5;
   word-break: break-all;
+  color: var(--ink-soft);
 }
 
 .project-launch-url code {
   font-size: 0.85rem;
 }
 
-/* Homepage Featured links: reserved empty card slots (7 and 8) in 2x4 grid */
-.featured-links-grid > *:nth-child(7),
+/* Homepage Featured links: reserved empty card slot (8) in 2x4 grid */
 .featured-links-grid > *:nth-child(8) {
   pointer-events: none;
   opacity: 0.4;
 }
 
-.featured-links-grid > *:nth-child(7) .myst-card,
 .featured-links-grid > *:nth-child(8) .myst-card,
-.featured-links-grid > *:nth-child(7).myst-card,
 .featured-links-grid > *:nth-child(8).myst-card {
   border-style: dashed;
 }
 
-.featured-links-grid > *:nth-child(7) .myst-card-body,
 .featured-links-grid > *:nth-child(8) .myst-card-body,
-.featured-links-grid > *:nth-child(7) .myst-card-footer,
 .featured-links-grid > *:nth-child(8) .myst-card-footer {
   visibility: hidden;
   min-height: 3rem;

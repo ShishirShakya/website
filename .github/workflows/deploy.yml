@@ -35,8 +35,11 @@ jobs:
         run: myst build --html
 
       # Direct download URLs (not in TOC), e.g. /files/MessyData.xlsx
-      - name: Copy static download files
-        run: cp -r files _build/html/files
+      # Self-hosted fonts referenced from custom.css at /fonts/...
+      - name: Copy static download files and fonts
+        run: |
+          cp -r files _build/html/files
+          cp -r fonts _build/html/fonts
 
       # If a push is "denied to github-actions[bot]", GH_PAGES_DEPLOY_TOKEN was
       # empty; GITHUB_TOKEN cannot push to another repository.

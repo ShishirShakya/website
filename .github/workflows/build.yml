@@ -38,10 +38,14 @@ jobs:
         run: myst build --html
 
       # Direct download URLs (not in TOC), e.g. /files/MessyData.xlsx
-      - name: Copy static download files
+      # Self-hosted fonts referenced from custom.css at /fonts/...
+      - name: Copy static download files and fonts
         run: |
           cp -r files _build/html/files
           test -f _build/html/files/MessyData.xlsx
+          cp -r fonts _build/html/fonts
+          test -f _build/html/fonts/archivo-latin-400-normal.woff2
+          test -f _build/html/fonts/source-serif-4-latin-400-normal.woff2
 
       # - name: Deploy to Netlify
       #   uses: nwtgck/actions-netlify@v3.0
