@@ -44,6 +44,11 @@ project:
         - file: book/cv/policy-briefs.md
         - file: book/cv/op-eds-and-popular-writing.md
 
+    - file: book/paper-notes/index.md
+      children:
+        - pattern: book/paper-notes/20*.md
+          sort: descending
+
     - title: Professional Experience
       children:
         - file: book/cv/academic-positions-and-teaching.md

@@ -131,3 +131,7 @@ legacy/
 
 
 .claude/
+.agents/
+.vault/
+docs/
+AGENTS.md
