@@ -1,5 +1,6 @@
 ---
 title: Dr. Shishir Shakya
+short_title: Home
 subtitle: Assistant Professor of Economics, Appalachian State University
 thumbnail: book/images/headshot.webp
 ---

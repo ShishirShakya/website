@@ -161,6 +161,83 @@ a:hover {
   color: var(--signal-deep);
 }
 
+/* Primary sidebar TOC: rooms + indent + current weight/color (no pills, spine, or tick) */
+.myst-toc {
+  --myst-active-bg: transparent;
+  --myst-surface: transparent;
+  --myst-text: var(--ink);
+  --myst-text-secondary: var(--ink-soft);
+  --myst-accent-text: var(--ink);
+  --myst-focus-outline: var(--signal);
+  font-size: 0.9375rem;
+  line-height: 1.35;
+  color: var(--ink);
+}
+
+.myst-toc a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.myst-toc a:hover {
+  color: var(--signal);
+}
+
+.myst-toc .myst-toc-item {
+  border-radius: 0 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding: 0.35rem 0.5rem !important;
+  background: transparent !important;
+}
+
+.myst-toc .myst-toc-item:hover {
+  background: transparent !important;
+}
+
+.myst-toc .myst-toc-item-exact,
+.myst-toc .myst-toc-item-exact a,
+.myst-toc a[aria-current='page'] {
+  font-weight: 600 !important;
+  color: var(--signal) !important;
+  background: transparent !important;
+}
+
+.myst-toc .collapsible-content {
+  margin-left: 0.5rem;
+  padding-left: 0.75rem;
+  border-left: none;
+}
+
+.myst-toc .collapsible-content .myst-toc-item,
+.myst-toc .collapsible-content .myst-toc-item a,
+.myst-toc .collapsible-content a {
+  font-size: 0.8125rem;
+  font-weight: 400;
+  color: var(--ink-soft);
+}
+
+.myst-toc .collapsible-content a:hover {
+  color: var(--signal);
+}
+
+.myst-toc .collapsible-content .myst-toc-item-exact,
+.myst-toc .collapsible-content .myst-toc-item-exact a,
+.myst-toc .collapsible-content a[aria-current='page'] {
+  font-weight: 600 !important;
+  color: var(--signal) !important;
+}
+
+.myst-toc .myst-toc-item button {
+  color: var(--ink-soft);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .myst-toc .myst-toc-item svg {
+    transition: none !important;
+  }
+}
+
 /* Tabular figures for CV lists, tables, and structured data */
 ol,
 ul,
