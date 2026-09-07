@@ -11,7 +11,7 @@ tags:
 
 # Spatial spillovers and the productivity-compensation gap
 
-**Publication id**: `shakya-2022-spatial-spillovers-productivity-gap`  
+**Publication id**: `shakya-2022-spatial-spillovers-productivity-gap` 
 **Status**: verified
 
 **Citation**: Shakya, S., Plemmons, A., & Sayago-Gomez, J. T. (2022). Spatial spillovers and the productivity-compensation gap in the United States. *The Annals of Regional Science*. [Download PDF](https://www.dropbox.com/scl/fi/tf99i7zifoqrx9zyyybpj/Spatial-Spillovers-and-the-Productivity-Compensation.pdf?rlkey=kklhwmtat547j88dp7ghz4xwx&dl=0)
@@ -44,4 +44,4 @@ State-level geographic unit may be too broad to capture important metro-level or
 
 ## Why it matters
 
-The productivity-compensation gap is a major inequality story: workers produce more value but don't earn more. One explanation is that productivity gains flow to capital, not labor—but another is that they flow to other regions. This paper's finding that regional spillovers explain part of the gap shifts the lens: wage stagnation may reflect globalization and supply-chain integration as much as corporate power. For labor advocates, the finding implies that local wage policy ignores regional dynamics—a worker in Ohio may lose wages because productivity gains spilled into Indiana. For economists, it highlights the importance of accounting for geographic interdependence in wage models. For policy, it suggests that regional wage coordination or redistribution mechanisms might be needed to ensure that productivity gains in spillover regions benefit the source region's workers. The state-level focus also leaves open the possibility that metro-area and local spillovers are even more important.
+The productivity-compensation gap is a major inequality story: workers produce more value but don't earn more. One explanation is that productivity gains flow to capital, not labor - but another is that they flow to other regions. This paper's finding that regional spillovers explain part of the gap shifts the lens: wage stagnation may reflect global trade and supply-chain integration as much as corporate power. For labor advocates, the finding implies that local wage policy ignores regional dynamics - a worker in Ohio may lose wages because productivity gains spilled into Indiana. For economists, it highlights the importance of accounting for geographic mutual dependence in wage models. For policy, it suggests that regional wage coordination or redistribution mechanisms might be needed to ensure that productivity gains in spillover regions benefit the source region's workers. The state-level focus also leaves open the possibility that metro-area and local spillovers are even more important.

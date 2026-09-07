@@ -11,7 +11,7 @@ tags:
 
 # Investigating replicability in the social and behavioral sciences
 
-**Publication id**: `tyner-2026-score-replicability`  
+**Publication id**: `tyner-2026-score-replicability` 
 **Status**: verified
 
 **Citation**: Tyner, A., ..., Shakya, S., ... et al. (2026). Investigating the replicability of the social and behavioural sciences. *Nature*. [Download PDF](https://osf.io/preprints/metaarxiv/b7x8f)
@@ -36,7 +36,7 @@ Coordinated replication of many published studies using standardized protocols t
 
 ### One caveat
 
-Replication success depends on exact protocol adherence and resource constraints may prevent perfect reproduction of original conditions.
+Replication success depends on exact following the protocol and resource constraints may prevent perfect reproduction of original conditions.
 
 ### PDF or DOI
 
@@ -44,4 +44,4 @@ Replication success depends on exact protocol adherence and resource constraints
 
 ## Why it matters
 
-Science depends on cumulative knowledge, but cumulative knowledge is undermined if published findings don't replicate. SCORE's large-scale replication project is landmark work because it measures what percentage of social and behavioral science findings replicate with new data. If replication rates are high, the field is trustworthy; if low, policies built on social science are on shaky ground. For policymakers, the results inform how much confidence to place in social science evidence. For researchers, replication metrics identify which finding types are robust versus fragile, directing future work toward understanding what makes results stable. The identification of patterns (which research areas replicate well, which don't) is especially valuable—it guides researchers toward more reliable methodologies. For public trust in science, transparency about replication challenges (and successes) builds credibility. The caveat that replication depends on protocol adherence is important: negative results don't always mean the original was wrong, but they do signal the need for caution before policy adoption. SCORE data provides a new gold standard for evidence quality assessment.
+Science depends on cumulative knowledge, but cumulative knowledge is undermined if published findings don't replicate. SCORE's large-scale replication project is landmark work because it measures what percentage of social and behavioral science findings replicate with new data. If replication rates are high, the field is trustworthy; if low, policies built on social science are on shaky ground. For policy makers, the results inform how much confidence to place in social science evidence. For researchers, replication measures identify which finding types are strong versus fragile, directing future work toward understanding what makes results stable. The identification of patterns (which research areas replicate well, which don't) is especially valuable - it guides researchers toward more reliable methods. For public trust in science, transparency about replication problems (and successes) builds credibility. The caveat that replication depends on following the protocol is important: negative results don't always mean the original was wrong, but they do signal the need for caution before policy adoption. SCORE data provides a new gold standard for evidence quality assessment.

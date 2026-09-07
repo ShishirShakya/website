@@ -11,7 +11,7 @@ tags:
 
 # Hospital ownership and profits when a neighbor closes
 
-**Publication id**: `kanimian-2026-hospital-closure-ownership`  
+**Publication id**: `kanimian-2026-hospital-closure-ownership` 
 **Status**: verified
 
 **Citation**: Kanimian, S. & Shakya, S. (2026). When a Neighbor Closes: Ownership and Hospital Profits. *Eastern Economic Journal*. [DOI](https://doi.org/10.1057/s41302-026-00335-x). [Download PDF](https://www.dropbox.com/scl/fi/izdybn3pgfkd99rbhtvgk/Kanimian_et_al-2026-Eastern_Economic_Journal.pdf?rlkey=ygyw1k05nr4mvn3n068riofai&st=dcq24u4y&dl=0)
@@ -20,7 +20,7 @@ tags:
 
 ### Policy hook
 
-Hospital closures are increasingly common, particularly in rural and underserved areas. When a hospital closes, patients face longer travel times and shift to remaining facilities. The question is whether nearby hospitals' financial outcomes change after a neighboring closure and whether the response depends on hospital ownership type (for-profit, non-profit, or governmental).
+Hospital closures are increasingly common, particularly in rural and poorly served areas. When a hospital closes, patients face longer travel times and shift to remaining facilities. The question is whether nearby hospitals' financial results change after a neighboring closure and whether the response depends on hospital ownership type (for-profit, non-profit, or governmental).
 
 ### Main finding
 
@@ -44,4 +44,4 @@ Sample size is small, especially for for-profit and governmental hospitals (2 tr
 
 ## Why it matters
 
-Hospital closures reallocate patient demand and change local competitive pressure. The results show that hospital responses differ significantly by ownership type. For-profit hospitals appear to use reduced competition as an opportunity to increase markups and profitability, consistent with profit-maximizing behavior. Non-profit hospitals also gain financially but with less precision. Governmental hospitals show minimal or negative financial impacts, suggesting they face different constraints or serve a different patient population. These ownership-specific responses have implications for price monitoring, financial support mechanisms, and policy responses to hospital closures in different market contexts.
+Hospital closures reallocate patient demand and change local competitive pressure. The results show that hospital responses differ significantly by ownership type. For-profit hospitals appear to use reduced competition as an opportunity to increase markups and profits, consistent with profit-maximizing behavior. Non-profit hospitals also gain financially but with less precision. Governmental hospitals show minimal or negative financial impacts, suggesting they face different constraints or serve a different patient population. These ownership-specific responses have consequences for price monitoring, financial support mechanisms, and policy responses to hospital closures in different market settings.

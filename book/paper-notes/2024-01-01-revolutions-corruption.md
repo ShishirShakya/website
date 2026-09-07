@@ -11,7 +11,7 @@ tags:
 
 # Revolutions and corruption
 
-**Publication id**: `ammons-2024-revolutions-corruption`  
+**Publication id**: `ammons-2024-revolutions-corruption` 
 **Status**: verified
 
 **Citation**: Ammons, J., & Shakya, S. (2024). Revolutions and corruption. *Public Choice*. [Download](https://link.springer.com/article/10.1007/s11127-024-01173-1)
@@ -20,7 +20,7 @@ tags:
 
 ### Policy hook
 
-Revolutions are celebrated as anti-corruption interventions, but do they actually reduce corruption? Do violent and nonviolent revolutions produce different corruption consequences?
+Revolutions are celebrated as anti-corruption programs, but do they actually reduce corruption? Do violent and nonviolent revolutions produce different corruption consequences?
 
 ### Main finding
 
@@ -44,4 +44,4 @@ Correlation between revolutions and corruption could reflect reverse causation o
 
 ## Why it matters
 
-Revolutions are justified partly as anti-corruption interventions—the logic goes that overthrowing a corrupt regime installs cleaner governance. This paper's finding that revolutions don't reduce corruption is sobering. Violent revolutions actually correlate with higher corruption afterward (though education can mitigate this). For citizens and activists, the implication is that overthrowing a regime doesn't automatically fix institutional corruption; new institutions require building, not just destruction. The finding also complicates narratives of revolutionary legitimacy: if a revolution doesn't deliver on anti-corruption, its other outcomes matter more (land reform, equity, rights). For policymakers in post-revolution transitions, the result underscores the need for deliberate institutional design—anti-corruption doesn't emerge spontaneously. The education effect is also significant: educated societies may institutionalize anti-corruption norms better. For comparative politics, the finding suggests that violent and nonviolent revolutions should be evaluated separately on outcomes, not grouped as a category.
+Revolutions are justified partly as anti-corruption programs - the logic goes that overthrowing a corrupt regime installs cleaner governance. This paper's finding that revolutions don't reduce corruption is sobering. Violent revolutions actually correlate with higher corruption afterward (though education can reduce this). For citizens and activists, the implication is that overthrowing a regime doesn't automatically fix institutional corruption; new institutions require building, not just destruction. The finding also complicates stories of revolutionary legitimacy: if a revolution doesn't deliver on anti-corruption, its other results matter more (land reform, equity, rights). For policy makers in post-revolution transitions, the result shows the need for deliberate institutional design - anti-corruption doesn't emerge spontaneously. The education effect is also significant: educated societies may lock in anti-corruption norms better. For comparative politics, the finding suggests that violent and nonviolent revolutions should be evaluated separately on results, not grouped as a category.

@@ -12,7 +12,7 @@ tags:
 
 # Scope of practice and NP mobility serving Medicare beneficiaries
 
-**Publication id**: `shakya-2020-np-sop-medicare-mobility`  
+**Publication id**: `shakya-2020-np-sop-medicare-mobility` 
 **Status**: verified
 
 **Citation**: Shakya, S., & Plemmons, A. (2020). Does scope of practice affect mobility of nurse practitioners serving Medicare beneficiaries? *Journal of Labor Research*. [Download PDF](https://www.dropbox.com/scl/fi/va11jwf56xhnqmwdi985j/Does-Scope-of-Practice-Affect-Mobility-of-Nurse-Practitioners-Serving-Medicare-Beneficiaries.pdf?rlkey=htja0s8nr7ifete5a7jy5f3r4&dl=0)
@@ -21,7 +21,7 @@ tags:
 
 ### Policy hook
 
-Nurse practitioner shortages limit healthcare access and increase costs, particularly in primary care and rural areas. Some states have expanded scope-of-practice laws to give nurse practitioners greater autonomy (full practice authority and independent prescribing rights). A key question is whether expanded scope-of-practice laws incentivize NP relocation or retention within a state, improving workforce distribution.
+Nurse practitioner shortages limit healthcare access and increase costs, particularly in primary care and rural areas. Some states have expanded scope-of-practice laws to give nurse practitioners greater autonomy (full practice authority and independent prescribing rights). A key question is whether expanded scope-of-practice laws reward NP relocation or retention within a state, improving workforce distribution.
 
 ### Main finding
 
@@ -29,7 +29,7 @@ Nurse practitioners in full-practice-authority states are 0.41 percentage points
 
 ### Data and setting
 
-Medicare Part D Prescriber Public Use Files matched with National Provider Identifiers, covering NPs serving Medicare beneficiaries during 2013–2017. States were categorized as "full-practice" (NPs can order testing, prescribe medications, and diagnose independently without physician oversight) versus "restricted/reduced-practice" (requiring physician supervision or collaboration for some tasks). NP location and moves were tracked across years using NPI registry data.
+Medicare Part D Prescriber Public Use Files matched with National Provider Identifiers, covering NPs serving Medicare beneficiaries during 2013-2017. States were categorized as "full-practice" (NPs can order testing, prescribe medications, and diagnose independently without physician oversight) versus "restricted/reduced-practice" (requiring physician supervision or collaboration for some tasks). NP location and moves were tracked across years using NPI registry data.
 
 ### Research design (plain language)
 
@@ -45,4 +45,4 @@ Percentage changes are modest (0.41%, 5.70%), suggesting that scope of practice 
 
 ## Why it matters
 
-Scope-of-practice restrictions are a long-standing barrier to NP practice in the United States. Policymakers considering scope expansions often argue that broader autonomy will attract and retain NPs, improving workforce supply in underserved areas. This paper provides empirical evidence that expanded scope of practice does influence NP location choices—practitioners are more likely to relocate to full-practice states and less likely to leave them. The effects are statistically significant but modest in magnitude, implying that scope of practice is a meaningful but not dominant factor in NP mobility decisions. For states considering scope expansion as a workforce strategy, the findings are supportive: removal of restrictive oversight rules does make the state more attractive to NPs. However, the modest effects suggest that scope expansion works best alongside complementary policies—loan forgiveness, rural incentives, educational pipeline development—to meaningfully shift NP distribution toward shortage areas. The results also highlight the importance of understanding profession-specific regulations as labor market institutions that shape worker location decisions.
+Scope-of-practice restrictions are a long-standing barrier to NP practice in the United States. Policy makers considering scope expansions often argue that wider autonomy will attract and retain NPs, improving workforce supply in poorly served areas. This paper provides empirical evidence that expanded scope of practice does influence NP location choices - practitioners are more likely to relocate to full-practice states and less likely to leave them. The effects are statistically significant but modest in magnitude, implying that scope of practice is a meaningful but not dominant factor in NP mobility decisions. For states considering scope expansion as a workforce strategy, the findings are supportive: removal of restrictive oversight rules does make the state more attractive to NPs. However, the modest effects suggest that scope expansion works best alongside complementary policies - loan forgiveness, rural incentives, educational pipeline development - to really shift NP distribution toward shortage areas. The results also highlight the importance of understanding profession-specific regulations as labor market institutions that shape worker location decisions.

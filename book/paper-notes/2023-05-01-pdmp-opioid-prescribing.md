@@ -11,7 +11,7 @@ tags:
 
 # Prescription drug monitoring programs and opioid prescribing
 
-**Publication id**: `shakya-2023-pdmp-opioid-prescribing`  
+**Publication id**: `shakya-2023-pdmp-opioid-prescribing` 
 **Status**: verified
 
 **Citation**: Shakya, S., & Ruseski, J. (2023). The effect of prescription drug monitoring programs on county-level opioid prescribing practices and spillovers. *Contemporary Economic Policy*, *41*(3), 435-454. [DOI](https://doi.org/10.1111/coep.12607). [Download PDF](https://www.dropbox.com/scl/fi/uwjo6pk4fvri714j9vgzc/Contemporary-Economic-Policy-2023-Shakya-The-effect-of-Prescription-Drug-Monitoring-Programs-on-county-level-opioid.pdf?rlkey=het575mm5mdsgi53gyljbjzok&dl=0)

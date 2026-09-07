@@ -11,7 +11,7 @@ tags:
 
 # Political economy of Vermont's abortion bill
 
-**Publication id**: `shakya-2020-vermont-abortion-bill`  
+**Publication id**: `shakya-2020-vermont-abortion-bill` 
 **Status**: verified
 
 **Citation**: Shakya, S., Erfanian, E., & Scarcioffolo, A. (2020). The political economy of Vermont's abortion bill. *Applied Economics Letters*. [Download](https://www.tandfonline.com/doi/abs/10.1080/13504851.2020.1854663)
@@ -32,11 +32,11 @@ Vermont state legislative process and policy analysis around abortion bill; appl
 
 ### Research design (plain language)
 
-Political-economy analysis examining legislative context, stakeholder positions, and economic interests shaping abortion policy development in Vermont.
+Political-economy analysis examining legislative context, positions of those involved, and economic interests affecting abortion policy development in Vermont.
 
 ### One caveat
 
-Case study approach focused on single state limits generalizability to other jurisdictions with different political and economic configurations.
+Case study approach focused on single state limits external validity to other jurisdictions with different political and economic configurations.
 
 ### PDF or DOI
 
@@ -44,4 +44,4 @@ Case study approach focused on single state limits generalizability to other jur
 
 ## Why it matters
 
-Abortion policy is fiercely debated, but political economy analysis—examining interest groups and political incentives—offers a different lens than purely moral or constitutional arguments. This paper's focus on Vermont's specific bill reveals the political dynamics of state-level abortion policy. Vermont is instructive because it's a liberal state with strong abortion access norms, suggesting policy emerges from particular political configurations. For political scientists, the case shows how interest groups, legislative coalitions, and state-level institutional features combine to shape reproductive policy. For policymakers and advocates, the paper illuminates the political economy of feasible policy: what coalition building enabled Vermont's policy? Could it replicate elsewhere? For comparative policy study, Vermont provides a northern state case (contrast with Southern states' restrictions), showing that state politics, not just national conservatism/liberalism, drives abortion policy. The limitation (single case) restricts generalization, but Vermont's relative policy stability makes it a useful reference point.
+Abortion policy is fiercely debated, but political economy analysis - examining interest groups and political incentives - offers a different lens than purely moral or constitutional arguments. This paper's focus on Vermont's specific bill reveals the political dynamics of state-level abortion policy. Vermont is instructive because it's a liberal state with strong abortion access norms, suggesting policy emerges from particular political configurations. For political scientists, the case shows how interest groups, legislative coalitions, and state-level institutional features combine to shape reproductive policy. For policy makers and advocates, the paper shows the political economy of feasible policy: what coalition building enabled Vermont's policy? Could it replicate elsewhere? For comparative policy study, Vermont provides a northern state case (contrast with Southern states' restrictions), showing that state politics, not just national conservatism/liberalism, drives abortion policy. The limitation (single case) restricts generalization, but Vermont's relative policy stability makes it a useful reference point.

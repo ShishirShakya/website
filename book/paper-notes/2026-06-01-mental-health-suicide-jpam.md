@@ -11,7 +11,7 @@ tags:
 
 # Access to mental health care and suicide rates
 
-**Publication id**: `shakya-2026-mental-health-suicide-jpam`  
+**Publication id**: `shakya-2026-mental-health-suicide-jpam` 
 **Status**: verified
 
 **Citation**: Shakya, S. and RoyChoudhury, A. (2026). Access to mental health care services and suicide rates in the United States. *Journal of Policy Analysis and Management*. [Download PDF](https://www.dropbox.com/scl/fi/99w08a9akb5vjf1k04ffe/Access-to-Mental-Health-Care-Services-and-Suicide-Rates-in-the-United-States.pdf?rlkey=8g8o5yqhd95o20c9pvzth7npu&st=grdkwgzq&dl=0)
@@ -38,7 +38,7 @@ Instrumental variable approach using state implementation of psychologist prescr
 
 ### One caveat
 
-Results show complementarity between psychologists and psychiatrists. When isolating only psychologist supply, effects become statistically insignificant. Treatment effects represent local average treatment effects (LATE) for those affected by RxP laws, limiting generalizability beyond states with similar regulatory variation.
+Results show complementarity between psychologists and psychiatrists. When isolating only psychologist supply, effects become statistically insignificant. Treatment effects represent local average treatment effects (LATE) for those affected by RxP laws, limiting external validity beyond states with similar regulatory variation.
 
 ### PDF or DOI
 
@@ -46,4 +46,4 @@ Results show complementarity between psychologists and psychiatrists. When isola
 
 ## Why it matters
 
-Mental health provider shortages are widespread in the US. This study provides causal evidence that expanding access through scope-of-practice deregulation can reduce suicide mortality. Unlike previous correlational studies, using RxP laws as a natural experiment shows policymakers can meaningfully improve mental health outcomes through regulatory changes that broaden the provider workforce.
+Mental health provider shortages are widespread in the US. This study provides causal evidence that expanding access through scope-of-practice deregulation can reduce suicide mortality. Unlike previous not causal studies, using RxP laws as a natural experiment shows policy makers can really improve mental health results through regulatory changes that broaden the provider workforce.

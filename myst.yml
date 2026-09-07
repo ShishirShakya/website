@@ -87,6 +87,11 @@ project:
         - file: book/projects/oral-exam-mymerits.md
         - file: book/projects/us-immigration-narratives.md
 
+    - file: book/grain-of-salt/index.md
+      children:
+        - pattern: book/grain-of-salt/20*.md
+          sort: descending
+
 site:
   options:
     logo: logo.png

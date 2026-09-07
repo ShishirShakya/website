@@ -11,7 +11,7 @@ tags:
 
 # Political economy of Vermont's anti-fracking movement
 
-**Publication id**: `hall-2020-vermont-anti-fracking`  
+**Publication id**: `hall-2020-vermont-anti-fracking` 
 **Status**: verified
 
 **Citation**: Hall, J. C., Scarcioffolo, A. R., & Shakya, S. (2020). The political economy of Vermont's anti-fracking movement. *Journal of Public Finance and Public Choice*. [Download PDF](https://www.dropbox.com/scl/fi/xoxrp260dapkl450x60an/The-Political-Economy-of-Vermont-s-Anti-fracking.pdf?rlkey=vpf8i84sj0s3y4a66d3qsa8lb&dl=0)
@@ -28,15 +28,15 @@ Democratic Party affiliation and campaign donation levels were significantly rel
 
 ### Data and setting
 
-Vermont General Assembly voting on H.464/Act 152; 167 legislators (150 House, 30 Senate) from 2010-2012 term. Legislator data from VoteSmart (party, donations, education, birthplace). Median voter characteristics from 2010 American Community Survey at district level (80+ socioeconomic variables).
+Vermont General Assembly voting on H.464/Act 152; 167 legislators (150 House, 30 Senate) from 2010-2012 term. Legislator data from VoteSmart (party, donations, education, birthplace). Median voter characteristics from 2010 American Community Survey at district level (80+ social and economic variables).
 
 ### Research design (plain language)
 
-Double-selection post-LASSO methodology to handle high-dimensional confounders (3,320+ variables including interaction terms). Examined both legislator mechanism effects and median voter mechanism effects separately. Limited probability model with heteroscedasticity-robust standard errors.
+Double-selection post-LASSO methodology to handle high-dimensional confounders (3,320+ variables including interaction terms). Examined both legislator mechanism effects and median voter mechanism effects separately. Limited probability model with heteroscedasticity-strong standard errors.
 
 ### One caveat
 
-Vermont's lack of known gas reserves makes this purely expressive voting context, limiting generalizability to instrumental policy decisions. Some median voter effects (poverty, retirement income) became insignificant in robustness checks with interaction terms. Findings specific to symbolic policy outcomes where economic factors may matter less.
+Vermont's lack of known gas reserves makes this purely expressive voting context, limiting external validity to instrumental policy decisions. Some median voter effects (poverty, retirement income) became insignificant in robustness checks with interaction terms. Findings specific to symbolic policy results where economic factors may matter less.
 
 ### PDF or DOI
 
@@ -44,4 +44,4 @@ Vermont's lack of known gas reserves makes this purely expressive voting context
 
 ## Why it matters
 
-Expressive voting in federal systems has spillover consequences across jurisdictions. Understanding that symbolic policy decisions are driven primarily by legislator ideology and party rather than constituent demand has implications for how we interpret political representation, regulatory federalism, and the role of special interests in policymaking.
+Expressive voting in federal systems has spillover consequences across jurisdictions. Understanding that symbolic policy decisions are driven primarily by legislator ideology and party rather than constituent demand has consequences for how we interpret political representation, regulatory federalism, and the role of special interests in policymaking.

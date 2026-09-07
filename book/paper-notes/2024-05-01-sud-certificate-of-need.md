@@ -12,7 +12,7 @@ tags:
 
 # Substance use Certificate-of-Need laws and treatment access
 
-**Publication id**: `shakya-2024-sud-certificate-of-need`  
+**Publication id**: `shakya-2024-sud-certificate-of-need` 
 **Status**: verified
 
 **Citation**: Shakya, S., & Bretschneider Fries, C. (2024). The effect of substance use Certificate-of-Need laws on access to substance use disorder treatment facilities. *Southern Economic Journal*. [Download PDF](https://www.dropbox.com/scl/fi/fkhpvcf0ico3xjxjcs66b/Southern-Economic-Journal-2024-Shakya-The-effect-of-substance-use-Certificate-of-Need-laws-on-access-to-substance-use.pdf?rlkey=lapu9zmq0x9gwe362ttpeailb&dl=0)
@@ -37,7 +37,7 @@ Spatial accessibility index based on driving distance and duration to nearest tr
 
 ### One caveat
 
-The study measures spatial proximity to treatment facilities but does not account for the actual availability of specific services at those facilities or the capacity of facilities to serve patients. Limited to 2020 data, which may not reflect current conditions given that some states modified or repealed CON laws during the COVID-19 pandemic.
+The study measures spatial proximity to treatment facilities but does not account for the actual availability of specific services at those facilities or the capacity of facilities to serve patients. Limited to 2020 data, which may not reflect current conditions given that some states modified or repealed CON laws during the COVID-19 period.
 
 ### PDF or DOI
 
@@ -45,4 +45,4 @@ The study measures spatial proximity to treatment facilities but does not accoun
 
 ## Why it matters
 
-Geographic distance to treatment is critical for substance use disorder recovery success. People with substance use disorders often face additional barriers including financial and transportation constraints. CON laws were designed to prevent wasteful healthcare spending, but this evidence shows they reduce access to treatment precisely when the opioid crisis demands expanded treatment capacity. The study reveals unintended consequences of supply-side regulations on a population already facing significant obstacles to recovery. Understanding these regulatory effects is essential for policymakers addressing the opioid epidemic and ensuring treatment accessibility for those seeking help.
+Geographic distance to treatment is critical for substance use disorder recovery success. People with substance use disorders often face additional barriers including financial and transportation constraints. CON laws were designed to prevent wasteful healthcare spending, but this evidence shows they reduce access to treatment precisely when the opioid crisis demands expanded treatment capacity. The study reveals unintended consequences of supply-side regulations on a population already facing significant obstacles to recovery. Understanding these regulatory effects is essential for policy makers addressing the opioid epidemic and keeping treatment accessible for those seeking help.

@@ -133,5 +133,6 @@ legacy/
 .claude/
 .agents/
 .vault/
+.cursor/
 docs/
 AGENTS.md

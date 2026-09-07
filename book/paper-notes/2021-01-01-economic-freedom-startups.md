@@ -11,7 +11,7 @@ tags:
 
 # Economic freedom and startup formation
 
-**Publication id**: `shakya-2021-economic-freedom-startups`  
+**Publication id**: `shakya-2021-economic-freedom-startups` 
 **Status**: verified
 
 **Citation**: Shakya, S., & Plemmons, A. (2021). The impact of economic freedom on startups. *Journal of Regional Analysis and Policy*. [Download PDF](https://jrap.scholasticahq.com/article/18968-the-impact-of-economic-freedom-on-startups/attachment/50505.pdf)
@@ -20,7 +20,7 @@ tags:
 
 ### Policy hook
 
-Economic freedom influences entrepreneurship, but prior studies showed only correlations. Which specific dimensions of economic freedom—regulatory, tax, or spending—actually causally increase new business formation?
+Economic freedom influences entrepreneurship, but prior studies showed only correlations. Which specific dimensions of economic freedom - regulatory, tax, or spending - actually causally increase new business formation?
 
 ### Main finding
 
@@ -44,4 +44,4 @@ Analysis focuses on startup density but does not measure startup quality, surviv
 
 ## Why it matters
 
-Entrepreneurship is central to prosperity. This paper shows that the specific dimensions of economic freedom matter—deregulation drives startups, but high taxes and large government spending actually reduce new business formation. For policymakers seeking to boost entrepreneurship, the finding narrows the target: focus on regulatory barriers (licensing, permitting, compliance costs), not just general "pro-business" rhetoric. The result complicates libertarian arguments that all government spending reduces enterprise; the mechanism is more specific. For states and municipalities competing on business climate, the paper suggests that startup-friendly policy means low regulatory burden plus competitive tax treatment, even if overall government spending is high (since some spending may support infrastructure or stability startups need). The null effect of tax freedom alone is also noteworthy: very low taxes without regulatory relief don't translate to startup booms. This implies that regulatory burden is the primary bottleneck for new firm entry.
+Entrepreneurship is central to prosperity. This paper shows that the specific dimensions of economic freedom matter - deregulation drives startups, but high taxes and large government spending actually reduce new business formation. For policy makers seeking to boost entrepreneurship, the finding narrows the target: focus on regulatory barriers (licensing, permitting, compliance costs), not just general "pro-business" rhetoric. The result complicates libertarian arguments that all government spending reduces enterprise; the mechanism is more specific. For states and municipalities competing on business climate, the paper suggests that startup-friendly policy means low regulatory burden plus competitive tax treatment, even if overall government spending is high (since some spending may support infrastructure or stability startups need). The null effect of tax freedom alone is also noteworthy: very low taxes without regulatory relief don't translate to startup booms. This implies that regulatory burden is the primary bottleneck for new firm entry.

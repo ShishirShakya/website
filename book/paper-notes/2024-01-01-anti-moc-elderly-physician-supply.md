@@ -12,7 +12,7 @@ tags:
 
 # Anti-maintenance of certification and elderly physician supply
 
-**Publication id**: `shakya-2024-anti-moc-elderly-physician`  
+**Publication id**: `shakya-2024-anti-moc-elderly-physician` 
 **Status**: verified
 
 **Citation**: Shakya, S., Nepal, T., Mathew, M., & Timmons, E. (2024). Anti-maintenance of certification and elderly physician supply. *Economics Letters*. [Download PDF](https://www.dropbox.com/scl/fi/fqb0916bkwk97m4we1riz/Anti-maintenance-of-certification-and-elderly-physician-supply.pdf?rlkey=2qqz14u2x47qfjy7ravd7d0o7&st=r1x2agmo&dl=0)
@@ -25,7 +25,7 @@ States argue that Maintenance of Certification (MOC) requirements are expensive 
 
 ### Main finding
 
-Anti-MOC states show a statistically significant biannual increase of 1.4–1.9 percentage points in the share of older physicians (age 60+). States implementing full anti-MOC prohibition show larger effects of 1.9 percentage points (p<0.01). No significant effect appears for younger physicians under 60. This translates to approximately 4,732 additional older physicians nationwide biennially from the 1.4 percentage point increase.
+Anti-MOC states show a statistically significant biannual increase of 1.4-1.9 percentage points in the share of older physicians (age 60+). States implementing full anti-MOC prohibition show larger effects of 1.9 percentage points (p<0.01). No significant effect appears for younger physicians under 60. This translates to approximately 4,732 additional older physicians nationwide biennially from the 1.4 percentage point increase.
 
 ### Data and setting
 
@@ -45,4 +45,4 @@ Biennial treatment effects are modest in magnitude. Full anti-MOC prohibition st
 
 ## Why it matters
 
-Physician shortages are a persistent challenge for healthcare access. MOC requirements, originally designed to maintain quality standards, impose substantial costs and time burdens on physicians—particularly those nearing retirement. This paper shows that eliminating MOC requirements noticeably increases the share of older physicians in practice. For states facing aging populations and rural shortages, anti-MOC laws may be an effective, low-cost policy tool to retain experienced clinicians. The effect is largest under full prohibition, suggesting that partial restrictions have limited efficacy. The findings suggest that regulatory burden reduction can influence workforce decisions at the margin, especially for professionals considering retirement. However, the modest magnitude of effects and focus on aggregate state-level shares means anti-MOC laws are one piece of a broader physician shortage solution, not a comprehensive fix. The policy points to a tension between maintaining certification standards and enabling continued practice for experienced providers.
+Physician shortages are a persistent challenge for healthcare access. MOC requirements, originally designed to maintain quality standards, impose substantial costs and time costs on physicians - particularly those nearing retirement. This paper shows that eliminating MOC requirements noticeably increases the share of older physicians in practice. For states facing aging populations and rural shortages, anti-MOC laws may be an effective, low-cost policy tool to retain experienced clinicians. The effect is largest under full prohibition, suggesting that partial restrictions have limited efficacy. The findings suggest that regulatory burden reduction can influence workforce decisions at the margin, especially for professionals considering retirement. However, the modest magnitude of effects and focus on aggregate state-level shares means anti-MOC laws are one piece of a wider physician shortage solution, not a comprehensive fix. The policy points to a tension between maintaining certification standards and enabling continued practice for experienced providers.

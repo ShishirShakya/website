@@ -12,7 +12,7 @@ tags:
 
 # Military spouse RN licensing and care access
 
-**Publication id**: `shakya-2024-military-spouse-rn-licensing`  
+**Publication id**: `shakya-2024-military-spouse-rn-licensing` 
 **Status**: verified
 
 **Citation**: Shakya, S., Plemmons, A., & Norris, C. (2024). Military spouse licensing: A case study of registered nurses near military bases. *Journal of Regulatory Economics*. [Download](https://link.springer.com/article/10.1007/s11149-024-09480-7)
@@ -45,4 +45,4 @@ Suggestive evidence presented; does not isolate other factors driving military s
 
 ## Why it matters
 
-Military families face unique constraints: frequent relocations are mandatory, not optional. Spouses can't simply stay in one location to maintain employment. Restrictive state licensing prevents military spouses from practicing their profession, forcing career interruptions. This paper shows that licensing reciprocity directly improves employment outcomes—a 12% increase in mobility is substantial. For military families, career continuity affects retention, quality of life, and household finances. For the military itself, quality-of-life initiatives like spouse employment support reduce attrition of valuable personnel. For policymakers, the finding illustrates a simple win: reciprocal military-spouse licensing costs states nothing but enables federal personnel retention. The broader implication is that occupational licensing—designed to protect consumers—can inadvertently create inequality when it prevents geographic mobility for constrained populations. Exempting military spouses or allowing conditional reciprocity is a targeted policy with measurable benefits.
+Military families face unique constraints: frequent relocations are mandatory, not optional. Spouses can't simply stay in one location to maintain employment. Restrictive state licensing prevents military spouses from practicing their profession, forcing career interruptions. This paper shows that licensing reciprocity directly improves employment results - a 12% increase in mobility is substantial. For military families, career continuity affects retention, quality of life, and household finances. For the military itself, quality-of-life programs like spouse employment support reduce attrition of valuable personnel. For policy makers, the finding illustrates a simple win: reciprocal military-spouse licensing costs states nothing but enables federal personnel retention. The wider implication is that occupational licensing - designed to protect consumers - can inadvertently create inequality when it prevents geographic mobility for constrained populations. Exempting military spouses or allowing conditional reciprocity is a targeted policy with clear benefits.

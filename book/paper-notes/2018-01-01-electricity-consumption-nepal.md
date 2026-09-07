@@ -11,7 +11,7 @@ tags:
 
 # Electricity consumption and economic growth in Nepal
 
-**Publication id**: `shakya-2018-electricity-consumption-nepal`  
+**Publication id**: `shakya-2018-electricity-consumption-nepal` 
 **Status**: verified
 
 **Citation**: Shakya, S., Nepal, R., & Sharma, K. (2018). Electricity consumption and economic growth: empirical evidence from a resource-rich landlocked economy. *International Journal of Global Energy Issues*, 41(5-6):226-247. [Download](https://www.inderscience.com/offers.php?id=97139)
@@ -44,4 +44,4 @@ Time-series analysis cannot establish causality definitively and may conflate el
 
 ## Why it matters
 
-Energy scarcity is a binding constraint on development in many low-income countries, especially landlocked economies without fossil fuels. This paper documents a positive relationship between electricity availability and growth in Nepal—a high-altitude, landlocked country where hydropower is both abundant and underdeveloped. For Nepal specifically, the finding supports hydroelectric investment as a development priority. For other resource-rich developing countries, the result suggests that energy infrastructure is complicit in growth: electricity enables productivity gains across sectors. The time-series approach captures dynamic relationships but cannot isolate causality—growth may increase demand for electricity rather than electricity driving growth. For policymakers, the paper validates prioritizing electricity access in development strategies, though the mechanism (productivity, consumption, investment) remains to be clarified. The work also provides a developing-country perspective on energy-growth relationships, complementing research on high-income countries where electricity is abundant and relationships may differ.
+Energy scarcity is a binding constraint on development in many low-income countries, especially landlocked economies without fossil fuels. This paper documents a positive relationship between electricity availability and growth in Nepal - a high-altitude, landlocked country where hydropower is both abundant and underdeveloped. For Nepal specifically, the finding supports hydroelectric investment as a development priority. For other resource-rich developing countries, the result suggests that energy infrastructure is complicit in growth: electricity enables productivity gains across sectors. The time-series approach captures dynamic relationships but cannot isolate causality - growth may increase demand for electricity rather than electricity driving growth. For policy makers, the paper validates putting first electricity access in development plans, though the mechanism (productivity, consumption, investment) remains to be clarified. The work also provides a developing-country perspective on energy-growth relationships, adding to research on high-income countries where electricity is abundant and relationships may differ.

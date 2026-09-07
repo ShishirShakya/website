@@ -11,7 +11,7 @@ tags:
 
 # Athletic reclassification and local entrepreneurial ecosystems
 
-**Publication id**: `ammons-2026-town-gown-touchdowns`  
+**Publication id**: `ammons-2026-town-gown-touchdowns` 
 **Status**: verified
 
 **Citation**: Ammons, J. & Shakya, S. (2026). Town, Gown, and Touchdowns: How Athletic Reclassification Shapes Local Entrepreneurial Ecosystems. *Journal of Business Venturing Insights*, 26, e00638. [DOI](https://doi.org/10.1016/j.jbvi.2026.e00638). [Download PDF](https://www.dropbox.com/scl/fi/n7k1dozqmkxtganwn7jtv/TownGownAndTouchdowns.pdf?rlkey=c9q3ubh1jhvlvi0aawxc4mvl8&st=5vlwa84s&dl=0)
@@ -24,15 +24,15 @@ Universities are treated as anchor institutions that shape local entrepreneurshi
 
 ### Main finding
 
-Upward athletic reclassification increases local business sales and employment, with effects strongest at intermediate distances (2-6 miles from campus) rather than at the campus boundary. Upward moves increase sales more than new business formation, indicating that incumbent firms capture the gains. Higher-profile transitions (e.g., moving to Division I football) produce effects that reach 8-10 miles away, while lower-profile moves concentrate within 2-4 miles. Football-inclusive reclassifications generate larger effects than non-football moves. Downward reclassifications do not uniformly depress outcomes; instead, they shift activity across nearby areas, suggesting businesses relocate rather than disappear.
+Upward athletic reclassification increases local business sales and employment, with effects strongest at intermediate distances (2-6 miles from campus) rather than at the campus boundary. Upward moves increase sales more than new business formation, indicating that incumbent firms capture the gains. Higher-profile transitions (e.g., moving to Division I football) produce effects that reach 8-10 miles away, while lower-profile moves concentrate within 2-4 miles. Football-inclusive reclassifications generate larger effects than non-football moves. Downward reclassifications do not uniformly depress results; instead, they shift activity across nearby areas, suggesting businesses relocate rather than disappear.
 
 ### Data and setting
 
-US business records from 2003 to 2023 using Data Axle, covering approximately 30 million establishments annually with geocoded location, industry (NAICS), employment, and sales data. Examined 11 categories of reclassification: 8 upward and 3 downward (from NCAA Divisions I-FCS, II, III, NAIA, and NJCAA). Study restricted to institutions that moved exactly once and remained in the new classification. Measured outcomes at five distance bands extending to ten miles from campus.
+US business records from 2003 to 2023 using Data Axle, covering approximately 30 million establishments annually with geocoded location, industry (NAICS), employment, and sales data. Examined 11 categories of reclassification: 8 upward and 3 downward (from NCAA Divisions I-FCS, II, III, NAIA, and NJCAA). Study restricted to institutions that moved exactly once and remained in the new classification. Measured results at five distance bands extending to ten miles from campus.
 
 ### Research design (plain language)
 
-The paper uses a staggered difference-in-differences design, comparing business outcomes (establishment counts, sales, employment) in areas around schools that reclassified with similar areas around schools that did not. To avoid bias from schools that move multiple times, the analysis restricts the sample to institutions with a single, permanent reclassification. Institution and year fixed effects account for time-invariant institutional differences and common year shocks. Institution-specific trends allow each school to have a different pre-treatment trajectory. Analysis is done separately for upward and downward moves and by distance band, to test whether effects decay with distance and whether higher-profile moves reach farther.
+The paper uses a staggered difference-in-differences design, comparing business results (establishment counts, sales, employment) in areas around schools that reclassified with similar areas around schools that did not. To avoid bias from schools that move multiple times, the analysis restricts the sample to institutions with a single, permanent reclassification. Institution and year fixed effects account for time-invariant institutional differences and common year shocks. Institution-specific trends allow each school to have a different pre-treatment trajectory. Analysis is done separately for upward and downward moves and by distance band, to test whether effects decay with distance and whether higher-profile moves reach farther.
 
 ### One caveat
 
@@ -44,4 +44,4 @@ The design identifies average post-reclassification effects but does not recover
 
 ## Why it matters
 
-Athletic reclassification is a credible, discrete prestige shock that travels beyond campus into the surrounding entrepreneurial ecosystem. The paper shows that incumbent-firm sales and employment respond to visibility signals, not just to knowledge production or technology transfer. For regional policymakers, this implies that credible signals (awards, designations, high-profile events, rankings) may raise local business activity without requiring concurrent increases in firm formation. Higher-profile moves reach farther into the region, while downward signals create redistribution rather than collapse. The results clarify a channel distinct from research spillovers through which anchor institutions shape their local economies.
+Athletic reclassification is a credible, discrete prestige shock that travels beyond campus into the surrounding entrepreneurial ecosystem. The paper shows that incumbent-firm sales and employment respond to visibility signals, not just to knowledge production or technology transfer. For regional policy makers, this implies that credible signals (awards, designations, high-profile events, rankings) may raise local business activity without requiring concurrent increases in firm formation. Higher-profile moves reach farther into the region, while downward signals create redistribution rather than collapse. The results clarify a channel distinct from research spillovers through which anchor institutions shape their local economies.

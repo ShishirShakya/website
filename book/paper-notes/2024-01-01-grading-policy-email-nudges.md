@@ -11,7 +11,7 @@ tags:
 
 # Grading policy, email nudges, and grade outcomes
 
-**Publication id**: `shakya-2024-grading-policy-email-nudges`  
+**Publication id**: `shakya-2024-grading-policy-email-nudges` 
 **Status**: verified
 
 **Citation**: Shakya, S., & Levinstein, M. (2024). Grading policy, email nudges, and grade outcomes. *The Journal of Economic Education*. [Download PDF](https://www.dropbox.com/scl/fi/o9seuixtlkn74xdnzljcw/Grading-policy-email-nudges-and-grade-outcomes.pdf?rlkey=i1k0jzv8h55txa5625x35ik1g&dl=0)
@@ -24,7 +24,7 @@ Professor-sent email reminders to students scoring below 30 points on weekly ass
 
 ### Main finding
 
-Email nudges improved low-performing student grades by 22-28 points per 50 points (44-56% improvement). Effect remained robust across 12 weeks despite some evidence of nudge fatigue with repeated treatments.
+Email nudges improved low-performing student grades by 22-28 points per 50 points (44-56% improvement). Effect remained strong across 12 weeks despite some evidence of nudge fatigue with repeated treatments.
 
 ### Data and setting
 
@@ -44,4 +44,4 @@ Results based on observational, not randomized, data. Treatment effects specific
 
 ## Why it matters
 
-Prior studies on email nudges in higher education show mixed results. This paper demonstrates substantial effects when nudges target low performers specifically. The 22-28 point improvement is large compared to other interventions, suggesting cost-effective reminders could improve retention and academic performance, particularly for struggling students.
+Prior studies on email nudges in higher education show mixed results. This paper demonstrates substantial effects when nudges target low performers specifically. The 22-28 point improvement is large compared to other programs, suggesting cost-effective reminders could improve retention and academic performance, particularly for struggling students.
