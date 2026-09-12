@@ -59,27 +59,6 @@ Google Scholar: publications and citations
 :::
 
 :::{card}
-:link: https://www.nature.com/articles/s41586-025-10078-y
-![Nature journal wordmark](book/images/nature-journal-logo.svg)
-+++
-Nature: replicability in the social and behavioural sciences
-:::
-
-:::{card}
-:link: https://www.dropbox.com/scl/fi/6vupzn4iwu2jzzl4gnhtc/The-Journal-of-Rural-Health-2025-Sugg-Mapping-maternity-care-deserts-Driving-distance-and-health-outcomes-in-North.pdf?rlkey=zia9y7p4vinyz5uc72q0lzuct&st=g5om58hn&dl=0
-![Journal of Rural Health](book/images/JRH-header.jpg)
-+++
-NRHA Article of the Year 2025: Journal of Rural Health (maternity care deserts)
-:::
-
-:::{card}
-:link: book/projects/oral-exam-mymerits.md
-![MyMeritGuide](book/images/mmg.png)
-+++
-MyMeritGuide: founding engineer, FERPA-aware, AI-assisted oral exams and learning validation
-:::
-
-:::{card}
 :link: https://www.youtube.com/watch?v=bqY-9tUCJ7o
 ![Ignite Resilience: Shishir Shakya](https://i.ytimg.com/vi/bqY-9tUCJ7o/hqdefault.jpg)
 +++
@@ -100,13 +79,23 @@ Challey Institute: Human Progress and Flourishing Workshop (YouTube)
 Decode Econ: AI in the classroom (YouTube)
 :::
 
-:::{card}
-:link: https://www.youtube.com/watch?v=q2dXo21SNJQ
-![MyMeritGuide: online oral examination](https://i.ytimg.com/vi/q2dXo21SNJQ/hqdefault.jpg)
-+++
-MyMeritGuide: online oral examination (YouTube)
-:::
-
 ::::
 
 ---
+
+## Research
+
+- [All publications](book/cv/publications.md) (each entry links to its Paper note where one exists)
+- Flagship Publication: [Investigating the replicability of the social and behavioural sciences](https://doi.org/10.1038/s41586-025-10078-y) (*Nature*, SCORE)
+
+## For students
+
+- Books: [Mostly Handsdirty Metrics](https://mhdm.netlify.app/) · [Applied Business Statistics with NOAA Data & Agentic-AI](https://econ2200.netlify.app/)
+- [MyMeritGuide](book/projects/oral-exam-mymerits.md): AI-assisted oral exams and learning validation
+- Grain of Salt (my view, not a research claim): [Stop Policing AI Use. Observe Learning.](book/grain-of-salt/2026-09-12-stop-policing-ai-use.md)
+
+## For policy readers
+
+- [Paper notes](book/paper-notes/index.md): short, policy-facing explainers of selected Publications
+- Start here: [Maternity care deserts in North Carolina](book/paper-notes/2025-01-01-maternity-care-deserts-nc.md)
+- Media and policy contact: [shakyas@appstate.edu](mailto:shakyas@appstate.edu)
