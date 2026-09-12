@@ -7,26 +7,29 @@ tags:
   - political-economy
   - institutions
   - governance
+publication_id: ammons-2024-revolutions-corruption
+status: verified
 ---
 
 # Revolutions and corruption
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
-
-**Publication id**: `ammons-2024-revolutions-corruption` 
-**Status**: verified
+Explainer of Ammons et al. (2024), *Public Choice*. Not the journal article.
 
 **Citation**: Ammons, J., & Shakya, S. (2024). Revolutions and corruption. *Public Choice*. [Download](https://link.springer.com/article/10.1007/s11127-024-01173-1)
 
 ## Facts
 
-### Policy hook
-
-Revolutions are celebrated as anti-corruption programs, but do they actually reduce corruption? Do violent and nonviolent revolutions produce different corruption consequences?
-
 ### Main finding
 
 Successful nonviolent and violent revolutions produce null effects on corruption; when controlling for education's moderating effect, violent revolutions actually induce higher corruption.
+
+### One caveat
+
+Correlation between revolutions and corruption could reflect reverse causation or omitted variables; cannot rule out that revolutions may prevent corruption increases that would otherwise occur.
+
+### Policy hook
+
+Revolutions are celebrated as anti-corruption programs, but do they actually reduce corruption? Do violent and nonviolent revolutions produce different corruption consequences?
 
 ### Data and setting
 
@@ -35,10 +38,6 @@ Revolutionary campaigns since 1900; corruption measures from Varieties of Democr
 ### Research design (plain language)
 
 Empirical analysis testing three hypotheses: revolutions increase, decrease, or have no effect on corruption. Education moderation effects examined for heterogeneous impacts.
-
-### One caveat
-
-Correlation between revolutions and corruption could reflect reverse causation or omitted variables; cannot rule out that revolutions may prevent corruption increases that would otherwise occur.
 
 ### PDF or DOI
 

@@ -8,26 +8,29 @@ tags:
   - labor
   - migration
   - natural-disasters
+publication_id: shakya-2022-nepal-earthquake-labor-migration
+status: verified
 ---
 
 # Natural disasters and labor migration in Nepal
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Shakya et al. (2022), *World Development*. Not the journal article.
 
-**Publication id**: `shakya-2022-nepal-earthquake-labor-migration` 
-**Status**: verified
-
-**Citation**: Shakya, S., Basnet, S., & Paudel, J. (2022). Natural disasters and labor migration: Evidence from Nepal's earthquake. *World Development*. [Download PDF](https://www.dropbox.com/scl/fi/883lv35mzgnhdfnlmyeqt/Natural-disasters-and-labor-migration-Evidence-from-Nepal-s-earthquake.pdf?rlkey=8in4xafkl8su5e950dpn0uqrn&dl=0)
+**Citation**: Shakya, S., Basnet, S., & Paudel, J. (2022). Natural disasters and labor migration: Evidence from Nepal's earthquake. *World Development*. [Free PDF](https://www.dropbox.com/scl/fi/883lv35mzgnhdfnlmyeqt/Natural-disasters-and-labor-migration-Evidence-from-Nepal-s-earthquake.pdf?rlkey=8in4xafkl8su5e950dpn0uqrn&dl=0)
 
 ## Facts
-
-### Policy hook
-
-Natural disasters disrupt economic livelihoods. One household response is labor migration - leaving home for employment elsewhere. Understanding how disasters trigger migration is critical for development policy, disaster response, and predicting population movements post-crisis. This paper examines whether major earthquakes causally increase international labor migration.
 
 ### Main finding
 
 The 2015 April earthquake in Nepal increased out-migration rates at the district level by 1.5 percentage points among severely affected districts compared to unaffected control districts. This effect is statistically significant and substantial given baseline migration rates, indicating that earthquakes trigger household-level migration responses as a livelihood adaptation strategy.
+
+### One caveat
+
+Study focuses exclusively on documented legal labor migration via work permits; cannot examine undocumented/illegal labor migration due to lack of reliable data. Internal migration to India unexamined due to lack of regulation/documentation. Estimates may reflect both push effects (earthquake damage) and pull effects (reconstruction employment opportunities), which cannot be separately identified.
+
+### Policy hook
+
+Natural disasters disrupt economic livelihoods. One household response is labor migration - leaving home for employment elsewhere. Understanding how disasters trigger migration is critical for development policy, disaster response, and predicting population movements post-crisis. This paper examines whether major earthquakes causally increase international labor migration.
 
 ### Data and setting
 
@@ -37,13 +40,9 @@ The 2015 April earthquake in Nepal increased out-migration rates at the district
 
 Difference-in-differences research design exploiting plausibly exogenous variation in earthquake severity across districts. Interactive fixed effects (Bai 2009) augmented within DID framework to control for nationwide time trends and time-varying unobserved group differences. Compares pre- and post-earthquake migration trends between affected and unaffected districts.
 
-### One caveat
-
-Study focuses exclusively on documented legal labor migration via work permits; cannot examine undocumented/illegal labor migration due to lack of reliable data. Internal migration to India unexamined due to lack of regulation/documentation. Estimates may reflect both push effects (earthquake damage) and pull effects (reconstruction employment opportunities), which cannot be separately identified.
-
 ### PDF or DOI
 
-[Download PDF](https://www.dropbox.com/scl/fi/883lv35mzgnhdfnlmyeqt/Natural-disasters-and-labor-migration-Evidence-from-Nepal-s-earthquake.pdf?rlkey=8in4xafkl8su5e950dpn0uqrn&dl=0)
+[Free PDF](https://www.dropbox.com/scl/fi/883lv35mzgnhdfnlmyeqt/Natural-disasters-and-labor-migration-Evidence-from-Nepal-s-earthquake.pdf?rlkey=8in4xafkl8su5e950dpn0uqrn&dl=0)
 
 ## Why it matters
 

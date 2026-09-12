@@ -8,26 +8,29 @@ tags:
   - political-economy
   - gender
   - collective-action
+publication_id: ammons-2025-women-successful-revolution
+status: verified
 ---
 
 # What do women gain from successful revolutions
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Ammons et al. (2025), *Journal of Institutional Economics*. Not the journal article.
 
-**Publication id**: `ammons-2025-women-successful-revolution` 
-**Status**: verified
-
-**Citation**: Ammons, J., Shakya, S., & Callais, J. T. (2025). What do women get from a successful revolution? *Journal of Institutional Economics*. [Download PDF](https://www.dropbox.com/scl/fi/691ysf6zimszgb1b3wscz/what-do-women-get-from-a-successful-revolution.pdf?rlkey=1yebirjrvyaq7yl2jt8mdf0ob&st=5rhg36b8&dl=0)
+**Citation**: Ammons, J., Shakya, S., & Callais, J. T. (2025). What do women get from a successful revolution? *Journal of Institutional Economics*. [Free PDF](https://www.dropbox.com/scl/fi/691ysf6zimszgb1b3wscz/what-do-women-get-from-a-successful-revolution.pdf?rlkey=1yebirjrvyaq7yl2jt8mdf0ob&st=5rhg36b8&dl=0)
 
 ## Facts
-
-### Policy hook
-
-Revolutions transform institutions at a basic level. The question for gender equality is whether the revolutionary pathway - violent versus nonviolent - shapes women's post-revolutionary empowerment differently. Both claim to pursue justice and institutional reform, but violent and nonviolent revolutions may build different post-revolutionary institutions with divergent consequences for women's rights.
 
 ### Main finding
 
 Nonviolent revolutions with explicit regime change intentions consistently yield positive and statistically significant improvements across multiple women's empowerment dimensions - particularly political empowerment, civil liberties, and civil society participation. Violent revolutions demonstrate more ambiguous and less statistically strong effects even after controlling for regime change intention, suggesting that the method of transformation (violent vs. nonviolent) significantly predicts women's post-revolutionary gains.
+
+### One caveat
+
+Effectiveness significantly mediated by context-specific factors, institutional barriers, and intersectional dynamics. In settings with entrenched patriarchal norms or specific party structures, numerical presence of women does not guarantee influence on policy or institutional design. Post-revolutionary institutional capacity, organized feminist movements, and international pressure all interact with revolutionary pathway to determine actual women's empowerment results.
+
+### Policy hook
+
+Revolutions transform institutions at a basic level. The question for gender equality is whether the revolutionary pathway - violent versus nonviolent - shapes women's post-revolutionary empowerment differently. Both claim to pursue justice and institutional reform, but violent and nonviolent revolutions may build different post-revolutionary institutions with divergent consequences for women's rights.
 
 ### Data and setting
 
@@ -37,13 +40,9 @@ Nonviolent and Violent Campaigns and Results (NAVCO) dataset on successful revol
 
 Fixed-effect difference-in-differences and Callaway Sant'Anna (2021) methodology applied to staggered treatment adoption in heterogeneous settings. Event study analyses examining effects over time post-revolution. Separate analyses for violent and nonviolent revolutions with explicit regime change intentions as the treatment variable.
 
-### One caveat
-
-Effectiveness significantly mediated by context-specific factors, institutional barriers, and intersectional dynamics. In settings with entrenched patriarchal norms or specific party structures, numerical presence of women does not guarantee influence on policy or institutional design. Post-revolutionary institutional capacity, organized feminist movements, and international pressure all interact with revolutionary pathway to determine actual women's empowerment results.
-
 ### PDF or DOI
 
-[Download PDF](https://www.dropbox.com/scl/fi/691ysf6zimszgb1b3wscz/what-do-women-get-from-a-successful-revolution.pdf?rlkey=1yebirjrvyaq7yl2jt8mdf0ob&st=5rhg36b8&dl=0)
+[Free PDF](https://www.dropbox.com/scl/fi/691ysf6zimszgb1b3wscz/what-do-women-get-from-a-successful-revolution.pdf?rlkey=1yebirjrvyaq7yl2jt8mdf0ob&st=5rhg36b8&dl=0)
 
 ## Why it matters
 

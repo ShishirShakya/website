@@ -8,26 +8,29 @@ tags:
   - environmental-policy
   - regulation
   - firm-behavior
+publication_id: scarcioffolo-2024-shale-environmental-policy
+status: verified
 ---
 
 # Firm responsiveness to environmental policy in shale production
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Scarcioffolo et al. (2024), *Applied Economics Letters*. Not the journal article.
 
-**Publication id**: `scarcioffolo-2024-shale-environmental-policy` 
-**Status**: verified
-
-**Citation**: Scarcioffolo, A., Mugabe, D., & Shakya, S. (2024). Stuck in the middle: The conundrum of firms' responsiveness to environmental policy in shale production. *Applied Economics Letters*. [Download PDF](https://www.dropbox.com/scl/fi/w5kh21t0f5q2uiqjpei98/Stuck-in-the-middle-the-conundrum-of-firms-responsiveness-to-environmental-policy-in-shale-production.pdf?rlkey=j0hb5mevqm08lm11dp9zjscdn&dl=0)
+**Citation**: Scarcioffolo, A., Mugabe, D., & Shakya, S. (2024). Stuck in the middle: The conundrum of firms' responsiveness to environmental policy in shale production. *Applied Economics Letters*. [Free PDF](https://www.dropbox.com/scl/fi/w5kh21t0f5q2uiqjpei98/Stuck-in-the-middle-the-conundrum-of-firms-responsiveness-to-environmental-policy-in-shale-production.pdf?rlkey=j0hb5mevqm08lm11dp9zjscdn&dl=0)
 
 ## Facts
-
-### Policy hook
-
-Policy makers use bonding requirements (financial guarantees) to compel oil and gas firms to absorb environmental costs of drilling, particularly for well abandonment and reclamation. The question is whether firms respond by complying with environmental standards or by exiting the market - a response that might undermine policy intent by leaving wells abandoned and cleanup costs with the state.
 
 ### Main finding
 
 When jurisdictions increase drilling bonding requirements, firms respond by exiting the unconventional oil and gas industry rather than increasing compliance efforts. West Virginia's increase from $5,000 to $25,000 per well and $50,000 to $250,000 operator bonds led to industry contraction and abandonment of inactive wells. This creates a "judgment-proof" problem: firms exit, leaving environmental liabilities with insufficient financial resources to address them, ultimately shifting cleanup costs to state governments.
+
+### One caveat
+
+Creates a judgment-proof problem: when environmental damages exceed firm assets, firms seek bankruptcy relief, leaving states bearing cleanup costs. Policy effectiveness constrained by firm financial capacity. Study focuses on documented drilling activity without estimating total environmental liability or state costs for abandoned well cleanup. Cannot distinguish whether firm exit is permanent or temporary response to regulatory cost increase.
+
+### Policy hook
+
+Policy makers use bonding requirements (financial guarantees) to compel oil and gas firms to absorb environmental costs of drilling, particularly for well abandonment and reclamation. The question is whether firms respond by complying with environmental standards or by exiting the market - a response that might undermine policy intent by leaving wells abandoned and cleanup costs with the state.
 
 ### Data and setting
 
@@ -37,13 +40,9 @@ West Virginia and Pennsylvania administrative drilling data, 2011-2013, capturin
 
 Analysis of firm responses to exogenous bond requirement policy changes using administrative drilling data. Exploits natural variation in policy timing and stringency between states and within time periods. Compares pre- and post-policy drilling activity patterns, well abandonment rates, and new drilling volume to identify behavioral responses.
 
-### One caveat
-
-Creates a judgment-proof problem: when environmental damages exceed firm assets, firms seek bankruptcy relief, leaving states bearing cleanup costs. Policy effectiveness constrained by firm financial capacity. Study focuses on documented drilling activity without estimating total environmental liability or state costs for abandoned well cleanup. Cannot distinguish whether firm exit is permanent or temporary response to regulatory cost increase.
-
 ### PDF or DOI
 
-[Download PDF](https://www.dropbox.com/scl/fi/w5kh21t0f5q2uiqjpei98/Stuck-in-the-middle-the-conundrum-of-firms-responsiveness-to-environmental-policy-in-shale-production.pdf?rlkey=j0hb5mevqm08lm11dp9zjscdn&dl=0)
+[Free PDF](https://www.dropbox.com/scl/fi/w5kh21t0f5q2uiqjpei98/Stuck-in-the-middle-the-conundrum-of-firms-responsiveness-to-environmental-policy-in-shale-production.pdf?rlkey=j0hb5mevqm08lm11dp9zjscdn&dl=0)
 
 ## Why it matters
 

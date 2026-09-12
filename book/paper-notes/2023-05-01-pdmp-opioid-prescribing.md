@@ -7,28 +7,31 @@ tags:
   - substance-use
   - opioids
   - policy
+publication_id: shakya-2023-pdmp-opioid-prescribing
+status: verified
 ---
 
 # Prescription drug monitoring programs and opioid prescribing
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Shakya et al. (2023), *Contemporary Economic Policy*. Not the journal article.
 
-**Publication id**: `shakya-2023-pdmp-opioid-prescribing` 
-**Status**: verified
-
-**Citation**: Shakya, S., & Ruseski, J. (2023). The effect of prescription drug monitoring programs on county-level opioid prescribing practices and spillovers. *Contemporary Economic Policy*, *41*(3), 435-454. [DOI](https://doi.org/10.1111/coep.12607). [Download PDF](https://www.dropbox.com/scl/fi/uwjo6pk4fvri714j9vgzc/Contemporary-Economic-Policy-2023-Shakya-The-effect-of-Prescription-Drug-Monitoring-Programs-on-county-level-opioid.pdf?rlkey=het575mm5mdsgi53gyljbjzok&dl=0)
+**Citation**: Shakya, S., & Ruseski, J. (2023). The effect of prescription drug monitoring programs on county-level opioid prescribing practices and spillovers. *Contemporary Economic Policy*, *41*(3), 435-454. [DOI](https://doi.org/10.1111/coep.12607). [Free PDF](https://www.dropbox.com/scl/fi/uwjo6pk4fvri714j9vgzc/Contemporary-Economic-Policy-2023-Shakya-The-effect-of-Prescription-Drug-Monitoring-Programs-on-county-level-opioid.pdf?rlkey=het575mm5mdsgi53gyljbjzok&dl=0)
 
 Facts below were checked against the published CEP manuscript in the Overleaf project `PDMP-County` (`BodyPage-CEP.tex`) and the journal abstract.
 
 ## Facts
 
-### Policy hook
-
-Voluntary prescription drug monitoring programs (PDMPs) are electronic databases of controlled-substance fills. Prescribers often skip them: by the end of 2013, only 22% of licensed prescribers were registered. Most states responded with "must access" rules that require checking the database before prescribing drugs with misuse potential. The policy question is whether those mandates actually cut retail opioid dispensing, and whether they just push patients across the state line.
-
 ### Main finding
 
 Counties in must-access PDMP states dispense about **5.5 fewer retail opioid prescriptions per 100 persons** than counties in voluntary-access states (border-contiguity specification). A simpler county-and-year fixed-effects comparison finds a larger drop of about 8.5 per 100 persons. Must-access counties that share a border with a voluntary-access county see a larger drop (about **7 fewer per 100 persons**) than interior counties in the same must-access states. That pattern is consistent with cross-border shopping. The extra prescribing on the voluntary-access side of the border appears in the immediately adjacent counties, not further inland.
+
+### One caveat
+
+The data do not split prescriptions by drug, dose, or patient risk, so the paper cannot say whether the drop is concentrated among high-risk fills. Must-access rules also differ across states (who may query, how fast pharmacies report, which schedules are covered), and this study treats the mandate as a single on/off policy. IQVIA leaves some counties blank. A blanket query rule can also restrict opioids for people who need them for pain.
+
+### Policy hook
+
+Voluntary prescription drug monitoring programs (PDMPs) are electronic databases of controlled-substance fills. Prescribers often skip them: by the end of 2013, only 22% of licensed prescribers were registered. Most states responded with "must access" rules that require checking the database before prescribing drugs with misuse potential. The policy question is whether those mandates actually cut retail opioid dispensing, and whether they just push patients across the state line.
 
 ### Data and setting
 
@@ -38,13 +41,9 @@ US counties, 2010-2017 (25,120 county-year observations). The outcome is CDC est
 
 The paper uses staggered adoption of must-access mandates in a difference-in-differences design with county and year fixed effects. To reduce the worry that high-prescribing states are the ones that adopt mandates, it then compares counties on either side of a state border: must-access interior counties, must-access border counties, neighboring voluntary-access border counties, and other counties. Standard errors are clustered at the state and year level. Checks include other opioid-related state laws and Medicaid expansion, a double-selection LASSO for county covariates, a Goodman-Bacon decomposition of staggered timing, event studies (two-way fixed effects and Sun and Abraham 2021), and a placebo that randomizes must-access dates 1,000 times.
 
-### One caveat
-
-The data do not split prescriptions by drug, dose, or patient risk, so the paper cannot say whether the drop is concentrated among high-risk fills. Must-access rules also differ across states (who may query, how fast pharmacies report, which schedules are covered), and this study treats the mandate as a single on/off policy. IQVIA leaves some counties blank. A blanket query rule can also restrict opioids for people who need them for pain.
-
 ### PDF or DOI
 
-[DOI: 10.1111/coep.12607](https://doi.org/10.1111/coep.12607). [Author PDF](https://www.dropbox.com/scl/fi/uwjo6pk4fvri714j9vgzc/Contemporary-Economic-Policy-2023-Shakya-The-effect-of-Prescription-Drug-Monitoring-Programs-on-county-level-opioid.pdf?rlkey=het575mm5mdsgi53gyljbjzok&dl=0)
+[DOI](https://doi.org/10.1111/coep.12607) · [Free PDF](https://www.dropbox.com/scl/fi/uwjo6pk4fvri714j9vgzc/Contemporary-Economic-Policy-2023-Shakya-The-effect-of-Prescription-Drug-Monitoring-Programs-on-county-level-opioid.pdf?rlkey=het575mm5mdsgi53gyljbjzok&dl=0)
 
 ## Figures
 

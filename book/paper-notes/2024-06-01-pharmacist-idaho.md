@@ -6,26 +6,29 @@ description: Pharmacist prescriptive authority in Idaho increased Medicare Part 
 tags:
   - healthcare
   - scope-of-practice
+publication_id: shakya-2024-pharmacist-idaho
+status: verified
 ---
 
 # Pharmacist prescriptive authority in Idaho
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
-
-**Publication id**: `shakya-2024-pharmacist-idaho` 
-**Status**: verified
+Explainer of Shakya et al. (2024), *Contemporary Economic Policy*. Not the journal article.
 
 **Citation**: Shakya, S., Plemmons, A., Bae, K., & Timmons, E. (2024). The pharmacist will see you now: Pharmacist prescriptive authority and access to care in Idaho. *Contemporary Economic Policy*. [Download](https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12647)
 
 ## Facts
 
-### Policy hook
-
-Scope-of-practice restrictions limit healthcare access for time-sensitive conditions. When Idaho granted pharmacists prescriptive authority, did it improve access to critical treatments like rescue inhalers and insulin pen needles?
-
 ### Main finding
 
 Pharmacist prescriptive authority in Idaho increased Medicare Part D claims, 30-day fills, and 30-day supplies of albuterol sulfate and insulin pen needles, providing approximately three additional patients per pharmacist timely care.
+
+### One caveat
+
+Focuses on Medicare beneficiaries only; does not measure wider population impacts, emergency department utilization, or whether access improvements translated to health outcome gains.
+
+### Policy hook
+
+Scope-of-practice restrictions limit healthcare access for time-sensitive conditions. When Idaho granted pharmacists prescriptive authority, did it improve access to critical treatments like rescue inhalers and insulin pen needles?
 
 ### Data and setting
 
@@ -35,13 +38,9 @@ Medicare beneficiaries in Idaho following HB 191 (2018); permitted pharmacists t
 
 Evaluation of Idaho's pioneering pharmacist prescriptive authority policy measuring claims and fill data before and after July 2018 Board of Pharmacy implementation rules.
 
-### One caveat
-
-Focuses on Medicare beneficiaries only; does not measure wider population impacts, emergency department utilization, or whether access improvements translated to health outcome gains.
-
 ### PDF or DOI
 
-[Publisher page](https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12647)
+[DOI](https://doi.org/10.1111/coep.12647) · [Publisher page](https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12647)
 
 ## Why it matters
 

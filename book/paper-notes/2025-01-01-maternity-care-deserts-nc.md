@@ -7,28 +7,31 @@ tags:
   - healthcare
   - rural-health
   - north-carolina
+publication_id: sugg-2025-maternity-care-deserts-nc
+status: verified
 ---
 
 # Maternity care deserts in North Carolina
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Sugg et al. (2025), *The Journal of Rural Health*. Not the journal article.
 
-**Publication id**: `sugg-2025-maternity-care-deserts-nc` 
-**Status**: verified
-**Published**: 2025, Vol. 41: e70020 in *The Journal of Rural Health* 
+**Citation**: Sugg, M., Shakya, S., Ulrich, S., Tyson, J. S., & Runkle, J. (2025). Mapping maternity care deserts: Driving distance and health outcomes in North Carolina. *The Journal of Rural Health*, 41, e70020. https://doi.org/10.1111/jrh.70020 [Free PDF](https://www.dropbox.com/scl/fi/6vupzn4iwu2jzzl4gnhtc/The-Journal-of-Rural-Health-2025-Sugg-Mapping-maternity-care-deserts-Driving-distance-and-health-outcomes-in-North.pdf?rlkey=zia9y7p4vinyz5uc72q0lzuct&st=g5om58hn&dl=0)
+
 **Award**: NRHA Article of the Year, 2026
 
-**Citation**: Sugg, M., Shakya, S., Ulrich, S., Tyson, J. S., & Runkle, J. (2025). Mapping maternity care deserts: Driving distance and health outcomes in North Carolina. *The Journal of Rural Health*, 41, e70020. https://doi.org/10.1111/jrh.70020 [Download PDF](https://www.dropbox.com/scl/fi/6vupzn4iwu2jzzl4gnhtc/The-Journal-of-Rural-Health-2025-Sugg-Mapping-maternity-care-deserts-Driving-distance-and-health-outcomes-in-North.pdf?rlkey=zia9y7p4vinyz5uc72q0lzuct&st=g5om58hn&dl=0)
-
 ## Facts
-
-### Policy hook
-
-Access to maternity care is declining across the U.S. despite rising maternal deaths and adverse results. Between 2006 and 2020, over 400 maternity services closed, with disproportionate impact on Black women. Maternity care deserts - geographic areas with limited or no maternal health services - affect 2.3 million women and up to 150,000 births nationally according to the March of Dimes. Understanding which areas and populations are most affected by declining access is an emerging research priority as maternal mortality rates continue to rise.
 
 ### Main finding
 
 Increased driving distance to obstetric/gynecological providers was significantly associated with worse maternal and infant health results in North Carolina. Women in the lowest access areas experienced higher rates of gestational diabetes (aOR: 1.15), preterm birth (aOR: 1.18), hypertensive disorders of pregnancy (aOR: 1.03), cesarean delivery (aOR: 1.23), and severe maternal morbidity (SMM20: aOR 1.09; SMM21: aOR 1.61). Rural and low-income areas had significantly fewer providers, longer travel times, and longer driving distances. Notably, social and economic status emerged as a stronger driver of provider access than racial composition in North Carolina.
+
+### One caveat
+
+The analysis included only OB/GYN providers and excluded other critical maternal healthcare providers - notably midwives and family physicians - who deliver approximately 10% of babies in rural settings. This omission may have overlooked a significant component of actual maternal care accessibility. Additionally, the NPI database relies on self-reported provider data, and providers may retire or relocate without updates, affecting accuracy. Importantly, social and economic factors - not race/ethnicity - emerged as the primary driver of provider shortages in North Carolina, likely reflecting the state's unique Appalachian geography and demographics; these findings may not generalize to other U.S. regions.
+
+### Policy hook
+
+Access to maternity care is declining across the U.S. despite rising maternal deaths and adverse results. Between 2006 and 2020, over 400 maternity services closed, with disproportionate impact on Black women. Maternity care deserts - geographic areas with limited or no maternal health services - affect 2.3 million women and up to 150,000 births nationally according to the March of Dimes. Understanding which areas and populations are most affected by declining access is an emerging research priority as maternal mortality rates continue to rise.
 
 ### Data and setting
 
@@ -42,13 +45,9 @@ Increased driving distance to obstetric/gynecological providers was significantl
 
 Retrospective secondary data analysis using geographic information systems (GIS). Researchers geocoded OB/GYN provider locations and calculated driving distance (miles) and driving time (minutes) from population-weighted residential zip codes to nearest obstetric providers. They then employed generalized linear mixed models to examine associations between accessibility measures and five maternal/infant health results, adjusting for individual factors (age, race/ethnicity, insurance type) and community-level factors (rural-urban classification, income segregation, racial segregation using the Index of Concentration at the Extremes). Geographic clustering was accounted for using random intercepts by residential ZCTA.
 
-### One caveat
-
-The analysis included only OB/GYN providers and excluded other critical maternal healthcare providers - notably midwives and family physicians - who deliver approximately 10% of babies in rural settings. This omission may have overlooked a significant component of actual maternal care accessibility. Additionally, the NPI database relies on self-reported provider data, and providers may retire or relocate without updates, affecting accuracy. Importantly, social and economic factors - not race/ethnicity - emerged as the primary driver of provider shortages in North Carolina, likely reflecting the state's unique Appalachian geography and demographics; these findings may not generalize to other U.S. regions.
-
 ### PDF or DOI
 
-[Download PDF](https://www.dropbox.com/scl/fi/6vupzn4iwu2jzzl4gnhtc/The-Journal-of-Rural-Health-2025-Sugg-Mapping-maternity-care-deserts-Driving-distance-and-health-outcomes-in-North.pdf?rlkey=zia9y7p4vinyz5uc72q0lzuct&st=g5om58hn&dl=0) · DOI: [10.1111/jrh.70020](https://doi.org/10.1111/jrh.70020)
+[DOI](https://doi.org/10.1111/jrh.70020) · [Free PDF](https://www.dropbox.com/scl/fi/6vupzn4iwu2jzzl4gnhtc/The-Journal-of-Rural-Health-2025-Sugg-Mapping-maternity-care-deserts-Driving-distance-and-health-outcomes-in-North.pdf?rlkey=zia9y7p4vinyz5uc72q0lzuct&st=g5om58hn&dl=0)
 
 ## Why it matters
 

@@ -7,26 +7,29 @@ tags:
   - research-methods
   - reproducibility
   - science-policy
+publication_id: miske-2026-score-reproducibility
+status: verified
 ---
 
 # Investigating reproducibility in the social and behavioral sciences
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Miske et al. (2026), *Nature*. Not the journal article.
 
-**Publication id**: `miske-2026-score-reproducibility` 
-**Status**: verified
-
-**Citation**: Miske, O., ..., Shakya, S., ... et al. (2026). Investigating the reproducibility of the social and behavioural sciences. *Nature*. [Download PDF](https://repository.essex.ac.uk/42891/1/SCOREreproducibility.fullmanuscript.pdf)
+**Citation**: Miske, O., ..., Shakya, S., ... et al. (2026). Investigating the reproducibility of the social and behavioural sciences. *Nature*. [DOI](https://doi.org/10.1038/s41586-026-10203-5). [PDF](https://repository.essex.ac.uk/42891/1/SCOREreproducibility.fullmanuscript.pdf)
 
 ## Facts
-
-### Policy hook
-
-Beyond replicability (can results be reproduced with new data?), reproducibility (can analyses be reproduced from original data?) matters for assessing research reliability. How reproducible are social and behavioral science analyses?
 
 ### Main finding
 
 Systematic assessment of reproducibility in social and behavioral sciences examines whether published analyses can be reproduced from original datasets and code.
+
+### One caveat
+
+Reproducibility assessment requires researcher effort and cooperation; some failures may reflect inadequate documentation rather than fundamental analytical errors.
+
+### Policy hook
+
+Beyond replicability (can results be reproduced with new data?), reproducibility (can analyses be reproduced from original data?) matters for assessing research reliability. How reproducible are social and behavioral science analyses?
 
 ### Data and setting
 
@@ -36,13 +39,9 @@ Reproducibility project examining code and data availability for published studi
 
 Systematic audit of published papers assessing whether researchers can reproduce original analyses using available code, data, and documentation.
 
-### One caveat
-
-Reproducibility assessment requires researcher effort and cooperation; some failures may reflect inadequate documentation rather than fundamental analytical errors.
-
 ### PDF or DOI
 
-[Download PDF](https://repository.essex.ac.uk/42891/1/SCOREreproducibility.fullmanuscript.pdf)
+[DOI](https://doi.org/10.1038/s41586-026-10203-5) · [PDF](https://repository.essex.ac.uk/42891/1/SCOREreproducibility.fullmanuscript.pdf)
 
 ## Why it matters
 

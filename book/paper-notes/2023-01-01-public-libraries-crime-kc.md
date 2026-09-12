@@ -8,26 +8,29 @@ tags:
   - public-goods
   - policy
   - crime
+publication_id: neto-2023-public-libraries-crime
+status: verified
 ---
 
 # Do public libraries help mitigate crime
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Neto et al. (2023), *The Journal of Cultural Economics*. Not the journal article.
 
-**Publication id**: `neto-2023-public-libraries-crime` 
-**Status**: verified
-
-**Citation**: Neto, A., Nowicki, J., & Shakya, S. (2023). Do public libraries help mitigate crime? Evidence from Kansas City, MO. *The Journal of Cultural Economics*. [Download PDF](https://www.dropbox.com/scl/fi/17fe6rp5xi12xcgkkq34i/Do-Public-Libraries.pdf?rlkey=kg5bzwtp370i2n77gcdhrxorq&dl=0)
+**Citation**: Neto, A., Nowicki, J., & Shakya, S. (2023). Do public libraries help mitigate crime? Evidence from Kansas City, MO. *The Journal of Cultural Economics*. [Free PDF](https://www.dropbox.com/scl/fi/17fe6rp5xi12xcgkkq34i/Do-Public-Libraries.pdf?rlkey=kg5bzwtp370i2n77gcdhrxorq&dl=0)
 
 ## Facts
-
-### Policy hook
-
-Cultural institutions like public libraries are often justified on grounds of education, community community ties, and community benefit. However, few studies examine whether libraries have clear public safety benefits. If libraries reduce crime, they could provide an additional justification for public investment - particularly in poorly served neighborhoods.
 
 ### Main finding
 
 Public library openings reduce crime within nearby proximity, with substantial reductions in burglaries, vandalism, robberies, fraud, and assaults. Crime reductions are largest at close proximity to the library and decay with distance - effects vanish at greater distances, suggesting a localized neighborhood effect rather than a city-wide reduction.
+
+### One caveat
+
+Crime reduction effects are limited to nearby proximity only and vanish at distance, which could reflect selection (people self-sorting near libraries) or reverse causality (libraries opening in low-crime areas first). The study covers only one library opening in one city, limiting external validity. Only one other explicit prior study (Porter 2014) examining public libraries and crime was found in the literature.
+
+### Policy hook
+
+Cultural institutions like public libraries are often justified on grounds of education, community community ties, and community benefit. However, few studies examine whether libraries have clear public safety benefits. If libraries reduce crime, they could provide an additional justification for public investment - particularly in poorly served neighborhoods.
 
 ### Data and setting
 
@@ -37,13 +40,9 @@ Kansas City, Missouri, from 2009 to 2017. Outcome data come from the Kansas City
 
 The paper uses a difference-in-differences strategy comparing crime in areas near the new library (treated areas at varying distances) with crime in comparison areas before and after the library opening. The analysis examines whether crime changes at different radii from the library location. Robustness is tested through a placebo distribution: 1,000 iterations of randomly permuting library locations to generate a null distribution of expected crime changes under no true effect.
 
-### One caveat
-
-Crime reduction effects are limited to nearby proximity only and vanish at distance, which could reflect selection (people self-sorting near libraries) or reverse causality (libraries opening in low-crime areas first). The study covers only one library opening in one city, limiting external validity. Only one other explicit prior study (Porter 2014) examining public libraries and crime was found in the literature.
-
 ### PDF or DOI
 
-[Download PDF](https://www.dropbox.com/scl/fi/17fe6rp5xi12xcgkkq34i/Do-Public-Libraries.pdf?rlkey=kg5bzwtp370i2n77gcdhrxorq&dl=0)
+[Free PDF](https://www.dropbox.com/scl/fi/17fe6rp5xi12xcgkkq34i/Do-Public-Libraries.pdf?rlkey=kg5bzwtp370i2n77gcdhrxorq&dl=0)
 
 ## Why it matters
 

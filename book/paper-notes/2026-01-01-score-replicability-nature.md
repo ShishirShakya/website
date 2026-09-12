@@ -7,26 +7,29 @@ tags:
   - research-methods
   - replicability
   - science-policy
+publication_id: tyner-2026-score-replicability
+status: verified
 ---
 
 # Investigating replicability in the social and behavioral sciences
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Tyner et al. (2026), *Nature*. Not the journal article.
 
-**Publication id**: `tyner-2026-score-replicability` 
-**Status**: verified
-
-**Citation**: Tyner, A., ..., Shakya, S., ... et al. (2026). Investigating the replicability of the social and behavioural sciences. *Nature*. [Download PDF](https://osf.io/preprints/metaarxiv/b7x8f)
+**Citation**: Tyner, A., ..., Shakya, S., ... et al. (2026). Investigating the replicability of the social and behavioural sciences. *Nature*. [DOI](https://doi.org/10.1038/s41586-025-10078-y). [PDF](https://osf.io/preprints/metaarxiv/b7x8f)
 
 ## Facts
-
-### Policy hook
-
-How replicable is social and behavioral science research? Systematic assessment can identify which finding types replicate reliably and which warrant skepticism before policy application.
 
 ### Main finding
 
 Systematic replication study examining replicability of published findings across social and behavioral sciences identifies patterns in which result types successfully replicate.
+
+### One caveat
+
+Replication success depends on exact following the protocol and resource constraints may prevent perfect reproduction of original conditions.
+
+### Policy hook
+
+How replicable is social and behavioral science research? Systematic assessment can identify which finding types replicate reliably and which warrant skepticism before policy application.
 
 ### Data and setting
 
@@ -36,13 +39,9 @@ Large-scale replication study of social and behavioral science findings; Systema
 
 Coordinated replication of many published studies using standardized protocols to measure what percentage of original findings successfully replicate.
 
-### One caveat
-
-Replication success depends on exact following the protocol and resource constraints may prevent perfect reproduction of original conditions.
-
 ### PDF or DOI
 
-[Download PDF](https://osf.io/preprints/metaarxiv/b7x8f)
+[DOI](https://doi.org/10.1038/s41586-025-10078-y) · [PDF](https://osf.io/preprints/metaarxiv/b7x8f)
 
 ## Why it matters
 

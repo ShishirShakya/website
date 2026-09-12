@@ -7,26 +7,29 @@ tags:
   - education
   - policy
   - teaching-and-learning
+publication_id: shakya-2024-grading-policy-email-nudges
+status: verified
 ---
 
 # Grading policy, email nudges, and grade outcomes
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Shakya et al. (2024), *The Journal of Economic Education*. Not the journal article.
 
-**Publication id**: `shakya-2024-grading-policy-email-nudges` 
-**Status**: verified
-
-**Citation**: Shakya, S., & Levinstein, M. (2024). Grading policy, email nudges, and grade outcomes. *The Journal of Economic Education*. [Download PDF](https://www.dropbox.com/scl/fi/o9seuixtlkn74xdnzljcw/Grading-policy-email-nudges-and-grade-outcomes.pdf?rlkey=i1k0jzv8h55txa5625x35ik1g&dl=0)
+**Citation**: Shakya, S., & Levinstein, M. (2024). Grading policy, email nudges, and grade outcomes. *The Journal of Economic Education*. [Free PDF](https://www.dropbox.com/scl/fi/o9seuixtlkn74xdnzljcw/Grading-policy-email-nudges-and-grade-outcomes.pdf?rlkey=i1k0jzv8h55txa5625x35ik1g&dl=0)
 
 ## Facts
-
-### Policy hook
-
-Professor-sent email reminders to students scoring below 30 points on weekly assignments.
 
 ### Main finding
 
 Email nudges improved low-performing student grades by 22-28 points per 50 points (44-56% improvement). Effect remained strong across 12 weeks despite some evidence of nudge fatigue with repeated treatments.
+
+### One caveat
+
+Results based on observational, not randomized, data. Treatment effects specific to low-performing students and cannot be interpreted as average treatment effects for the population. Repeated nudges showed diminishing returns (22-28 points for one nudge vs. 24 points after four nudges), suggesting saturation effects.
+
+### Policy hook
+
+Professor-sent email reminders to students scoring below 30 points on weekly assignments.
 
 ### Data and setting
 
@@ -36,13 +39,9 @@ Email nudges improved low-performing student grades by 22-28 points per 50 point
 
 Difference-in-differences approach using observational data where treatment assignment was conditional on prior performance (part-I score). Exploited university power outages as natural experiment for robustness (triple difference-in-differences). Conducted 1,000 permutation tests to verify results were not due to chance.
 
-### One caveat
-
-Results based on observational, not randomized, data. Treatment effects specific to low-performing students and cannot be interpreted as average treatment effects for the population. Repeated nudges showed diminishing returns (22-28 points for one nudge vs. 24 points after four nudges), suggesting saturation effects.
-
 ### PDF or DOI
 
-[Download PDF](https://www.dropbox.com/scl/fi/o9seuixtlkn74xdnzljcw/Grading-policy-email-nudges-and-grade-outcomes.pdf?rlkey=i1k0jzv8h55txa5625x35ik1g&dl=0)
+[Free PDF](https://www.dropbox.com/scl/fi/o9seuixtlkn74xdnzljcw/Grading-policy-email-nudges-and-grade-outcomes.pdf?rlkey=i1k0jzv8h55txa5625x35ik1g&dl=0)
 
 ## Why it matters
 

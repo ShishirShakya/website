@@ -8,26 +8,29 @@ tags:
   - institutions
   - markets
   - collective-action
+publication_id: shakya-2025-social-movements-market
+status: verified
 ---
 
 # Social movements and market legitimacy
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Shakya et al. (2025), *Journal of Economic Behavior & Organization*. Not the journal article.
 
-**Publication id**: `shakya-2025-social-movements-market` 
-**Status**: verified
-
-**Citation**: Shakya, S. and Ammons, J. (2025). The Invisible Hand Meets the Raised Fist: Social Movements and Market Legitimacy. *Journal of Economic Behavior & Organization*. [Download PDF](https://www.dropbox.com/scl/fi/gqvbgmgf2midszre44cyf/The-Invisible-Hand-Meets-the-Raised-Fist.pdf?rlkey=fg7jdpiv4w9xlw5tgoyl66j4s&st=0bttotm2&dl=0)
+**Citation**: Shakya, S. and Ammons, J. (2025). The Invisible Hand Meets the Raised Fist: Social Movements and Market Legitimacy. *Journal of Economic Behavior & Organization*. [Free PDF](https://www.dropbox.com/scl/fi/gqvbgmgf2midszre44cyf/The-Invisible-Hand-Meets-the-Raised-Fist.pdf?rlkey=fg7jdpiv4w9xlw5tgoyl66j4s&st=0bttotm2&dl=0)
 
 ## Facts
-
-### Policy hook
-
-Do mass social movements - particularly nonviolent campaigns versus violent revolutions - shape the institutional foundations that support market economies? Policy makers and development organizations debate whether collective action supports or weakens capitalism and liberal democracy. This paper tests whether successful nonviolent campaigns build the institutional infrastructure (rule of law, property rights protection, competitive markets) essential for market economies.
 
 ### Main finding
 
 Nonviolent campaigns that achieve lasting success are associated with substantial improvements in liberal democracy indicators, rule of law, civil liberties, government accountability, and reduced state ownership of the economy - all basic elements of capitalist economies. Violent campaigns show more ambiguous and statistically weaker effects on these institutions, suggesting that the pathway to institutional change (violent vs. nonviolent) matters significantly for market development results.
+
+### One caveat
+
+Institutional improvements are contingent on cultural and structural variables; results depend heavily on post-campaign cultural dynamics that can expand or counteract mass pressures for market liberalism. Oster (2019) test indicates unobservables would need to be more than twice as influential as observables to overturn results, but unmeasured institutional factors may still play important roles.
+
+### Policy hook
+
+Do mass social movements - particularly nonviolent campaigns versus violent revolutions - shape the institutional foundations that support market economies? Policy makers and development organizations debate whether collective action supports or weakens capitalism and liberal democracy. This paper tests whether successful nonviolent campaigns build the institutional infrastructure (rule of law, property rights protection, competitive markets) essential for market economies.
 
 ### Data and setting
 
@@ -37,13 +40,9 @@ V-Dem (Varieties of Democracy) dataset and NAVCO (Nonviolent and Violent Campaig
 
 Event study framework using Callaway and Sant'Anna (2021) methodology on panel data, using a "once-treated-always-treated" specification to avoid violations of the Stable Unit Treatment Value Assumption (SUTVA). Includes parallel trends validation and Goodman-Bacon decomposition to confirm treatment effect homogeneity. Compares pre- and post-campaign institutional trajectories across countries.
 
-### One caveat
-
-Institutional improvements are contingent on cultural and structural variables; results depend heavily on post-campaign cultural dynamics that can expand or counteract mass pressures for market liberalism. Oster (2019) test indicates unobservables would need to be more than twice as influential as observables to overturn results, but unmeasured institutional factors may still play important roles.
-
 ### PDF or DOI
 
-[Download PDF](https://www.dropbox.com/scl/fi/gqvbgmgf2midszre44cyf/The-Invisible-Hand-Meets-the-Raised-Fist.pdf?rlkey=fg7jdpiv4w9xlw5tgoyl66j4s&st=0bttotm2&dl=0)
+[Free PDF](https://www.dropbox.com/scl/fi/gqvbgmgf2midszre44cyf/The-Invisible-Hand-Meets-the-Raised-Fist.pdf?rlkey=fg7jdpiv4w9xlw5tgoyl66j4s&st=0bttotm2&dl=0)
 
 ## Why it matters
 

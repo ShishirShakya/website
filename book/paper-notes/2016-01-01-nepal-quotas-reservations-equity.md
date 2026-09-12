@@ -8,26 +8,29 @@ tags:
   - equity
   - policy
   - nepal
+publication_id: shakya-2016-nepal-quotas-reservations-equity
+status: verified
 ---
 
 # Quotas and reservations to ensure equity in Nepal
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Shakya et al. (2016), *Economic Journal of Development Issues*. Not the journal article.
 
-**Publication id**: `shakya-2016-nepal-quotas-reservations-equity` 
-**Status**: verified
-
-**Citation**: Shakya, S. & Lama, N. (2016). Possible decision rules to allocate quotas and reservations to ensure equity for Nepalese poor. *Economic Journal of Development Issues*, 17(1-2):149-162. [Download PDF](https://www.dropbox.com/scl/fi/bex13j7asy4007n51h3ex/11801.pdf?rlkey=56d65l8c3aw93ehwcw3z98f4c&dl=0)
+**Citation**: Shakya, S. & Lama, N. (2016). Possible decision rules to allocate quotas and reservations to ensure equity for Nepalese poor. *Economic Journal of Development Issues*, 17(1-2):149-162. [Free PDF](https://www.dropbox.com/scl/fi/bex13j7asy4007n51h3ex/11801.pdf?rlkey=56d65l8c3aw93ehwcw3z98f4c&dl=0)
 
 ## Facts
-
-### Policy hook
-
-Nepal provides quotas and reservations for disadvantaged groups, but these categories are economically heterogeneous. How can governments design poverty-targeted allocation rules that effectively identify and support those truly below the poverty line?
 
 ### Main finding
 
 Decision tree models using 14 practical questions can predict household poverty in Nepal with 70-94% accuracy across different scenarios, providing policy makers with implementable tools for quota and reservation allocation that target assistance to the poorest households.
+
+### One caveat
+
+Decision rules' accuracy varies significantly depending on response patterns (70-94%), suggesting real-world performance depends heavily on implementation and response reliability.
+
+### Policy hook
+
+Nepal provides quotas and reservations for disadvantaged groups, but these categories are economically heterogeneous. How can governments design poverty-targeted allocation rules that effectively identify and support those truly below the poverty line?
 
 ### Data and setting
 
@@ -37,13 +40,9 @@ Decision tree models using 14 practical questions can predict household poverty 
 
 Machine learning (CART) developed simple decision trees based on answerable questions enumerators could verify. Multiple response scenarios tested rule robustness; out-of-sample accuracy measured.
 
-### One caveat
-
-Decision rules' accuracy varies significantly depending on response patterns (70-94%), suggesting real-world performance depends heavily on implementation and response reliability.
-
 ### PDF or DOI
 
-[Download PDF](https://www.dropbox.com/scl/fi/bex13j7asy4007n51h3ex/11801.pdf?rlkey=56d65l8c3aw93ehwcw3z98f4c&dl=0)
+[Free PDF](https://www.dropbox.com/scl/fi/bex13j7asy4007n51h3ex/11801.pdf?rlkey=56d65l8c3aw93ehwcw3z98f4c&dl=0)
 
 ## Why it matters
 

@@ -16,18 +16,22 @@ _Avoid_: Grain of Salt essay, blog post, full paper, abstract dump, publication 
 The Publication's full text or persistent identifier (a same-origin or repository `.pdf`, a publisher page, or `https://doi.org/...`). A Dropbox `/scl/` share is a human download convenience, not this.
 _Avoid_: Paper note URL, Dropbox share as scholarly full text
 
+**Free PDF**:
+The public label for a Dropbox `/scl/` share that gives a free copy of a Publication. It is not Canonical.
+_Avoid_: Download, Download PDF as if it were Canonical, scholarly full text
+
 **Grain of Salt essay**:
 A first-person reflective page on this site (memoir, meaning, craft of a life), not tied to a Publication, with no Facts block. The salt is that it is the author's view, not a research claim.
 _Avoid_: Blog post, Paper note, Publication, op-ed list entry
 
 **Facts block**:
-The fixed, human-verified claim fields on a Paper note (policy hook, main finding, data and setting, plain-language design, one caveat, PDF or DOI) that substantive narrative may rely on.
+The fixed, human-verified claim fields on a Paper note (main finding, one caveat, policy hook, data and setting, plain-language design, Canonical PDF or DOI then Free PDF) that substantive narrative may rely on.
 _Avoid_: Abstract paste, unverified AI summary
 
 **Verified**:
-A Paper note whose Facts block has been checked against the Canonical PDF or DOI, marked **Status**: verified in the page body.
-_Avoid_: Stub, draft, Facts filled
+A Paper note whose Facts block has been checked against the Canonical PDF or DOI, marked `status: verified` in page source (YAML frontmatter), not in the visible body.
+_Avoid_: Stub, draft, Facts filled, Status in the public page body
 
 **Stub**:
-A Paper note with citation and link only, marked **Status**: stub in the page body, whose Facts block is not yet verified against the PDF.
+A Paper note with citation and link only, marked `status: stub` in page source, whose Facts block is not yet verified against the Canonical PDF or DOI.
 _Avoid_: Verified, published claim

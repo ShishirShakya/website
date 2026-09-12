@@ -6,28 +6,31 @@ description: Experimental evaluation finds that carefully designed AI tutoring i
 tags:
   - education
   - generative-ai
+publication_id: babaei-shakya-2026-genai-study-groups
+status: verified
 ---
 
 # AI-enhanced study groups and learning outcomes
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Babaei-Balderlou et al. (2026), *The Journal of Economic Education*. Not the journal article.
 
-**Publication id**: `babaei-shakya-2026-genai-study-groups` 
-**Status**: verified
-
-**Citation**: Babaei-Balderlou, S. and Shakya, S. (2026). The Invisible Hand of Gen-AI: Can AI-Enhanced Study Groups Improve Learning Outcomes? *The Journal of Economic Education*. *Forthcoming*.
+**Citation**: Babaei-Balderlou, S. and Shakya, S. (2026). The Invisible Hand of Gen-AI: Can AI-Enhanced Study Groups Improve Learning Outcomes? *The Journal of Economic Education*. *Forthcoming*. [DOI](https://doi.org/10.1080/00220485.2026.2695361)
 
 Related popular writing: [The Conversation](https://theconversation.com/we-designed-an-ai-tutor-that-helps-college-students-reason-rather-than-give-them-answers-276584).
 
 ## Facts
 
-### Policy hook
-
-Generative AI tools are rapidly entering education, but evidence on their learning effectiveness is limited. Do AI-enhanced study groups improve learning results compared to traditional peer study?
-
 ### Main finding
 
 Experimental evaluation of AI-enhanced study groups finds evidence that carefully designed AI tutoring can improve learning results by helping students reason rather than simply providing answers.
+
+### One caveat
+
+Experiment conducted in college setting with self-selected student participants; results may not generalize to K-12 or other educational levels or student populations.
+
+### Policy hook
+
+Generative AI tools are rapidly entering education, but evidence on their learning effectiveness is limited. Do AI-enhanced study groups improve learning results compared to traditional peer study?
 
 ### Data and setting
 
@@ -37,13 +40,9 @@ College student learning results with AI-enhanced versus traditional study group
 
 Experimental comparison of student learning with AI-enhanced study groups versus traditional peer study, measuring both problem-solving ability and conceptual understanding.
 
-### One caveat
-
-Experiment conducted in college setting with self-selected student participants; results may not generalize to K-12 or other educational levels or student populations.
-
 ### PDF or DOI
 
-*Add publisher or preprint link when available. See [publications](../cv/publications.md).*
+[DOI](https://doi.org/10.1080/00220485.2026.2695361)
 
 ## Why it matters
 

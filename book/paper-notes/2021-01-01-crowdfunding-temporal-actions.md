@@ -8,26 +8,29 @@ tags:
   - finance
   - strategy
   - uncertainty
+publication_id: long-2021-crowdfunding-temporal-actions
+status: verified
 ---
 
 # Temporal actions under uncertainty in crowdfunding campaigns
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Long et al. (2021), *Frontiers of Entrepreneurship Research*. Not the journal article.
 
-**Publication id**: `long-2021-crowdfunding-temporal-actions` 
-**Status**: verified
-
-**Citation**: Long, A. J., Shakya, S., Plemmons, A., & Stull, M. (2021). Is Time Really Money? Exploring the Temporal Actions Under Uncertainty in Crowdfunding Campaigns. *Frontiers of Entrepreneurship Research*. [Download PDF](https://www.dropbox.com/scl/fi/0wr1vqkb980vtydusrp4t/ferpapers_4349.pdf?rlkey=il3xqgsy2502c1ywdifaj3ag6&st=ljdqj8xs&dl=0)
+**Citation**: Long, A. J., Shakya, S., Plemmons, A., & Stull, M. (2021). Is Time Really Money? Exploring the Temporal Actions Under Uncertainty in Crowdfunding Campaigns. *Frontiers of Entrepreneurship Research*. [Free PDF](https://www.dropbox.com/scl/fi/0wr1vqkb980vtydusrp4t/ferpapers_4349.pdf?rlkey=il3xqgsy2502c1ywdifaj3ag6&st=ljdqj8xs&dl=0)
 
 ## Facts
-
-### Policy hook
-
-Entrepreneurs face uncertainty throughout the startup process, particularly during environmental shocks (pandemics, crises). A key question is how heightened uncertainty affects the timing and pace of entrepreneurial action - do entrepreneurs accelerate or delay decision-making? This paper examines whether uncertainty changes how entrepreneurs structure their crowdfunding campaigns.
 
 ### Main finding
 
 Under high uncertainty, entrepreneurs exhibit different temporal responses during pre-launch versus post-launch phases. They take slower action when preparing campaigns (lower pre-launch pace, β = -0.512, p < 0.05) but extend campaign duration after launch (higher post-launch initiation, β = 5.050, p < 0.05). However, these temporal shifts are counterproductive: a slower pre-launch pace has no significant effect on campaign success, while a longer post-launch duration significantly reduces pledge amounts (β = -2.461, p < 0.05). In contrast, faster post-launch updates (higher pace) significantly improve performance (β = 0.313, p < 0.05).
+
+### One caveat
+
+The effects, while statistically significant, are modest in magnitude. The study captures only one COVID-19 wave shock and Kickstarter campaigns specifically, limiting external validity to other funding settings or uncertainty types. The temporal dynamics may not apply equally to all entrepreneurial ventures or non-crowdfunding settings. Additionally, the paper cannot distinguish between rational adjustments and behavioral responses driven by emotion or cognitive systematic errors under uncertainty.
+
+### Policy hook
+
+Entrepreneurs face uncertainty throughout the startup process, particularly during environmental shocks (pandemics, crises). A key question is how heightened uncertainty affects the timing and pace of entrepreneurial action - do entrepreneurs accelerate or delay decision-making? This paper examines whether uncertainty changes how entrepreneurs structure their crowdfunding campaigns.
 
 ### Data and setting
 
@@ -37,13 +40,9 @@ Under high uncertainty, entrepreneurs exhibit different temporal responses durin
 
 The paper uses difference-in-differences (DiD) regression to estimate how temporal characteristics change when environmental uncertainty increases. Treatment: post-March 2020 dummy and state-level lockdown implementation. Outcome variables include pre-launch initiation (time spent preparing), post-launch initiation (campaign duration), pre-launch pace (effort intensity), and post-launch pace (update frequency). A second stage uses two-stage least squares (2SLS) to test whether temporal characteristics causally affect campaign performance (pledge amount).
 
-### One caveat
-
-The effects, while statistically significant, are modest in magnitude. The study captures only one COVID-19 wave shock and Kickstarter campaigns specifically, limiting external validity to other funding settings or uncertainty types. The temporal dynamics may not apply equally to all entrepreneurial ventures or non-crowdfunding settings. Additionally, the paper cannot distinguish between rational adjustments and behavioral responses driven by emotion or cognitive systematic errors under uncertainty.
-
 ### PDF or DOI
 
-[Download PDF](https://www.dropbox.com/scl/fi/0wr1vqkb980vtydusrp4t/ferpapers_4349.pdf?rlkey=il3xqgsy2502c1ywdifaj3ag6&st=ljdqj8xs&dl=0)
+[Free PDF](https://www.dropbox.com/scl/fi/0wr1vqkb980vtydusrp4t/ferpapers_4349.pdf?rlkey=il3xqgsy2502c1ywdifaj3ag6&st=ljdqj8xs&dl=0)
 
 ## Why it matters
 

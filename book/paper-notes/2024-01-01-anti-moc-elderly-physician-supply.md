@@ -8,26 +8,29 @@ tags:
   - physician
   - workforce
   - regulation
+publication_id: shakya-2024-anti-moc-elderly-physician
+status: verified
 ---
 
 # Anti-maintenance of certification and elderly physician supply
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Shakya et al. (2024), *Economics Letters*. Not the journal article.
 
-**Publication id**: `shakya-2024-anti-moc-elderly-physician` 
-**Status**: verified
-
-**Citation**: Shakya, S., Nepal, T., Mathew, M., & Timmons, E. (2024). Anti-maintenance of certification and elderly physician supply. *Economics Letters*. [Download PDF](https://www.dropbox.com/scl/fi/fqb0916bkwk97m4we1riz/Anti-maintenance-of-certification-and-elderly-physician-supply.pdf?rlkey=2qqz14u2x47qfjy7ravd7d0o7&st=r1x2agmo&dl=0)
+**Citation**: Shakya, S., Nepal, T., Mathew, M., & Timmons, E. (2024). Anti-maintenance of certification and elderly physician supply. *Economics Letters*. [Free PDF](https://www.dropbox.com/scl/fi/fqb0916bkwk97m4we1riz/Anti-maintenance-of-certification-and-elderly-physician-supply.pdf?rlkey=2qqz14u2x47qfjy7ravd7d0o7&st=r1x2agmo&dl=0)
 
 ## Facts
-
-### Policy hook
-
-States argue that Maintenance of Certification (MOC) requirements are expensive and burdensome for physicians. Some states have passed anti-MOC laws to eliminate or reduce these requirements. The policy question is whether lifting MOC requirements increases the supply of older physicians who remain in practice or attract them from other states.
 
 ### Main finding
 
 Anti-MOC states show a statistically significant biannual increase of 1.4-1.9 percentage points in the share of older physicians (age 60+). States implementing full anti-MOC prohibition show larger effects of 1.9 percentage points (p<0.01). No significant effect appears for younger physicians under 60. This translates to approximately 4,732 additional older physicians nationwide biennially from the 1.4 percentage point increase.
+
+### One caveat
+
+Biennial treatment effects are modest in magnitude. Full anti-MOC prohibition states show larger effects than partial-prohibition states. The analysis cannot distinguish whether increased shares reflect older physicians staying longer in practice versus relocating from other states. Workforce survey data may have measurement error, and changes could reflect data reporting changes rather than true supply shifts.
+
+### Policy hook
+
+States argue that Maintenance of Certification (MOC) requirements are expensive and burdensome for physicians. Some states have passed anti-MOC laws to eliminate or reduce these requirements. The policy question is whether lifting MOC requirements increases the supply of older physicians who remain in practice or attract them from other states.
 
 ### Data and setting
 
@@ -37,13 +40,9 @@ State Physician Workforce Data Report, biennial intervals, covering all 50 state
 
 The paper uses a generalized difference-in-differences design with state and year fixed effects to estimate the impact of anti-MOC laws on the share of older physicians. Event study methods test for parallel pre-trends and estimate dynamic treatment effects. Regressions are weighted by the number of older physicians per state-year to account for state size variation. The identification strategy compares older physician shares before and after anti-MOC adoption, controlling for common temporal trends and permanent state-level differences.
 
-### One caveat
-
-Biennial treatment effects are modest in magnitude. Full anti-MOC prohibition states show larger effects than partial-prohibition states. The analysis cannot distinguish whether increased shares reflect older physicians staying longer in practice versus relocating from other states. Workforce survey data may have measurement error, and changes could reflect data reporting changes rather than true supply shifts.
-
 ### PDF or DOI
 
-[Download PDF](https://www.dropbox.com/scl/fi/fqb0916bkwk97m4we1riz/Anti-maintenance-of-certification-and-elderly-physician-supply.pdf?rlkey=2qqz14u2x47qfjy7ravd7d0o7&st=r1x2agmo&dl=0)
+[Free PDF](https://www.dropbox.com/scl/fi/fqb0916bkwk97m4we1riz/Anti-maintenance-of-certification-and-elderly-physician-supply.pdf?rlkey=2qqz14u2x47qfjy7ravd7d0o7&st=r1x2agmo&dl=0)
 
 ## Why it matters
 

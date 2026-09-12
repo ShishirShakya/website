@@ -7,26 +7,29 @@ tags:
   - political-economy
   - institutions
   - policy
+publication_id: ammons-2026-covert-regime-change
+status: verified
 ---
 
 # Covert regime change and ideology
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
-
-**Publication id**: `ammons-2026-covert-regime-change` 
-**Status**: verified
+Explainer of Ammons et al. (2026), *Public Choice*. Not the journal article.
 
 **Citation**: Ammons, J., Shakya, S. & Zhukov, K. (2026). Covert Regime Change and Ideology. *Public Choice*. [Download](https://link.springer.com/article/10.1007/s11127-026-01382-w)
 
 ## Facts
 
-### Policy hook
-
-Covert regime change operations are widespread in international relations, but do ideological factors explain variation in success rates and consequences? How does ideology shape covert intervention results?
-
 ### Main finding
 
 Analysis of covert regime change operations examines ideology's role in explaining variation in results and consequences of programs across historical cases.
+
+### One caveat
+
+Historical case data on covert operations is incomplete and may reflect reporting bias, with success and outcome measurement subject to interpretation.
+
+### Policy hook
+
+Covert regime change operations are widespread in international relations, but do ideological factors explain variation in success rates and consequences? How does ideology shape covert intervention results?
 
 ### Data and setting
 
@@ -35,10 +38,6 @@ Covert regime change operations dataset; historical analysis from early 20th cen
 ### Research design (plain language)
 
 Comparative analysis of covert regime change cases examining how ideological factors predict intervention results and post-intervention governance quality.
-
-### One caveat
-
-Historical case data on covert operations is incomplete and may reflect reporting bias, with success and outcome measurement subject to interpretation.
 
 ### PDF or DOI
 

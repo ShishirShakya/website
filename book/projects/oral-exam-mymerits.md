@@ -14,7 +14,7 @@ MyMeritGuide is free for teachers.
 
 ## Tutorials
 
-- [MyMeritGuide: scalable online oral examination](https://www.youtube.com/watch?v=q2dXo21SNJQ) (YouTube)
+- [MyMeritGuide: scalable online oral examination](https://www.youtube.com/watch?v=q2dXo21SNJQ)
 - [How to register as a professor](https://youtu.be/yQaakZF8AOg)
 - [How to create a course](https://youtu.be/1D7iF68iBkc)
 - [How to create an oral assignment](https://youtu.be/ereo-7-_QGU)

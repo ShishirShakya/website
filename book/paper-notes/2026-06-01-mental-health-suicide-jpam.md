@@ -7,28 +7,31 @@ tags:
   - healthcare
   - mental-health
   - policy
+publication_id: shakya-2026-mental-health-suicide-jpam
+status: verified
 ---
 
 # Access to mental health care and suicide rates
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Shakya et al. (2026), *Journal of Policy Analysis and Management*. Not the journal article.
 
-**Publication id**: `shakya-2026-mental-health-suicide-jpam` 
-**Status**: verified
-
-**Citation**: Shakya, S. and RoyChoudhury, A. (2026). Access to mental health care services and suicide rates in the United States. *Journal of Policy Analysis and Management*. [Download PDF](https://www.dropbox.com/scl/fi/99w08a9akb5vjf1k04ffe/Access-to-Mental-Health-Care-Services-and-Suicide-Rates-in-the-United-States.pdf?rlkey=8g8o5yqhd95o20c9pvzth7npu&st=grdkwgzq&dl=0)
+**Citation**: Shakya, S. and RoyChoudhury, A. (2026). Access to mental health care services and suicide rates in the United States. *Journal of Policy Analysis and Management*. [Free PDF](https://www.dropbox.com/scl/fi/99w08a9akb5vjf1k04ffe/Access-to-Mental-Health-Care-Services-and-Suicide-Rates-in-the-United-States.pdf?rlkey=8g8o5yqhd95o20c9pvzth7npu&st=grdkwgzq&dl=0)
 
 Related popular writing: [Archbridge Institute op-ed](https://www.archbridgeinstitute.org/reduce-suicide-rates-by-expanding-psychologists-prescriptive-authority/).
 
 ## Facts
 
-### Policy hook
-
-States implementing prescriptive authority for psychologists to expand the supply of mental health providers.
-
 ### Main finding
 
 A 10% improvement in access to mental health providers reduces suicide rates by 3% (1.6 fewer suicides per 100,000 population). This equals approximately 3 additional mental health providers per mile in a county.
+
+### One caveat
+
+Results show complementarity between psychologists and psychiatrists. When isolating only psychologist supply, effects become statistically insignificant. Treatment effects represent local average treatment effects (LATE) for those affected by RxP laws, limiting external validity beyond states with similar regulatory variation.
+
+### Policy hook
+
+States implementing prescriptive authority for psychologists to expand the supply of mental health providers.
 
 ### Data and setting
 
@@ -38,13 +41,9 @@ County-level panel data from 2016-2019 tracking the universe of psychiatric and 
 
 Instrumental variable approach using state implementation of psychologist prescriptive authority (RxP) laws as an exogenous instrument to address endogeneity between provider location and suicidality. Two-stage least squares regression with arcsinh-arcsinh specification on 12,556 county-year observations.
 
-### One caveat
-
-Results show complementarity between psychologists and psychiatrists. When isolating only psychologist supply, effects become statistically insignificant. Treatment effects represent local average treatment effects (LATE) for those affected by RxP laws, limiting external validity beyond states with similar regulatory variation.
-
 ### PDF or DOI
 
-[Download PDF](https://www.dropbox.com/scl/fi/99w08a9akb5vjf1k04ffe/Access-to-Mental-Health-Care-Services-and-Suicide-Rates-in-the-United-States.pdf?rlkey=8g8o5yqhd95o20c9pvzth7npu&st=grdkwgzq&dl=0)
+[Free PDF](https://www.dropbox.com/scl/fi/99w08a9akb5vjf1k04ffe/Access-to-Mental-Health-Care-Services-and-Suicide-Rates-in-the-United-States.pdf?rlkey=8g8o5yqhd95o20c9pvzth7npu&st=grdkwgzq&dl=0)
 
 ## Why it matters
 

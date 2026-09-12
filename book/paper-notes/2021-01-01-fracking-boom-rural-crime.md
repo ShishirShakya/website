@@ -7,26 +7,29 @@ tags:
   - energy
   - crime
   - regional-analysis
+publication_id: shakya-2021-fracking-boom-rural-crime
+status: verified
 ---
 
 # The fracking boom and crime rates in rural American states
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Shakya et al. (2021), *The Extractive Industries and Society*. Not the journal article.
 
-**Publication id**: `shakya-2021-fracking-boom-rural-crime` 
-**Status**: verified
-
-**Citation**: Shakya, S., & Sohag, K. (2021). The fracking boom and crime rates in the rural American states: Some critical insights. *The Extractive Industries and Society*. [Download PDF](https://www.dropbox.com/scl/fi/sa9pq8amlw5hzhizqrt44/The-fracking-boom-and-crime-rates-in-rural-American-states-Some-critical-insights.pdf?rlkey=lo4r0ed4d3bo2gte4gctizy7d&dl=0)
+**Citation**: Shakya, S., & Sohag, K. (2021). The fracking boom and crime rates in the rural American states: Some critical insights. *The Extractive Industries and Society*. [Free PDF](https://www.dropbox.com/scl/fi/sa9pq8amlw5hzhizqrt44/The-fracking-boom-and-crime-rates-in-rural-American-states-Some-critical-insights.pdf?rlkey=lo4r0ed4d3bo2gte4gctizy7d&dl=0)
 
 ## Facts
-
-### Policy hook
-
-The fracking boom transformed rural economies in states like Arkansas, North Dakota, and West Virginia, creating rapid population and employment changes. Sudden economic disruption and influx of transient workers may increase crime. The question is whether fracking booms causally increase crime rates and whether this effect is localized to rural areas where the disruption is most acute.
 
 ### Main finding
 
 States experiencing intense fracking booms (Arkansas, North Dakota, West Virginia) encountered significantly more crimes than comparison states post-2007, with an estimated annual victimization cost of $15.68 million (2008 dollars). Critically, this crime-shale boom link is specific to rural American states; the effect disappears when including states with fewer rural populations, indicating the phenomenon is context-dependent.
+
+### One caveat
+
+Crime-shale boom relationship is rural-specific only; effect does not generalize to urbanized areas. Study focuses on documented crime rates without examining unreported crime. Causality chain between fracking activities and crime mechanisms (labor migration, population influx, income shocks) requires inference rather than direct measurement.
+
+### Policy hook
+
+The fracking boom transformed rural economies in states like Arkansas, North Dakota, and West Virginia, creating rapid population and employment changes. Sudden economic disruption and influx of transient workers may increase crime. The question is whether fracking booms causally increase crime rates and whether this effect is localized to rural areas where the disruption is most acute.
 
 ### Data and setting
 
@@ -36,13 +39,9 @@ Treatment states: Arkansas, North Dakota, and West Virginia (50-60% rural popula
 
 Generalized Synthetic Control (GSC) approach with post-double-selection LASSO (PDSL) for high-dimensional covariate selection. Difference-in-differences estimation with parallel trends confirmed in pre-treatment period. Robustness checks include lagged models, contemporaneous models, and polynomial interaction specifications. Falsification tests confirm effect is specific to rural states.
 
-### One caveat
-
-Crime-shale boom relationship is rural-specific only; effect does not generalize to urbanized areas. Study focuses on documented crime rates without examining unreported crime. Causality chain between fracking activities and crime mechanisms (labor migration, population influx, income shocks) requires inference rather than direct measurement.
-
 ### PDF or DOI
 
-[Download PDF](https://www.dropbox.com/scl/fi/sa9pq8amlw5hzhizqrt44/The-fracking-boom-and-crime-rates-in-rural-American-states-Some-critical-insights.pdf?rlkey=lo4r0ed4d3bo2gte4gctizy7d&dl=0)
+[Free PDF](https://www.dropbox.com/scl/fi/sa9pq8amlw5hzhizqrt44/The-fracking-boom-and-crime-rates-in-rural-American-states-Some-critical-insights.pdf?rlkey=lo4r0ed4d3bo2gte4gctizy7d&dl=0)
 
 ## Why it matters
 

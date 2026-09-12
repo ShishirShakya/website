@@ -7,26 +7,29 @@ tags:
   - labor
   - regional-economics
   - spillovers
+publication_id: shakya-2022-spatial-spillovers-productivity-gap
+status: verified
 ---
 
 # Spatial spillovers and the productivity-compensation gap
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Shakya et al. (2022), *The Annals of Regional Science*. Not the journal article.
 
-**Publication id**: `shakya-2022-spatial-spillovers-productivity-gap` 
-**Status**: verified
-
-**Citation**: Shakya, S., Plemmons, A., & Sayago-Gomez, J. T. (2022). Spatial spillovers and the productivity-compensation gap in the United States. *The Annals of Regional Science*. [Download PDF](https://www.dropbox.com/scl/fi/tf99i7zifoqrx9zyyybpj/Spatial-Spillovers-and-the-Productivity-Compensation.pdf?rlkey=kklhwmtat547j88dp7ghz4xwx&dl=0)
+**Citation**: Shakya, S., Plemmons, A., & Sayago-Gomez, J. T. (2022). Spatial spillovers and the productivity-compensation gap in the United States. *The Annals of Regional Science*. [Free PDF](https://www.dropbox.com/scl/fi/tf99i7zifoqrx9zyyybpj/Spatial-Spillovers-and-the-Productivity-Compensation.pdf?rlkey=kklhwmtat547j88dp7ghz4xwx&dl=0)
 
 ## Facts
-
-### Policy hook
-
-The U.S. productivity-compensation gap has puzzled economists since the 1970s. Do productivity gains fail to translate to wages because spillovers to neighboring regions mean workers capture only partial benefits?
 
 ### Main finding
 
 Accounting for productivity spillovers across state boundaries significantly narrows the productivity-compensation gap, suggesting regional spillovers explain meaningful portions of wage stagnation.
+
+### One caveat
+
+State-level geographic unit may be too broad to capture important metro-level or local spillovers within state boundaries.
+
+### Policy hook
+
+The U.S. productivity-compensation gap has puzzled economists since the 1970s. Do productivity gains fail to translate to wages because spillovers to neighboring regions mean workers capture only partial benefits?
 
 ### Data and setting
 
@@ -36,13 +39,9 @@ State-level industry panel data for 66 industries across 48 continental U.S. sta
 
 Spatial econometric techniques including spatial two-stage least squares instrumental variables and spatially lagged X framework model how productivity in one state affects neighboring state compensation.
 
-### One caveat
-
-State-level geographic unit may be too broad to capture important metro-level or local spillovers within state boundaries.
-
 ### PDF or DOI
 
-[Download PDF](https://www.dropbox.com/scl/fi/tf99i7zifoqrx9zyyybpj/Spatial-Spillovers-and-the-Productivity-Compensation.pdf?rlkey=kklhwmtat547j88dp7ghz4xwx&dl=0)
+[Free PDF](https://www.dropbox.com/scl/fi/tf99i7zifoqrx9zyyybpj/Spatial-Spillovers-and-the-Productivity-Compensation.pdf?rlkey=kklhwmtat547j88dp7ghz4xwx&dl=0)
 
 ## Why it matters
 

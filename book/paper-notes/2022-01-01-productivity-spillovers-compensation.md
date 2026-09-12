@@ -7,26 +7,29 @@ tags:
   - labor
   - regional-economics
   - spillovers
+publication_id: shakya-2022-productivity-spillovers-compensation
+status: verified
 ---
 
 # Productivity spillovers and the productivity-compensation gap
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Shakya et al. (2022), *Spatial Economic Analysis*. Not the journal article.
 
-**Publication id**: `shakya-2022-productivity-spillovers-compensation` 
-**Status**: verified
-
-**Citation**: Shakya, S., & Plemmons, A. (2022). Productivity spillovers and the productivity-compensation gap. *Spatial Economic Analysis*. [Download PDF](https://www.dropbox.com/scl/fi/0hspku758et24sw781ara/Shakya-Plemmons-SEA-2022.pdf?rlkey=y5ndrb1jilznbzzwfyxkmkdwa&dl=0)
+**Citation**: Shakya, S., & Plemmons, A. (2022). Productivity spillovers and the productivity-compensation gap. *Spatial Economic Analysis*. [Free PDF](https://www.dropbox.com/scl/fi/0hspku758et24sw781ara/Shakya-Plemmons-SEA-2022.pdf?rlkey=y5ndrb1jilznbzzwfyxkmkdwa&dl=0)
 
 ## Facts
-
-### Policy hook
-
-Since the 1970s, US worker productivity has grown faster than wage growth - a divergence called the productivity-compensation gap. Conventional explanations focus on within-firm dynamics, but recent economics points to spillovers: productivity gains in one region may benefit workers elsewhere through trade and knowledge diffusion. Does accounting for these cross-regional spillovers explain part of the gap?
 
 ### Main finding
 
 The productivity-compensation gap narrows significantly in some industries once productivity spillovers between bordering and trading states are accounted for using spatially lagged models. However, effects are heterogeneous across the 23 industries examined - gap reduction is not uniform, with substantial variation in how spillovers mediate the relationship between productivity and compensation.
+
+### One caveat
+
+Results vary significantly across industries and model specifications; not all industries show gap reduction when accounting for spillovers. Uses single-year cross-sectional data (2012), limiting temporal analysis. Geographic and trade network definitions are static, potentially missing dynamic spillover patterns over time or across business cycles.
+
+### Policy hook
+
+Since the 1970s, US worker productivity has grown faster than wage growth - a divergence called the productivity-compensation gap. Conventional explanations focus on within-firm dynamics, but recent economics points to spillovers: productivity gains in one region may benefit workers elsewhere through trade and knowledge diffusion. Does accounting for these cross-regional spillovers explain part of the gap?
 
 ### Data and setting
 
@@ -36,13 +39,9 @@ IO-Snap state-level industry data on employment, compensation, and gross industr
 
 Spatial econometrics using Spatially Lagged X (SLX) models examining two dimensions of spillovers: spatial (contiguous states) and trade-network (trading states). Compares baseline models to spatially-adjusted specifications. Instrumental variables approach addresses endogeneity concerns. Log-log regression specifications allow comparison of productivity-compensation linkages across industries.
 
-### One caveat
-
-Results vary significantly across industries and model specifications; not all industries show gap reduction when accounting for spillovers. Uses single-year cross-sectional data (2012), limiting temporal analysis. Geographic and trade network definitions are static, potentially missing dynamic spillover patterns over time or across business cycles.
-
 ### PDF or DOI
 
-[Download PDF](https://www.dropbox.com/scl/fi/0hspku758et24sw781ara/Shakya-Plemmons-SEA-2022.pdf?rlkey=y5ndrb1jilznbzzwfyxkmkdwa&dl=0)
+[Free PDF](https://www.dropbox.com/scl/fi/0hspku758et24sw781ara/Shakya-Plemmons-SEA-2022.pdf?rlkey=y5ndrb1jilznbzzwfyxkmkdwa&dl=0)
 
 ## Why it matters
 

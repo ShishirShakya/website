@@ -7,26 +7,29 @@ tags:
   - entrepreneurship
   - institutions
   - policy
+publication_id: shakya-2021-economic-freedom-startups
+status: verified
 ---
 
 # Economic freedom and startup formation
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Shakya et al. (2021), *Journal of Regional Analysis and Policy*. Not the journal article.
 
-**Publication id**: `shakya-2021-economic-freedom-startups` 
-**Status**: verified
-
-**Citation**: Shakya, S., & Plemmons, A. (2021). The impact of economic freedom on startups. *Journal of Regional Analysis and Policy*. [Download PDF](https://jrap.scholasticahq.com/article/18968-the-impact-of-economic-freedom-on-startups/attachment/50505.pdf)
+**Citation**: Shakya, S., & Plemmons, A. (2021). The impact of economic freedom on startups. *Journal of Regional Analysis and Policy*. [PDF](https://jrap.scholasticahq.com/article/18968-the-impact-of-economic-freedom-on-startups/attachment/50505.pdf)
 
 ## Facts
-
-### Policy hook
-
-Economic freedom influences entrepreneurship, but prior studies showed only correlations. Which specific dimensions of economic freedom - regulatory, tax, or spending - actually causally increase new business formation?
 
 ### Main finding
 
 Regulatory freedom significantly increases startup density, while increases in government spending and tax freedom actually decrease startup formation, revealing that business deregulation drives entrepreneurship.
+
+### One caveat
+
+Analysis focuses on startup density but does not measure startup quality, survival rates, or employment creation by new ventures.
+
+### Policy hook
+
+Economic freedom influences entrepreneurship, but prior studies showed only correlations. Which specific dimensions of economic freedom - regulatory, tax, or spending - actually causally increase new business formation?
 
 ### Data and setting
 
@@ -36,13 +39,9 @@ U.S. data 2005-2015 using Kauffman Startup Activities Index (startup density: fi
 
 Post-double-selection LASSO methodology identified causal effects among multiple dimensions of economic freedom while controlling for relevant covariates.
 
-### One caveat
-
-Analysis focuses on startup density but does not measure startup quality, survival rates, or employment creation by new ventures.
-
 ### PDF or DOI
 
-[Download PDF](https://jrap.scholasticahq.com/article/18968-the-impact-of-economic-freedom-on-startups/attachment/50505.pdf)
+[PDF](https://jrap.scholasticahq.com/article/18968-the-impact-of-economic-freedom-on-startups/attachment/50505.pdf)
 
 ## Why it matters
 

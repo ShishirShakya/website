@@ -1,19 +1,13 @@
 ---
 title: Paper notes
-description: Short, policy-facing explainers of selected publications. Bibliographic records stay on the Publications pages.
+description: Short explainers of selected publications for policy and general readers. Bibliographic records stay on the Publications pages.
 ---
 
 # Paper notes
 
-These notes paraphrase selected papers for policy and general readers. They are **not** the full articles and **not** a substitute for the [all publications](../cv/publications.md) list.
-
-Pages in this section are Paper notes, not journal articles. The Publication is the citation and the Canonical PDF or DOI.
-
-Each note uses a fixed **Facts** block. Only notes with **Status**: verified should be treated as claim-checked against the PDF. Stubs are placeholders until that check is done. Stable **Publication id** values live in the page body (MyST ignores unknown frontmatter keys).
+These pages paraphrase selected papers for policy and general readers. Each page is an explainer of one publication. It is not the journal article. The citation, DOI, and Free PDF (when there is a free copy) are on the note.
 
 ## Start here
-
-Curated Verified Paper notes by theme. The full list follows below.
 
 ### Licensing and scope of practice
 

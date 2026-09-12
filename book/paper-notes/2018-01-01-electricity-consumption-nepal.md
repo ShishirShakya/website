@@ -7,26 +7,29 @@ tags:
   - international-development
   - energy
   - nepal
+publication_id: shakya-2018-electricity-consumption-nepal
+status: verified
 ---
 
 # Electricity consumption and economic growth in Nepal
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
-
-**Publication id**: `shakya-2018-electricity-consumption-nepal` 
-**Status**: verified
+Explainer of Shakya et al. (2018), *International Journal of Global Energy Issues*. Not the journal article.
 
 **Citation**: Shakya, S., Nepal, R., & Sharma, K. (2018). Electricity consumption and economic growth: empirical evidence from a resource-rich landlocked economy. *International Journal of Global Energy Issues*, 41(5-6):226-247. [Download](https://www.inderscience.com/offers.php?id=97139)
 
 ## Facts
 
-### Policy hook
-
-Nepal's economic development depends on energy availability, but the relationship between electricity consumption and growth is contested. Does increased electricity consumption drive economic growth, or do other factors explain the correlation?
-
 ### Main finding
 
 Empirical evidence from Nepal's experience as a resource-rich landlocked economy demonstrates a significant positive relationship between electricity consumption and economic growth using time-series analysis.
+
+### One caveat
+
+Time-series analysis cannot establish causality definitively and may conflate electricity's role with other development factors simultaneously driving growth.
+
+### Policy hook
+
+Nepal's economic development depends on energy availability, but the relationship between electricity consumption and growth is contested. Does increased electricity consumption drive economic growth, or do other factors explain the correlation?
 
 ### Data and setting
 
@@ -35,10 +38,6 @@ Nepal economic data; time-series analysis examining relationship between electri
 ### Research design (plain language)
 
 Time-series econometric analysis examining the dynamic relationship between electricity consumption and economic growth in Nepal's specific development context.
-
-### One caveat
-
-Time-series analysis cannot establish causality definitively and may conflate electricity's role with other development factors simultaneously driving growth.
 
 ### PDF or DOI
 

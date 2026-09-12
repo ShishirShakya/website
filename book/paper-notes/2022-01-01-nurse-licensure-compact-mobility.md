@@ -8,26 +8,29 @@ tags:
   - regulation
   - labor
   - licensing
+publication_id: shakya-2022-nurse-licensure-compact-mobility
+status: verified
 ---
 
 # Nurse licensure compact and mobility
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Shakya et al. (2022), *Journal of Labor Research*. Not the journal article.
 
-**Publication id**: `shakya-2022-nurse-licensure-compact-mobility` 
-**Status**: verified
-
-**Citation**: Shakya, S., Ghosh, S., & Norris, C. (2022). Nurse licensure compact and mobility. *Journal of Labor Research*. [Download PDF](https://www.dropbox.com/scl/fi/wfiwi8em9sbat5u9fcau2/Nurse-Licensure-Compact-and-Mobility.pdf?rlkey=8oved5beoz93zlxvhfzkzxx9i&dl=0)
+**Citation**: Shakya, S., Ghosh, S., & Norris, C. (2022). Nurse licensure compact and mobility. *Journal of Labor Research*. [Free PDF](https://www.dropbox.com/scl/fi/wfiwi8em9sbat5u9fcau2/Nurse-Licensure-Compact-and-Mobility.pdf?rlkey=8oved5beoz93zlxvhfzkzxx9i&dl=0)
 
 ## Facts
-
-### Policy hook
-
-Occupational licensing restricts worker mobility, but loosening requirements raises quality concerns. Does the Nurse Licensure Compact - allowing multi-state practice without additional licenses - actually increase nurse mobility and address workforce shortages?
 
 ### Main finding
 
 Nurse Licensure Compact adoption increased nurse mobility by 11% among registered and practical/vocational nurses within compact states, addressing COVID-era healthcare workforce needs.
+
+### One caveat
+
+Analysis measures interstate migration but does not examine whether increased mobility improved patient results, wages, or care quality measures.
+
+### Policy hook
+
+Occupational licensing restricts worker mobility, but loosening requirements raises quality concerns. Does the Nurse Licensure Compact - allowing multi-state practice without additional licenses - actually increase nurse mobility and address workforce shortages?
 
 ### Data and setting
 
@@ -37,13 +40,9 @@ State-level analysis as of March 2021 with 34 states in compact; regression anal
 
 Quasi-experimental regression design exploited state-level staggered NLC adoptions to identify causal effects, comparing mobility changes within states over time.
 
-### One caveat
-
-Analysis measures interstate migration but does not examine whether increased mobility improved patient results, wages, or care quality measures.
-
 ### PDF or DOI
 
-[Download PDF](https://www.dropbox.com/scl/fi/wfiwi8em9sbat5u9fcau2/Nurse-Licensure-Compact-and-Mobility.pdf?rlkey=8oved5beoz93zlxvhfzkzxx9i&dl=0)
+[Free PDF](https://www.dropbox.com/scl/fi/wfiwi8em9sbat5u9fcau2/Nurse-Licensure-Compact-and-Mobility.pdf?rlkey=8oved5beoz93zlxvhfzkzxx9i&dl=0)
 
 ## Why it matters
 

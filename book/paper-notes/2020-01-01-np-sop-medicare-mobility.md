@@ -8,26 +8,29 @@ tags:
   - nursing
   - healthcare
   - workforce
+publication_id: shakya-2020-np-sop-medicare-mobility
+status: verified
 ---
 
 # Scope of practice and NP mobility serving Medicare beneficiaries
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Shakya et al. (2020), *Journal of Labor Research*. Not the journal article.
 
-**Publication id**: `shakya-2020-np-sop-medicare-mobility` 
-**Status**: verified
-
-**Citation**: Shakya, S., & Plemmons, A. (2020). Does scope of practice affect mobility of nurse practitioners serving Medicare beneficiaries? *Journal of Labor Research*. [Download PDF](https://www.dropbox.com/scl/fi/va11jwf56xhnqmwdi985j/Does-Scope-of-Practice-Affect-Mobility-of-Nurse-Practitioners-Serving-Medicare-Beneficiaries.pdf?rlkey=htja0s8nr7ifete5a7jy5f3r4&dl=0)
+**Citation**: Shakya, S., & Plemmons, A. (2020). Does scope of practice affect mobility of nurse practitioners serving Medicare beneficiaries? *Journal of Labor Research*. [Free PDF](https://www.dropbox.com/scl/fi/va11jwf56xhnqmwdi985j/Does-Scope-of-Practice-Affect-Mobility-of-Nurse-Practitioners-Serving-Medicare-Beneficiaries.pdf?rlkey=htja0s8nr7ifete5a7jy5f3r4&dl=0)
 
 ## Facts
-
-### Policy hook
-
-Nurse practitioner shortages limit healthcare access and increase costs, particularly in primary care and rural areas. Some states have expanded scope-of-practice laws to give nurse practitioners greater autonomy (full practice authority and independent prescribing rights). A key question is whether expanded scope-of-practice laws reward NP relocation or retention within a state, improving workforce distribution.
 
 ### Main finding
 
 Nurse practitioners in full-practice-authority states are 0.41 percentage points less likely to move out of state compared to NPs in restrictive-practice states. Among NPs who do relocate, those considering moves are 5.70 percentage points more likely to choose full-practice-authority states over restrictive-practice states as their destination. The effects suggest that scope of practice is a meaningful factor in NP location decisions, though the magnitude of effect is modest.
+
+### One caveat
+
+Percentage changes are modest (0.41%, 5.70%), suggesting that scope of practice is one factor among many influencing NP mobility decisions. The analysis is limited to Medicare prescription drug program data, which captures only NPs with Medicare prescriber identities; it does not reflect all NP practice activity or patient populations. The design cannot determine whether NPs are moving to practice more autonomously or for other reasons (family, cost of living, etc.) that correlate with scope-of-practice permissiveness.
+
+### Policy hook
+
+Nurse practitioner shortages limit healthcare access and increase costs, particularly in primary care and rural areas. Some states have expanded scope-of-practice laws to give nurse practitioners greater autonomy (full practice authority and independent prescribing rights). A key question is whether expanded scope-of-practice laws reward NP relocation or retention within a state, improving workforce distribution.
 
 ### Data and setting
 
@@ -37,13 +40,9 @@ Medicare Part D Prescriber Public Use Files matched with National Provider Ident
 
 The paper analyzes individual nurse practitioners' location decisions across states with different scope-of-practice regimes. Regression analysis examines the probability of out-of-state moves for NPs practicing in each state type. A second analysis compares the destination-state choices of relocating NPs, testing whether they preferentially choose full-practice versus restricted-practice states. The design controls for state economic and demographic characteristics that might influence NP location independent of scope of practice.
 
-### One caveat
-
-Percentage changes are modest (0.41%, 5.70%), suggesting that scope of practice is one factor among many influencing NP mobility decisions. The analysis is limited to Medicare prescription drug program data, which captures only NPs with Medicare prescriber identities; it does not reflect all NP practice activity or patient populations. The design cannot determine whether NPs are moving to practice more autonomously or for other reasons (family, cost of living, etc.) that correlate with scope-of-practice permissiveness.
-
 ### PDF or DOI
 
-[Download PDF](https://www.dropbox.com/scl/fi/va11jwf56xhnqmwdi985j/Does-Scope-of-Practice-Affect-Mobility-of-Nurse-Practitioners-Serving-Medicare-Beneficiaries.pdf?rlkey=htja0s8nr7ifete5a7jy5f3r4&dl=0)
+[Free PDF](https://www.dropbox.com/scl/fi/va11jwf56xhnqmwdi985j/Does-Scope-of-Practice-Affect-Mobility-of-Nurse-Practitioners-Serving-Medicare-Beneficiaries.pdf?rlkey=htja0s8nr7ifete5a7jy5f3r4&dl=0)
 
 ## Why it matters
 

@@ -8,26 +8,29 @@ tags:
   - opioids
   - policy
   - regulation
+publication_id: shakya-2022-must-access-pdmp-retail-opioids
+status: verified
 ---
 
 # Must-access PDMPs and retail opioid sales
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Shakya et al. (2022), *Contemporary Economic Policy*. Not the journal article.
 
-**Publication id**: `shakya-2022-must-access-pdmp-retail-opioids` 
-**Status**: verified
-
-**Citation**: Shakya, S., & Hodges, C. (2022). Must access prescription drug monitoring programs and retail opioid sales. *Contemporary Economic Policy*. [Download PDF](https://www.dropbox.com/scl/fi/d2yash55gkz0j8wvkn61o/Contemporary-Economic-Policy-2022-Shakya-Must-access-prescription-drug-monitoring-programs-and-retail-opioid-sales.pdf?rlkey=zno0w3llwq2i5kz1ioivdrogo&dl=0)
+**Citation**: Shakya, S., & Hodges, C. (2022). Must access prescription drug monitoring programs and retail opioid sales. *Contemporary Economic Policy*. [Free PDF](https://www.dropbox.com/scl/fi/d2yash55gkz0j8wvkn61o/Contemporary-Economic-Policy-2022-Shakya-Must-access-prescription-drug-monitoring-programs-and-retail-opioid-sales.pdf?rlkey=zno0w3llwq2i5kz1ioivdrogo&dl=0)
 
 ## Facts
-
-### Policy hook
-
-PDMPs are state-level electronic databases tracking controlled-substance fills, intended to curb opioid abuse and overprescribing. Most states started with voluntary access, but many transitioned to "must-access" mandates requiring prescribers to check the database before dispensing. The question is whether must-access rules actually reduce retail opioid sales, and whether effects differ across opioid types.
 
 ### Main finding
 
 Must-access PDMP implementation does not uniformly reduce retail opioid sales. Certain opioids show sales declines: hydrocodone, hydromorphone, and morphine all decrease after must-access adoption. However, oxycodone - the most widely prescribed opioid - shows no statistically significant change. Methadone and buprenorphine (medications for opioid use disorder treatment) also remain unaffected. Effects are heterogeneous across drug types.
+
+### One caveat
+
+Treatment effects are not uniform across opioid types, suggesting heterogeneous responses by prescriber behavior and patient demand. The analysis cannot explain why oxycodone is unaffected while other opioids decline. Policy makers should treat must-access PDMPs as one part of a wider opioid response rather than as a singular policy solution.
+
+### Policy hook
+
+PDMPs are state-level electronic databases tracking controlled-substance fills, intended to curb opioid abuse and overprescribing. Most states started with voluntary access, but many transitioned to "must-access" mandates requiring prescribers to check the database before dispensing. The question is whether must-access rules actually reduce retail opioid sales, and whether effects differ across opioid types.
 
 ### Data and setting
 
@@ -37,13 +40,9 @@ ARCOS database (Drug Enforcement Administration opioid sales tracking), 2006-201
 
 The paper uses difference-in-differences estimation with an interactive fixed effects model (Bai 2009) to account for unobserved time-varying confounders and non-linear state-specific trends. Controls include Good Samaritan laws, marijuana legalization, naloxone access laws, pill mill laws, Medicaid expansion, and state social and economic variables. The design exploits staggered adoption of must-access mandates across states.
 
-### One caveat
-
-Treatment effects are not uniform across opioid types, suggesting heterogeneous responses by prescriber behavior and patient demand. The analysis cannot explain why oxycodone is unaffected while other opioids decline. Policy makers should treat must-access PDMPs as one part of a wider opioid response rather than as a singular policy solution.
-
 ### PDF or DOI
 
-[Download PDF](https://www.dropbox.com/scl/fi/d2yash55gkz0j8wvkn61o/Contemporary-Economic-Policy-2022-Shakya-Must-access-prescription-drug-monitoring-programs-and-retail-opioid-sales.pdf?rlkey=zno0w3llwq2i5kz1ioivdrogo&dl=0)
+[Free PDF](https://www.dropbox.com/scl/fi/d2yash55gkz0j8wvkn61o/Contemporary-Economic-Policy-2022-Shakya-Must-access-prescription-drug-monitoring-programs-and-retail-opioid-sales.pdf?rlkey=zno0w3llwq2i5kz1ioivdrogo&dl=0)
 
 ## Why it matters
 

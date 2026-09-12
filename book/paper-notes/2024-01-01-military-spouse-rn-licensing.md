@@ -8,26 +8,29 @@ tags:
   - licensing
   - military
   - regulation
+publication_id: shakya-2024-military-spouse-rn-licensing
+status: verified
 ---
 
 # Military spouse RN licensing and care access
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
-
-**Publication id**: `shakya-2024-military-spouse-rn-licensing` 
-**Status**: verified
+Explainer of Shakya et al. (2024), *Journal of Regulatory Economics*. Not the journal article.
 
 **Citation**: Shakya, S., Plemmons, A., & Norris, C. (2024). Military spouse licensing: A case study of registered nurses near military bases. *Journal of Regulatory Economics*. [Download](https://link.springer.com/article/10.1007/s11149-024-09480-7)
 
 ## Facts
 
-### Policy hook
-
-Military families relocate frequently, and restrictive state licensing rules create employment barriers for spouses. Do reforms allowing military spouses to practice in posting states increase employment stability?
-
 ### Main finding
 
 Full recognition of military spouse licenses increases employment mobility probability by 12%, while restrictive reforms have the opposite effect, providing job stability for registered nurses in this population.
+
+### One caveat
+
+Suggestive evidence presented; does not isolate other factors driving military spouse employment decisions or retention like spouse income or family considerations.
+
+### Policy hook
+
+Military families relocate frequently, and restrictive state licensing rules create employment barriers for spouses. Do reforms allowing military spouses to practice in posting states increase employment stability?
 
 ### Data and setting
 
@@ -36,10 +39,6 @@ Military nurses near U.S. military bases; state-level licensing policy reforms f
 ### Research design (plain language)
 
 Comparative analysis of military spouse licensing reforms examining how policy changes affect nurse retention and geographic flexibility.
-
-### One caveat
-
-Suggestive evidence presented; does not isolate other factors driving military spouse employment decisions or retention like spouse income or family considerations.
 
 ### PDF or DOI
 

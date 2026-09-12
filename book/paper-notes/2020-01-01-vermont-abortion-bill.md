@@ -7,26 +7,29 @@ tags:
   - policy
   - political-economy
   - healthcare
+publication_id: shakya-2020-vermont-abortion-bill
+status: verified
 ---
 
 # Political economy of Vermont's abortion bill
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
-
-**Publication id**: `shakya-2020-vermont-abortion-bill` 
-**Status**: verified
+Explainer of Shakya et al. (2020), *Applied Economics Letters*. Not the journal article.
 
 **Citation**: Shakya, S., Erfanian, E., & Scarcioffolo, A. (2020). The political economy of Vermont's abortion bill. *Applied Economics Letters*. [Download](https://www.tandfonline.com/doi/abs/10.1080/13504851.2020.1854663)
 
 ## Facts
 
-### Policy hook
-
-State abortion policies reflect political economy forces balancing diverse constituencies. What political and economic factors shaped Vermont's abortion bill, and what does this case reveal about policy formation?
-
 ### Main finding
 
 Analysis of Vermont's abortion bill identifies political-economy factors and interest group dynamics that shaped abortion policy in a northeastern U.S. state.
+
+### One caveat
+
+Case study approach focused on single state limits external validity to other jurisdictions with different political and economic configurations.
+
+### Policy hook
+
+State abortion policies reflect political economy forces balancing diverse constituencies. What political and economic factors shaped Vermont's abortion bill, and what does this case reveal about policy formation?
 
 ### Data and setting
 
@@ -35,10 +38,6 @@ Vermont state legislative process and policy analysis around abortion bill; appl
 ### Research design (plain language)
 
 Political-economy analysis examining legislative context, positions of those involved, and economic interests affecting abortion policy development in Vermont.
-
-### One caveat
-
-Case study approach focused on single state limits external validity to other jurisdictions with different political and economic configurations.
 
 ### PDF or DOI
 

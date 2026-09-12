@@ -7,26 +7,29 @@ tags:
   - markets
   - commodity-futures
   - natural-resources
+publication_id: ismailova-2020-lumber-futures-announcement
+status: verified
 ---
 
 # Announcement effects in US lumber futures market
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Ismailova et al. (2020), *Journal of Forest Economics*. Not the journal article.
 
-**Publication id**: `ismailova-2020-lumber-futures-announcement` 
-**Status**: verified
-
-**Citation**: Ismailova, Z., Etienne, X., Shakya, S., & Mattos, F. (2020). Quantifying the announcement effects in the US lumber futures market. *Journal of Forest Economics*. [Download PDF](https://www.dropbox.com/scl/fi/guc5orscxfxccvng62u7n/Quantifying-The-Announcement-Effects-In-The-U.S.-Lumber-Market.pdf?rlkey=m26fvg1j27xxtrv4zyzcareck&dl=0)
+**Citation**: Ismailova, Z., Etienne, X., Shakya, S., & Mattos, F. (2020). Quantifying the announcement effects in the US lumber futures market. *Journal of Forest Economics*. [Free PDF](https://www.dropbox.com/scl/fi/guc5orscxfxccvng62u7n/Quantifying-The-Announcement-Effects-In-The-U.S.-Lumber-Market.pdf?rlkey=m26fvg1j27xxtrv4zyzcareck&dl=0)
 
 ## Facts
-
-### Policy hook
-
-Commodity markets respond to news. Announcements can shift prices through multiple channels: fundamental information (supply shocks, demand forecasts) or purely sentiment effects (noise). The question is whether significant announcements in the lumber market create clear price volatility spikes, and whether effects vary by timing or contract characteristics.
 
 ### Main finding
 
 Major announcements in the US lumber futures market generate significant, temporary price volatility spikes lasting approximately 3-5 days. Effects are heterogeneous across contract delivery months: volatility responses are larger for already-volatile contract months, suggesting announcement effects compound existing market uncertainty rather than replacing it.
+
+### One caveat
+
+Announcement selection and dating may introduce measurement error - news is sometimes diffuse across multiple days. Cannot distinguish between different announcement types or information content using purely statistical methods. Study cannot isolate impact on prices versus volume effects without additional constraints.
+
+### Policy hook
+
+Commodity markets respond to news. Announcements can shift prices through multiple channels: fundamental information (supply shocks, demand forecasts) or purely sentiment effects (noise). The question is whether significant announcements in the lumber market create clear price volatility spikes, and whether effects vary by timing or contract characteristics.
 
 ### Data and setting
 
@@ -36,13 +39,9 @@ US lumber futures price data (Softwood Lumber Futures, CME Group) with identifie
 
 Event-study methodology estimating announcement effect on futures prices and trading volume. Announcement-day returns and volatility compared to non-announcement days. Heterogeneous treatment effects by contract month maturity/volatility. Specifies announcement window (date, duration) to isolate causal effects from confounding factors. Tests whether effects continue or revert quickly, indicating temporary noise versus permanent information processing.
 
-### One caveat
-
-Announcement selection and dating may introduce measurement error - news is sometimes diffuse across multiple days. Cannot distinguish between different announcement types or information content using purely statistical methods. Study cannot isolate impact on prices versus volume effects without additional constraints.
-
 ### PDF or DOI
 
-[Download PDF](https://www.dropbox.com/scl/fi/guc5orscxfxccvng62u7n/Quantifying-The-Announcement-Effects-In-The-U.S.-Lumber-Market.pdf?rlkey=m26fvg1j27xxtrv4zyzcareck&dl=0)
+[Free PDF](https://www.dropbox.com/scl/fi/guc5orscxfxccvng62u7n/Quantifying-The-Announcement-Effects-In-The-U.S.-Lumber-Market.pdf?rlkey=m26fvg1j27xxtrv4zyzcareck&dl=0)
 
 ## Why it matters
 

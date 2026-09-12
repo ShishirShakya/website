@@ -8,26 +8,29 @@ tags:
   - healthcare
   - labor
   - workforce
+publication_id: nepal-2025-pa-scope-interstate
+status: verified
 ---
 
 # Scope-of-practice regulations and PA inter-state relocation
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Nepal et al. (2025), *Journal of Labor Research*. Not the journal article.
 
-**Publication id**: `nepal-2025-pa-scope-interstate` 
-**Status**: verified
-
-**Citation**: Nepal, T., & Shakya, S. (2025). Scope-of-Practice Regulations and Physician Assistant Inter-State Practice Relocation. *Journal of Labor Research*. [Download PDF](https://www.dropbox.com/scl/fi/tqgnrk9fxrvznrlokdhmk/Shakya-Scope-of-Practice-Regulations-and-Physician-Assistant-Inter-State-Practice-Relocation.pdf?rlkey=usoy1gpnm952ocwktug0tcoac&st=ahe0oxz0&dl=0)
+**Citation**: Nepal, T., & Shakya, S. (2025). Scope-of-Practice Regulations and Physician Assistant Inter-State Practice Relocation. *Journal of Labor Research*. [Free PDF](https://www.dropbox.com/scl/fi/tqgnrk9fxrvznrlokdhmk/Shakya-Scope-of-Practice-Regulations-and-Physician-Assistant-Inter-State-Practice-Relocation.pdf?rlkey=usoy1gpnm952ocwktug0tcoac&st=ahe0oxz0&dl=0)
 
 ## Facts
-
-### Policy hook
-
-Physician assistants (PAs) face scope-of-practice restrictions that vary by state. Some states grant "optimal" scope-of-practice laws providing full practice authority and independent prescribing rights, while others maintain restrictive supervision requirements. The question is whether expanding PA autonomy influences their location decisions and improves workforce distribution, particularly in poorly served rural areas.
 
 ### Main finding
 
 Physician assistants are approximately 3 percentage points more likely to relocate their practice to states with optimal scope-of-practice laws compared to restrictive states. More importantly, optimal scope-of-practice laws produce substantially larger retention effects in rural areas than non-rural areas, suggesting that practice autonomy is particularly valued by PAs considering rural practice locations.
+
+### One caveat
+
+The differential retention effect is substantially stronger in rural areas than non-rural areas, indicating that spatial context mediates policy impact. External validity to earlier time periods (before 2016) is unclear due to data availability. The analysis cannot determine whether higher relocation rates reflect PAs seeking expanded autonomy or whether other state-level factors correlate with both scope expansion and PA attraction.
+
+### Policy hook
+
+Physician assistants (PAs) face scope-of-practice restrictions that vary by state. Some states grant "optimal" scope-of-practice laws providing full practice authority and independent prescribing rights, while others maintain restrictive supervision requirements. The question is whether expanding PA autonomy influences their location decisions and improves workforce distribution, particularly in poorly served rural areas.
 
 ### Data and setting
 
@@ -37,13 +40,9 @@ National Plan and Provider Enumeration System (NPPES) database, 2016-2023, cover
 
 Linear probability model applied to panel data tracking physician assistant practice locations from 2016-2023. Difference-in-differences framework exploits staggered adoption of optimal scope-of-practice laws across states. Group differences analysis separately examines rural and non-rural responses. Robustness checks include relaxing the optimal scope-of-practice definition and randomized inference tests to confirm statistical significance.
 
-### One caveat
-
-The differential retention effect is substantially stronger in rural areas than non-rural areas, indicating that spatial context mediates policy impact. External validity to earlier time periods (before 2016) is unclear due to data availability. The analysis cannot determine whether higher relocation rates reflect PAs seeking expanded autonomy or whether other state-level factors correlate with both scope expansion and PA attraction.
-
 ### PDF or DOI
 
-[Download PDF](https://www.dropbox.com/scl/fi/tqgnrk9fxrvznrlokdhmk/Shakya-Scope-of-Practice-Regulations-and-Physician-Assistant-Inter-State-Practice-Relocation.pdf?rlkey=usoy1gpnm952ocwktug0tcoac&st=ahe0oxz0&dl=0)
+[Free PDF](https://www.dropbox.com/scl/fi/tqgnrk9fxrvznrlokdhmk/Shakya-Scope-of-Practice-Regulations-and-Physician-Assistant-Inter-State-Practice-Relocation.pdf?rlkey=usoy1gpnm952ocwktug0tcoac&st=ahe0oxz0&dl=0)
 
 ## Why it matters
 

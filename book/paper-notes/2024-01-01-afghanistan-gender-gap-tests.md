@@ -7,26 +7,29 @@ tags:
   - education
   - gender
   - testing
+publication_id: shah-mobariz-2024-afghanistan-gender-gap
+status: verified
 ---
 
 # Cultural influences on gender gap in test scores in Afghanistan
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
-
-**Publication id**: `shah-mobariz-2024-afghanistan-gender-gap` 
-**Status**: verified
+Explainer of Shah Mobariz et al. (2024), *Applied Economics Letters*. Not the journal article.
 
 **Citation**: Shah Mobariz, A., & Shakya, S. (2024). Cultural influences on gender gap in test scores: Findings from Afghanistan's university entrance examination. *Applied Economics Letters*. [Download](https://www.tandfonline.com/doi/pdf/10.1080/13504851.2024.2332523)
 
 ## Facts
 
-### Policy hook
-
-Education policy must address gender gaps in achievement, but cultural factors may interact with schooling. How much do cultural influences explain gender gaps in test scores in Afghanistan's university entrance examination?
-
 ### Main finding
 
 Cultural influences significantly affect the gender gap in test scores on Afghanistan's university entrance examination, with findings informing education policy in post-conflict settings.
+
+### One caveat
+
+Cross-sectional test score data cannot identify specific mechanisms through which culture operates or establish causality between cultural variables and achievement gaps.
+
+### Policy hook
+
+Education policy must address gender gaps in achievement, but cultural factors may interact with schooling. How much do cultural influences explain gender gaps in test scores in Afghanistan's university entrance examination?
 
 ### Data and setting
 
@@ -35,10 +38,6 @@ Afghanistan's university entrance examination data; analysis of gender gaps in t
 ### Research design (plain language)
 
 Econometric analysis examining how cultural factors moderate or explain gender gaps in university entrance exam performance in Afghanistan.
-
-### One caveat
-
-Cross-sectional test score data cannot identify specific mechanisms through which culture operates or establish causality between cultural variables and achievement gaps.
 
 ### PDF or DOI
 

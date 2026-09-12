@@ -7,26 +7,29 @@ tags:
   - research-methods
   - replicability
   - crime
+publication_id: shakya-2020-score-bersani-doherty-replication
+status: verified
 ---
 
 # Replication of Bersani and Doherty 2013
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
-
-**Publication id**: `shakya-2020-score-bersani-doherty-replication` 
-**Status**: verified
+Explainer of Shakya et al. (2020), *Center for Open Science, Systematizing Confidence in Open Research and Evidence (SCORE) Project*. Not the journal article.
 
 **Citation**: Shakya, S. & Sevigny, E. (2020). Replication of a research claim from Bersani and Doherty (2013). *Center for Open Science, Systematizing Confidence in Open Research and Evidence (SCORE) Project*. [Download](https://osf.io/9bme4)
 
 ## Facts
 
-### Policy hook
-
-Replication studies are needed for science credibility, but how often do published findings hold up under replication? Can researchers reproduce a specific empirical claim from prior criminology research?
-
 ### Main finding
 
 Structured replication attempt of Bersani and Doherty (2013) research through the Systematizing Confidence in Open Research and Evidence (SCORE) project examines the robustness of original claims.
+
+### One caveat
+
+Replication results depend heavily on exact following the protocol and data availability; negative results may reflect implementation differences rather than true non-replicability.
+
+### Policy hook
+
+Replication studies are needed for science credibility, but how often do published findings hold up under replication? Can researchers reproduce a specific empirical claim from prior criminology research?
 
 ### Data and setting
 
@@ -36,13 +39,9 @@ Replication study coordinated through Center for Open Science SCORE Project, att
 
 Systematic replication protocol applied to test whether original research results can be reproduced using similar or identical methodology with independent samples.
 
-### One caveat
-
-Replication results depend heavily on exact following the protocol and data availability; negative results may reflect implementation differences rather than true non-replicability.
-
 ### PDF or DOI
 
-[OSF Project](https://osf.io/9bme4)
+[OSF Project](https://osf.io/9bme4) · [PDF](https://osf.io/9bme4)
 
 ## Why it matters
 

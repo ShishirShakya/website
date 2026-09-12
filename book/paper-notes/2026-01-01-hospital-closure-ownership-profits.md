@@ -7,26 +7,29 @@ tags:
   - healthcare
   - institutional
   - economics
+publication_id: kanimian-2026-hospital-closure-ownership
+status: verified
 ---
 
 # Hospital ownership and profits when a neighbor closes
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Kanimian et al. (2026), *Eastern Economic Journal*. Not the journal article.
 
-**Publication id**: `kanimian-2026-hospital-closure-ownership` 
-**Status**: verified
-
-**Citation**: Kanimian, S. & Shakya, S. (2026). When a Neighbor Closes: Ownership and Hospital Profits. *Eastern Economic Journal*. [DOI](https://doi.org/10.1057/s41302-026-00335-x). [Download PDF](https://www.dropbox.com/scl/fi/izdybn3pgfkd99rbhtvgk/Kanimian_et_al-2026-Eastern_Economic_Journal.pdf?rlkey=ygyw1k05nr4mvn3n068riofai&st=dcq24u4y&dl=0)
+**Citation**: Kanimian, S. & Shakya, S. (2026). When a Neighbor Closes: Ownership and Hospital Profits. *Eastern Economic Journal*. [DOI](https://doi.org/10.1057/s41302-026-00335-x). [Free PDF](https://www.dropbox.com/scl/fi/izdybn3pgfkd99rbhtvgk/Kanimian_et_al-2026-Eastern_Economic_Journal.pdf?rlkey=ygyw1k05nr4mvn3n068riofai&st=dcq24u4y&dl=0)
 
 ## Facts
-
-### Policy hook
-
-Hospital closures are increasingly common, particularly in rural and poorly served areas. When a hospital closes, patients face longer travel times and shift to remaining facilities. The question is whether nearby hospitals' financial results change after a neighboring closure and whether the response depends on hospital ownership type (for-profit, non-profit, or governmental).
 
 ### Main finding
 
 For-profit hospitals show the largest post-closure increases in Charge-to-cost ratio (1.959, significant at 5% level), though pre-closure trends make this pattern suggestive. The for-profit Net-profit-margin gain of 0.061 (6.1 percentage points, significant at 5% level) is the best-identified result and is comparable to the non-profit gain of 0.063 (6.3 percentage points, significant at 10% level). Governmental hospitals show changes statistically indistinguishable from zero, with a point estimate of -0.138 on net-profit-margin.
+
+### One caveat
+
+Sample size is small, especially for for-profit and governmental hospitals (2 treated in each category), making ownership-specific estimates suggestive rather than definitive. The Charge-to-cost results for for-profit hospitals show pre-closure trends that weaken a causal interpretation. Cannot disentangle price and quantity responses without patient-level transaction data. Payer-mix differences across ownership types affect outcome levels.
+
+### Policy hook
+
+Hospital closures are increasingly common, particularly in rural and poorly served areas. When a hospital closes, patients face longer travel times and shift to remaining facilities. The question is whether nearby hospitals' financial results change after a neighboring closure and whether the response depends on hospital ownership type (for-profit, non-profit, or governmental).
 
 ### Data and setting
 
@@ -36,13 +39,9 @@ Short-term hospitals (average patient stay less than 30 days) from 2011-2022. Da
 
 Difference-in-differences design using hospital and year fixed effects to compare changes in Charge-to-cost and Net-profit-margin for hospitals before and after a neighboring closure. The primary outcome is the average effect across all post-closure years. An event study using Callaway and Sant'Anna methods examines dynamic effects year-by-year and tests for pre-closure trends. Standard errors are clustered at the hospital level.
 
-### One caveat
-
-Sample size is small, especially for for-profit and governmental hospitals (2 treated in each category), making ownership-specific estimates suggestive rather than definitive. The Charge-to-cost results for for-profit hospitals show pre-closure trends that weaken a causal interpretation. Cannot disentangle price and quantity responses without patient-level transaction data. Payer-mix differences across ownership types affect outcome levels.
-
 ### PDF or DOI
 
-[DOI: 10.1057/s41302-026-00335-x](https://doi.org/10.1057/s41302-026-00335-x). [Download PDF](https://www.dropbox.com/scl/fi/izdybn3pgfkd99rbhtvgk/Kanimian_et_al-2026-Eastern_Economic_Journal.pdf?rlkey=ygyw1k05nr4mvn3n068riofai&st=dcq24u4y&dl=0)
+[DOI](https://doi.org/10.1057/s41302-026-00335-x) · [Free PDF](https://www.dropbox.com/scl/fi/izdybn3pgfkd99rbhtvgk/Kanimian_et_al-2026-Eastern_Economic_Journal.pdf?rlkey=ygyw1k05nr4mvn3n068riofai&st=dcq24u4y&dl=0)
 
 ## Why it matters
 

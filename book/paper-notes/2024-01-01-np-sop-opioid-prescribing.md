@@ -8,26 +8,29 @@ tags:
   - nursing
   - opioids
   - healthcare-quality
+publication_id: shakya-2024-np-sop-opioid-prescribing
+status: verified
 ---
 
 # Nurse practitioner scope of practice and opioid prescribing
 
-This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+Explainer of Shakya et al. (2024), *Health Economics*. Not the journal article.
 
-**Publication id**: `shakya-2024-np-sop-opioid-prescribing` 
-**Status**: verified
-
-**Citation**: Shakya, S., & Plemmons, A. (2024). Scope of practice and opioid prescribing behavior of nurse practitioners serving Medicare beneficiaries. *Health Economics*. [Download PDF](https://www.dropbox.com/scl/fi/wfmbm1mc9hqyzhkqp9rxh/Shakya-Plemmons-HE-2024.pdf?rlkey=nlb07mwl20nsox976xla7inhg&st=kp9of3qz&dl=0)
+**Citation**: Shakya, S., & Plemmons, A. (2024). Scope of practice and opioid prescribing behavior of nurse practitioners serving Medicare beneficiaries. *Health Economics*. [Free PDF](https://www.dropbox.com/scl/fi/wfmbm1mc9hqyzhkqp9rxh/Shakya-Plemmons-HE-2024.pdf?rlkey=nlb07mwl20nsox976xla7inhg&st=kp9of3qz&dl=0)
 
 ## Facts
-
-### Policy hook
-
-Policy makers seek to expand healthcare access by increasing nurse practitioner autonomy and prescriptive authority, particularly for Schedule II controlled substances (opioids and other drugs). Critics worry that allowing NPs to prescribe without physician oversight could increase opioid overprescribing and compromise patient safety. The policy question is whether removing physician supervision affects NP prescribing behavior for opioids and non-opioid medications.
 
 ### Main finding
 
 Scope-of-practice expansions do not compromise quality and safety in terms of opioid prescribing behavior. When nurse practitioners gain full autonomy and move from physician-supervised states to full-practice states, their opioid prescribing patterns remain unchanged. Differences in opioid claims, drug costs, days supplied, beneficiary counts, and prescription rates are all statistically insignificant between treatment and comparison groups. Similar null results appear for long-acting opioids, antibiotics, and aggregate prescriptions.
+
+### One caveat
+
+Results are based on relatively small sample sizes of NPs moving each year. The design identifies effects under the assumption that interstate NP mobility is plausibly exogenous to prescribing preferences - NPs move for job autonomy or personal reasons, not to prescribe differently. The analysis cannot resolve whether null effects reflect true absence of behavioral change or limited statistical power to detect small effects.
+
+### Policy hook
+
+Policy makers seek to expand healthcare access by increasing nurse practitioner autonomy and prescriptive authority, particularly for Schedule II controlled substances (opioids and other drugs). Critics worry that allowing NPs to prescribe without physician oversight could increase opioid overprescribing and compromise patient safety. The policy question is whether removing physician supervision affects NP prescribing behavior for opioids and non-opioid medications.
 
 ### Data and setting
 
@@ -37,13 +40,9 @@ Medicare Part D Prescriber Summary Table files, 2013-2021, covering all nurse pr
 
 The paper uses nurse practitioner interstate mobility as a source of plausibly exogenous policy variation. Treatment group: NPs moving from Reduced Scope-of-practice to Full Autonomy states. Comparison group: NPs moving from Reduced Scope-of-practice to another Reduced Scope-of-practice state. Difference-in-differences framework compares prescribing behavior before and after the move across both groups. Event studies and robustness checks (policy reversal, covariates, placebo tests) confirm null results.
 
-### One caveat
-
-Results are based on relatively small sample sizes of NPs moving each year. The design identifies effects under the assumption that interstate NP mobility is plausibly exogenous to prescribing preferences - NPs move for job autonomy or personal reasons, not to prescribe differently. The analysis cannot resolve whether null effects reflect true absence of behavioral change or limited statistical power to detect small effects.
-
 ### PDF or DOI
 
-[Download PDF](https://www.dropbox.com/scl/fi/wfmbm1mc9hqyzhkqp9rxh/Shakya-Plemmons-HE-2024.pdf?rlkey=nlb07mwl20nsox976xla7inhg&st=kp9of3qz&dl=0)
+[Free PDF](https://www.dropbox.com/scl/fi/wfmbm1mc9hqyzhkqp9rxh/Shakya-Plemmons-HE-2024.pdf?rlkey=nlb07mwl20nsox976xla7inhg&st=kp9of3qz&dl=0)
 
 ## Why it matters
 
