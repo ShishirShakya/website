@@ -7,6 +7,8 @@ description: Journal Publications by Shishir Shakya. Themed lists and Paper note
 
 # All publications
 
+**Also by topic** (overlapping filters): [Veterans health](publications-veterans-health.md) · [Strategic analysis](publications-strategic-analysis.md)
+
 1. Miske, O., ..., **Shakya, S.**, ... et al. (2026). Investigating the reproducibility of the social and behavioural sciences. *Nature*. <a href="https://doi.org/10.1038/s41586-026-10203-5" target="_blank" rel="noopener noreferrer">DOI</a>. [Download](https://repository.essex.ac.uk/42891/1/SCOREreproducibility.fullmanuscript.pdf) [Paper note](../paper-notes/2026-01-01-score-reproducibility-nature.md)
 
 2. Tyner, A., ..., **Shakya, S.**, ... et al. (2026). Investigating the replicability of the social and behavioural sciences. *Nature*. <a href="https://doi.org/10.1038/s41586-025-10078-y" target="_blank" rel="noopener noreferrer">DOI</a>. [Download](https://osf.io/preprints/metaarxiv/b7x8f) [Paper note](../paper-notes/2026-01-01-score-replicability-nature.md)

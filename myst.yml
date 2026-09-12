@@ -39,8 +39,10 @@ project:
         - file: book/cv/publications-substance-use-disorder.md
         - file: book/cv/publications-institutional-economics.md
         - file: book/cv/publications-education-teaching-economics.md
-        - file: book/cv/publications-veterans-health.md
-        - file: book/cv/publications-strategic-analysis.md
+        - title: Also by topic
+          children:
+            - file: book/cv/publications-veterans-health.md
+            - file: book/cv/publications-strategic-analysis.md
         - file: book/cv/book-chapters.md
         - file: book/cv/policy-briefs.md
         - file: book/cv/op-eds-and-popular-writing.md

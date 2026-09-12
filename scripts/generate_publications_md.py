@@ -164,9 +164,10 @@ def parse_publications(content: str) -> List[str]:
 
     pub_section = match.group(1)
 
-    # Split on line-start "N. " so item 1 is not dropped (it has no leading newline).
+    # Split on line-start "N. ". The first piece is preamble before item 1
+    # (empty, or prose such as "Also by topic"); drop it.
     items = re.split(r'(?m)^\d+\.\s+', pub_section)
-    return [p.strip() for p in items if p.strip()]
+    return [p.strip() for p in items[1:] if p.strip()]
 
 def categorize_publications(publications: List[str]) -> Dict[str, List[str]]:
     """Categorize publications into four themes."""
