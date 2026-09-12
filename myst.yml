@@ -76,13 +76,6 @@ project:
         - file: book/cv/technical-expertise.md
         - file: book/cv/research-software-and-web-platforms.md
 
-    - title: Books
-      children:
-        - title: Mostly Handsdirty Metrics
-          url: https://mhdm.netlify.app/
-        - title: Applied Business Statistics with NOAA Data & Agentic-AI
-          url: https://econ2200.netlify.app/
-
     - title: Agentic-AI Projects
       children:
         - file: book/projects/us-state-ai-laws.md
