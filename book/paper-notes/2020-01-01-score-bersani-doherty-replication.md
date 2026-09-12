@@ -11,6 +11,8 @@ tags:
 
 # Replication of Bersani and Doherty 2013
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `shakya-2020-score-bersani-doherty-replication` 
 **Status**: verified
 

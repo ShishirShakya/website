@@ -11,6 +11,8 @@ tags:
 
 # Revolutions and corruption
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `ammons-2024-revolutions-corruption` 
 **Status**: verified
 

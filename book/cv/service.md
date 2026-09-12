@@ -1,5 +1,6 @@
 ---
 title: Service
+description: University, professional, and community service.
 ---
 
 # Service

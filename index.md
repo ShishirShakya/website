@@ -2,6 +2,7 @@
 title: Dr. Shishir Shakya
 short_title: Home
 subtitle: Assistant Professor of Economics, Appalachian State University
+description: Applied economist at Appalachian State University. Research on healthcare labor, licensing, substance use policy, and economics education.
 thumbnail: book/images/headshot.webp
 ---
 
@@ -39,7 +40,7 @@ I also examine substance use disorder policy, including treatment access, certif
 
 I am a Research Affiliate at the [Knee Regulatory Research Center](https://knee.wvu.edu/contact-us/research-affiliates) at West Virginia University, a Nonresident Scholar at the [Sheila and Robert Challey Institute for Global Innovation and Growth](https://www.ndsu.edu/challeyinstitute/), and a Research Fellow at the [Archbridge Institute](https://www.archbridgeinstitute.org/). Through the National Institutes of Health I contribute to AIM-AHEAD Bridge2AI: I was a research fellow in the Clinical Care Training Program, and I am a mentor for the AI-READI and CLINAQ fellowship programs.
 
-Beyond journal articles, I write policy briefs and evidence products for foundations, policy institutes, and state audiences. You can find my [CV](book/cv/index.md).
+Beyond journal articles, I write policy briefs and evidence products for foundations, policy institutes, and state audiences. You can find my [CV](book/cv/index.md). ORCID: [0000-0002-6272-6654](https://orcid.org/0000-0002-6272-6654).
 :::
 
 ::::

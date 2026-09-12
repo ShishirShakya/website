@@ -11,6 +11,8 @@ tags:
 
 # Cultural influences on gender gap in test scores in Afghanistan
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `shah-mobariz-2024-afghanistan-gender-gap` 
 **Status**: verified
 

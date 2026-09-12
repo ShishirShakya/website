@@ -1,5 +1,6 @@
 ---
 title: Revise and resubmit
+description: Journal manuscripts by Shishir Shakya that are in revise-and-resubmit.
 ---
 
 # Revise and resubmit

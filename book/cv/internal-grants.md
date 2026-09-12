@@ -1,5 +1,6 @@
 ---
 title: Internal grants
+description: Internal university grants.
 ---
 
 # Internal grants

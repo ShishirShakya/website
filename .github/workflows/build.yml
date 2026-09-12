@@ -37,12 +37,25 @@ jobs:
       - name: Build HTML Assets
         run: myst build --html
 
+      # MyST static HTML writes http://localhost:3000 into robots.txt and sitemap.xml
+      # (jupyter-book/mystmd#2695). Rewrite to the apex user Pages origin. Do not set BASE_URL.
+      - name: Rewrite MyST localhost URLs
+        run: python scripts/rewrite_myst_localhost_urls.py
+
+      - name: Add canonical URLs and JSON-LD
+        run: python scripts/postprocess_html_seo.py
+
       # Direct download URLs (not in TOC), e.g. /files/MessyData.xlsx
       # Self-hosted fonts referenced from custom.css at /fonts/...
+      # 404.html at site root for GitHub Pages. Optional google*.html for Search Console.
       - name: Copy static download files and fonts
         run: |
           cp -r files _build/html/files
           test -f _build/html/files/MessyData.xlsx
+          cp files/404.html _build/html/404.html
+          cp files/headshot.webp _build/html/files/headshot.webp
+          shopt -s nullglob
+          for f in files/google*.html; do cp "$f" _build/html/; done
           cp -r fonts _build/html/fonts
           test -f _build/html/fonts/archivo-latin-400-normal.woff2
           test -f _build/html/fonts/source-serif-4-latin-400-normal.woff2

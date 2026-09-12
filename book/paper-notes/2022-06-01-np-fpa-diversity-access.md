@@ -11,6 +11,8 @@ tags:
 
 # Nurse practitioner FPA, workforce diversity, and access
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 :::{note}
 **Stub**: citation and PDF link only. Facts below are empty until verified against the PDF.
 :::

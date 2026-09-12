@@ -1,5 +1,6 @@
 ---
 title: Education
+description: Degrees in economics from West Virginia University and Tribhuvan University.
 ---
 
 # Education

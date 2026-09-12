@@ -1,5 +1,6 @@
 ---
 title: Awards
+description: Awards and honors, including Journal of Rural Health Article of the Year.
 ---
 
 # Awards

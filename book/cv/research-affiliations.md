@@ -1,5 +1,6 @@
 ---
 title: Research affiliations
+description: Research affiliations, fellowships, and mentoring roles, including NIH AIM-AHEAD.
 ---
 
 # Research affiliations

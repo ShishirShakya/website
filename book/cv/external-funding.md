@@ -1,5 +1,6 @@
 ---
 title: External funding
+description: External grants and funded projects.
 ---
 
 # External funding

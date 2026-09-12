@@ -12,6 +12,8 @@ tags:
 
 # Nurse licensure compact and mobility
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `shakya-2022-nurse-licensure-compact-mobility` 
 **Status**: verified
 

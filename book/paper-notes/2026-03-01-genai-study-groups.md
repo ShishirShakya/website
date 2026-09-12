@@ -10,6 +10,8 @@ tags:
 
 # AI-enhanced study groups and learning outcomes
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `babaei-shakya-2026-genai-study-groups` 
 **Status**: verified
 

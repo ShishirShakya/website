@@ -7,6 +7,8 @@ description: Short, policy-facing explainers of selected publications. Bibliogra
 
 These notes paraphrase selected papers for policy and general readers. They are **not** the full articles and **not** a substitute for the [all publications](../cv/publications.md) list.
 
+Pages in this section are Paper notes, not journal articles. The Publication is the citation and the Canonical PDF or DOI.
+
 Each note uses a fixed **Facts** block. Only notes with **Status**: verified should be treated as claim-checked against the PDF. Stubs are placeholders until that check is done. Stable **Publication id** values live in the page body (MyST ignores unknown frontmatter keys).
 
 :::{toc}

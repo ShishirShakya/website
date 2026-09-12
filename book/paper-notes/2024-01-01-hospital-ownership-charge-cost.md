@@ -12,6 +12,8 @@ tags:
 
 # Hospital ownership changes and charge-to-cost shifts
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `beniwal-2024-hospital-ownership-charge-cost` 
 **Status**: verified
 

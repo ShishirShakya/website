@@ -12,6 +12,8 @@ tags:
 
 # Firm responsiveness to environmental policy in shale production
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `scarcioffolo-2024-shale-environmental-policy` 
 **Status**: verified
 

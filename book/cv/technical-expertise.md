@@ -1,5 +1,6 @@
 ---
 title: Technical expertise
+description: Programming, data, clinical analytics, and agentic-AI tools used in research and teaching.
 ---
 
 # Technical expertise

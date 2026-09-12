@@ -10,6 +10,8 @@ tags:
 
 # Pharmacist prescriptive authority in Idaho
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `shakya-2024-pharmacist-idaho` 
 **Status**: verified
 

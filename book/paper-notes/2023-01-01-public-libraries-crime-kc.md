@@ -12,6 +12,8 @@ tags:
 
 # Do public libraries help mitigate crime
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `neto-2023-public-libraries-crime` 
 **Status**: verified
 

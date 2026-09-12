@@ -1,5 +1,6 @@
 ---
 title: Mentorship
+description: Students, postdocs, and other mentees.
 ---
 
 # Mentorship

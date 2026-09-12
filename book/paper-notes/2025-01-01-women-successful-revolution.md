@@ -12,6 +12,8 @@ tags:
 
 # What do women gain from successful revolutions
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `ammons-2025-women-successful-revolution` 
 **Status**: verified
 

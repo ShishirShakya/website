@@ -11,6 +11,8 @@ tags:
 
 # Federal regulations and US energy sector output
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `hall-2019-federal-regulations-energy-output` 
 **Status**: verified
 

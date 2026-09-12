@@ -1,5 +1,6 @@
 ---
 title: Research software and web platforms
+description: Research software and web platforms, including MyMeritGuide and related pipelines.
 ---
 
 # Research software and web platforms

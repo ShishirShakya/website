@@ -12,6 +12,8 @@ tags:
 
 # Shale revolution, oil and gas prices, and drilling
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `shakya-2022-shale-revolution-drilling` 
 **Status**: verified
 

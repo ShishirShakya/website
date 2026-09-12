@@ -12,6 +12,8 @@ tags:
 
 # Social movements and market legitimacy
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `shakya-2025-social-movements-market` 
 **Status**: verified
 

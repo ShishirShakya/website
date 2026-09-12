@@ -11,6 +11,8 @@ tags:
 
 # Athletic reclassification and local entrepreneurial ecosystems
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `ammons-2026-town-gown-touchdowns` 
 **Status**: verified
 

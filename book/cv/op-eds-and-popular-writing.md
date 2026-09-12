@@ -1,5 +1,6 @@
 ---
 title: Op-eds and popular writing
+description: Op-eds and popular writing by Shishir Shakya, separate from Paper notes and journal Publications.
 ---
 
 # Op-eds and popular writing

@@ -1,5 +1,6 @@
 ---
 title: Academic positions and teaching
+description: Academic appointments and courses taught by Shishir Shakya.
 ---
 
 # Academic positions and teaching

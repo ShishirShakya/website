@@ -12,6 +12,8 @@ tags:
 
 # Military spouse RN licensing and care access
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `shakya-2024-military-spouse-rn-licensing` 
 **Status**: verified
 

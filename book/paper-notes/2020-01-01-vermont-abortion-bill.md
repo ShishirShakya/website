@@ -11,6 +11,8 @@ tags:
 
 # Political economy of Vermont's abortion bill
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `shakya-2020-vermont-abortion-bill` 
 **Status**: verified
 

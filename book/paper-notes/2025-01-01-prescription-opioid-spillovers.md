@@ -11,6 +11,8 @@ tags:
 
 # Prescription opioid spillovers from retail pharmacies
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `hodges-2025-prescription-opioid-spillovers` 
 **Status**: verified
 

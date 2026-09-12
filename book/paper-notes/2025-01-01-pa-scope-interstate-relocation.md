@@ -12,6 +12,8 @@ tags:
 
 # Scope-of-practice regulations and PA inter-state relocation
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `nepal-2025-pa-scope-interstate` 
 **Status**: verified
 

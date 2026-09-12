@@ -11,6 +11,8 @@ tags:
 
 # Hospital ownership and profits when a neighbor closes
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `kanimian-2026-hospital-closure-ownership` 
 **Status**: verified
 

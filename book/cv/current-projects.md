@@ -1,5 +1,6 @@
 ---
 title: Current projects
+description: Active research and assessment projects, including IRB work and papers in progress.
 ---
 
 # Current projects

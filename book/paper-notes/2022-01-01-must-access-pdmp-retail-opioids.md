@@ -12,6 +12,8 @@ tags:
 
 # Must-access PDMPs and retail opioid sales
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `shakya-2022-must-access-pdmp-retail-opioids` 
 **Status**: verified
 

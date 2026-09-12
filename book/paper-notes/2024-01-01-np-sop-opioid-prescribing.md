@@ -12,6 +12,8 @@ tags:
 
 # Nurse practitioner scope of practice and opioid prescribing
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `shakya-2024-np-sop-opioid-prescribing` 
 **Status**: verified
 

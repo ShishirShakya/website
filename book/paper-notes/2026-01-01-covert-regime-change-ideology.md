@@ -11,6 +11,8 @@ tags:
 
 # Covert regime change and ideology
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `ammons-2026-covert-regime-change` 
 **Status**: verified
 

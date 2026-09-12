@@ -11,6 +11,8 @@ tags:
 
 # Political economy of Vermont's anti-fracking movement
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `hall-2020-vermont-anti-fracking` 
 **Status**: verified
 

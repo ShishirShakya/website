@@ -11,6 +11,8 @@ tags:
 
 # Electricity consumption and economic growth in Nepal
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `shakya-2018-electricity-consumption-nepal` 
 **Status**: verified
 

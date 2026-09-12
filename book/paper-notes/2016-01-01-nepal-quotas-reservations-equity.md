@@ -12,6 +12,8 @@ tags:
 
 # Quotas and reservations to ensure equity in Nepal
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `shakya-2016-nepal-quotas-reservations-equity` 
 **Status**: verified
 

@@ -12,6 +12,8 @@ tags:
 
 # Substance use Certificate-of-Need laws and treatment access
 
+This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
+
 **Publication id**: `shakya-2024-sud-certificate-of-need` 
 **Status**: verified
 
