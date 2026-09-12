@@ -2,7 +2,7 @@
 title: Maternity care deserts in North Carolina
 short_title: Maternity care deserts NC
 date: '2025-01-01'
-description: Stub paper note for Sugg et al. (2025) in The Journal of Rural Health. Summary not verified yet.
+description: Longer driving distance to obstetric care in North Carolina is linked to worse maternal and infant health outcomes, with larger gaps in rural and low-income areas.
 tags:
   - healthcare
   - rural-health
@@ -12,10 +12,6 @@ tags:
 # Maternity care deserts in North Carolina
 
 This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
-
-:::{note}
-**Stub**: citation and PDF link only. Facts below are empty until verified against the PDF.
-:::
 
 **Publication id**: `sugg-2025-maternity-care-deserts-nc` 
 **Status**: verified

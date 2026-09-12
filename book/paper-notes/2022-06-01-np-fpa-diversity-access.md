@@ -2,7 +2,7 @@
 title: Nurse practitioner FPA, workforce diversity, and access
 short_title: NP FPA diversity and access
 date: '2022-06-01'
-description: Stub paper note for Plemmons et al. (2022) in Policy, Politics, and Nursing Practice. Summary not verified yet.
+description: Nurse practitioner full practice authority and workforce diversity, including whether FPA states improve primary care access for Medicare beneficiaries of color.
 tags:
   - healthcare
   - scope-of-practice
@@ -12,10 +12,6 @@ tags:
 # Nurse practitioner FPA, workforce diversity, and access
 
 This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
-
-:::{note}
-**Stub**: citation and PDF link only. Facts below are empty until verified against the PDF.
-:::
 
 **Publication id**: `plemmons-2022-np-fpa-diversity-access` 
 **Status**: verified

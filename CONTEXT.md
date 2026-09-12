@@ -9,7 +9,7 @@ A bibliographic record of a research output, maintained in the CV publications l
 _Avoid_: Paper note, Grain of Salt essay, blog post, explainer
 
 **Paper note**:
-A short, policy-facing explainer page tied to one Publication; paraphrases findings for non-specialist readers and links to the Canonical PDF or DOI. It is not the journal article and must not be marked or titled as if it were.
+A short, policy-facing explainer page tied to one Publication; paraphrases findings for non-specialist readers and links to the Canonical PDF or DOI. It is not the journal article and must not be marked or titled as if it were. A Publication list entry may link to its Paper note.
 _Avoid_: Grain of Salt essay, blog post, full paper, abstract dump, publication list entry
 
 **Canonical PDF or DOI**:
@@ -24,6 +24,10 @@ _Avoid_: Blog post, Paper note, Publication, op-ed list entry
 The fixed, human-verified claim fields on a Paper note (policy hook, main finding, data and setting, plain-language design, one caveat, PDF or DOI) that substantive narrative may rely on.
 _Avoid_: Abstract paste, unverified AI summary
 
+**Verified**:
+A Paper note whose Facts block has been checked against the Canonical PDF or DOI, marked **Status**: verified in the page body.
+_Avoid_: Stub, draft, Facts filled
+
 **Stub**:
 A Paper note with citation and link only, marked **Status**: stub in the page body, whose Facts block is not yet verified against the PDF.
-_Avoid_: Verified note, published claim
+_Avoid_: Verified, published claim

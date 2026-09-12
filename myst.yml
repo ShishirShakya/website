@@ -14,6 +14,9 @@ project:
     - MHDE
     - book/projects/wcob-ai-wg.md
     - book/projects/index.md
+    - book/cv/revise-and-resubmit.md
+    - book/cv/under-review.md
+    - book/cv/current-projects.md
   # Omit repo link in article frontmatter (no GitHub badge on pages).
   github: null
   # thebe:
@@ -38,9 +41,6 @@ project:
         - file: book/cv/publications-education-teaching-economics.md
         - file: book/cv/publications-veterans-health.md
         - file: book/cv/publications-strategic-analysis.md
-        - file: book/cv/revise-and-resubmit.md
-        - file: book/cv/under-review.md
-        - file: book/cv/current-projects.md
         - file: book/cv/book-chapters.md
         - file: book/cv/policy-briefs.md
         - file: book/cv/op-eds-and-popular-writing.md

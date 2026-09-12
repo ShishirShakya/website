@@ -2,7 +2,7 @@
 title: APRN full practice authority, supply, and outcomes
 short_title: APRN FPA border analysis
 date: '2023-06-01'
-description: Stub paper note for Bae, Norris, Shakya, and Timmons (2023) in Policy, Politics, and Nursing Practice. Summary not verified yet.
+description: Border analysis of APRN full practice authority, provider supply, and health outcomes where neighboring states differ in scope-of-practice rules.
 tags:
   - healthcare
   - scope-of-practice
@@ -12,10 +12,6 @@ tags:
 # APRN full practice authority, supply, and outcomes
 
 This is a Paper note, not the journal article. The Publication is the citation and the Canonical PDF or DOI.
-
-:::{note}
-**Stub**: citation and PDF link only. Facts below are empty until verified against the PDF.
-:::
 
 **Publication id**: `bae-2023-aprn-fpa-border` 
 **Status**: verified
