@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """
-Convert Grain of Salt essays to MP3 with Eleven Labs.
+Convert a Grain of Salt essay into a Reading of hashed Clips.
 
-Does not use the lecture slide/video pipeline. Reads essay Markdown,
-strips MyST markup, and writes MP3s to audio/.
+The essay Markdown is the source. Markup is stripped, then each blank-line
+paragraph becomes a Clip. Clip identity is a hash of voice, model, the
+paragraph, and the previous and next paragraph. Cached Clips are joined
+into one Reading mp3.
 
 Usage:
     python text-to-audio/essay_to_audio.py
@@ -15,13 +17,20 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import hashlib
+import json
 import re
+import shutil
+import subprocess
 import sys
+from dataclasses import dataclass
 from pathlib import Path
+from typing import Callable, Optional
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 ESSAYS_DIR = REPO_ROOT / "book" / "grain-of-salt"
 AUDIO_DIR = REPO_ROOT / "audio"
+CLIPS_DIR = AUDIO_DIR / "clips"
 CONFIG_PATH = Path(__file__).resolve().parent / "elevenlabs.yaml"
 ENV_PATH = Path(__file__).resolve().parent / ".env"
 LECTURE_ENV_PATH = Path(r"D:\Transcript2Slide2Audio\.env")
@@ -34,6 +43,16 @@ BOLD = re.compile(r"\*\*([^*]+)\*\*")
 ITALIC = re.compile(r"(?<!\*)\*([^*]+)\*(?!\*)")
 HEADING = re.compile(r"^#{1,6}\s+", re.MULTILINE)
 EXTRA_BLANK = re.compile(r"\n{3,}")
+
+SynthesizeClip = Callable[["Clip"], bytes]
+
+
+@dataclass(frozen=True)
+class Clip:
+    text: str
+    previous_text: str
+    next_text: str
+    digest: str
 
 
 def load_config() -> dict:
@@ -101,34 +120,15 @@ def markdown_to_speech(text: str) -> str:
     return text.strip()
 
 
-def chunk_text(text: str, max_chars: int) -> list[str]:
-    if len(text) <= max_chars:
-        return [text]
-
-    paragraphs = [p.strip() for p in text.split("\n\n") if p.strip()]
-    chunks: list[str] = []
-    current: list[str] = []
-    size = 0
-
+def speech_clips(speech: str, max_chars: int) -> list[str]:
+    paragraphs = [p.strip() for p in speech.split("\n\n") if p.strip()]
+    clips: list[str] = []
     for paragraph in paragraphs:
-        pieces = (
-            _split_long_paragraph(paragraph, max_chars)
-            if len(paragraph) > max_chars
-            else [paragraph]
-        )
-        for piece in pieces:
-            extra = len(piece) + (2 if current else 0)
-            if current and size + extra > max_chars:
-                chunks.append("\n\n".join(current))
-                current = [piece]
-                size = len(piece)
-            else:
-                current.append(piece)
-                size += extra
-
-    if current:
-        chunks.append("\n\n".join(current))
-    return chunks
+        if len(paragraph) <= max_chars:
+            clips.append(paragraph)
+        else:
+            clips.extend(_split_long_paragraph(paragraph, max_chars))
+    return clips
 
 
 def _split_long_paragraph(paragraph: str, max_chars: int) -> list[str]:
@@ -150,6 +150,49 @@ def _split_long_paragraph(paragraph: str, max_chars: int) -> list[str]:
     return pieces
 
 
+def clip_hash(
+    voice: str,
+    model: str,
+    text: str,
+    previous_text: str,
+    next_text: str,
+) -> str:
+    payload = json.dumps(
+        {
+            "model": model,
+            "next_text": next_text,
+            "previous_text": previous_text,
+            "text": text,
+            "voice": voice,
+        },
+        ensure_ascii=False,
+        separators=(",", ":"),
+        sort_keys=True,
+    )
+    return hashlib.sha256(payload.encode("utf-8")).hexdigest()
+
+
+def clips_for_reading(
+    paragraphs: list[str],
+    *,
+    voice: str,
+    model: str,
+) -> list[Clip]:
+    clips: list[Clip] = []
+    for index, text in enumerate(paragraphs):
+        previous_text = paragraphs[index - 1] if index else ""
+        next_text = paragraphs[index + 1] if index + 1 < len(paragraphs) else ""
+        clips.append(
+            Clip(
+                text=text,
+                previous_text=previous_text,
+                next_text=next_text,
+                digest=clip_hash(voice, model, text, previous_text, next_text),
+            )
+        )
+    return clips
+
+
 def resolve_targets(paths: list[Path], convert_all: bool) -> list[Path]:
     if convert_all:
         return essay_paths()
@@ -158,13 +201,82 @@ def resolve_targets(paths: list[Path], convert_all: bool) -> list[Path]:
     return essay_paths()
 
 
-def output_path(essay: Path, chunk_index: int, chunk_count: int) -> Path:
-    if chunk_count == 1:
-        return AUDIO_DIR / f"{essay.stem}.mp3"
-    return AUDIO_DIR / f"{essay.stem}-{chunk_index:02d}.mp3"
+def clip_path(digest: str) -> Path:
+    return CLIPS_DIR / f"{digest}.mp3"
 
 
-def synthesize(text: str, config: dict) -> bytes:
+def manifest_path(essay: Path) -> Path:
+    return AUDIO_DIR / f"{essay.stem}.json"
+
+
+def reading_path(essay: Path) -> Path:
+    return AUDIO_DIR / f"{essay.stem}.mp3"
+
+
+def _label(path: Path) -> Path:
+    try:
+        return path.relative_to(REPO_ROOT)
+    except ValueError:
+        return path
+
+
+def write_manifest(essay: Path, clips: list[Clip], config: dict) -> Path:
+    dest = manifest_path(essay)
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    payload = {
+        "essay": essay.stem,
+        "voice": config.get("voice", ""),
+        "model": config.get("model", ""),
+        "clips": [{"hash": clip.digest, "chars": len(clip.text)} for clip in clips],
+    }
+    dest.write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
+    return dest
+
+
+def join_clips(clip_paths: list[Path], dest: Path) -> None:
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    if len(clip_paths) == 1:
+        shutil.copyfile(clip_paths[0], dest)
+        return
+
+    ffmpeg = shutil.which("ffmpeg")
+    if not ffmpeg:
+        raise SystemExit("ffmpeg is required to join Clips into a Reading.")
+
+    list_path = dest.with_suffix(".concat.txt")
+    lines = []
+    for path in clip_paths:
+        posix = path.resolve().as_posix().replace("'", r"'\''")
+        lines.append(f"file '{posix}'")
+    list_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    try:
+        result = subprocess.run(
+            [
+                ffmpeg,
+                "-y",
+                "-f",
+                "concat",
+                "-safe",
+                "0",
+                "-i",
+                str(list_path),
+                "-c",
+                "copy",
+                str(dest),
+            ],
+            check=False,
+            capture_output=True,
+            text=True,
+        )
+        if result.returncode != 0:
+            print(result.stderr, file=sys.stderr)
+            raise SystemExit("ffmpeg failed to join Clips into a Reading.")
+    finally:
+        if list_path.exists():
+            list_path.unlink()
+
+
+def synthesize(clip: Clip, config: dict) -> bytes:
     import os
 
     from elevenlabs.client import ElevenLabs
@@ -178,16 +290,27 @@ def synthesize(text: str, config: dict) -> bytes:
         )
 
     client = ElevenLabs(api_key=api_key)
+    kwargs: dict = {}
+    if clip.previous_text:
+        kwargs["previous_text"] = clip.previous_text
+    if clip.next_text:
+        kwargs["next_text"] = clip.next_text
     audio = client.text_to_speech.convert(
         voice_id=config.get("voice", "S752Nf8IeRCwuwzT3tiw"),
         model_id=config.get("model", "eleven_multilingual_v2"),
         output_format=config.get("output_format", "mp3_44100_128"),
-        text=text,
+        text=clip.text,
+        **kwargs,
     )
     return b"".join(audio)
 
 
-def convert_essay(essay: Path, config: dict, dry_run: bool) -> int:
+def convert_essay(
+    essay: Path,
+    config: dict,
+    dry_run: bool,
+    synthesize_clip: Optional[SynthesizeClip] = None,
+) -> int:
     if not essay.exists():
         print(f"Error: essay not found: {essay}", file=sys.stderr)
         return 1
@@ -197,27 +320,53 @@ def convert_essay(essay: Path, config: dict, dry_run: bool) -> int:
         print(f"Error: no speakable text in {essay}", file=sys.stderr)
         return 1
 
-    max_chars = int(config.get("max_chars", 4000))
-    chunks = chunk_text(speech, max_chars)
-    print(f"{essay.relative_to(REPO_ROOT)}: {len(speech)} chars, {len(chunks)} chunk(s)")
+    max_chars = int(config.get("max_chars", 9000))
+    paragraphs = speech_clips(speech, max_chars)
+    voice = str(config.get("voice", "S752Nf8IeRCwuwzT3tiw"))
+    model = str(config.get("model", "eleven_multilingual_v2"))
+    clips = clips_for_reading(paragraphs, voice=voice, model=model)
+    clip_word = "Clip" if len(clips) == 1 else "Clips"
+    print(f"{_label(essay)}: {len(speech)} chars, {len(clips)} {clip_word}")
+
+    hits = 0
+    misses = 0
+    for clip in clips:
+        cached = clip_path(clip.digest)
+        exists = cached.exists()
+        if exists:
+            hits += 1
+            status = "HIT"
+        else:
+            misses += 1
+            status = "MISS"
+        print(f"  {status} clips/{clip.digest}.mp3 ({len(clip.text)} chars)")
 
     if dry_run:
-        for index, chunk in enumerate(chunks, start=1):
-            dest = output_path(essay, index, len(chunks))
-            print(f"  would write {dest.relative_to(REPO_ROOT)} ({len(chunk)} chars)")
+        print(f"  would write {_label(reading_path(essay))} ({hits} hit, {misses} miss)")
         return 0
 
+    CLIPS_DIR.mkdir(parents=True, exist_ok=True)
     AUDIO_DIR.mkdir(parents=True, exist_ok=True)
-    for index, chunk in enumerate(chunks, start=1):
-        dest = output_path(essay, index, len(chunks))
-        dest.write_bytes(synthesize(chunk, config))
-        print(f"  wrote {dest.relative_to(REPO_ROOT)}")
+    producer = synthesize_clip or (lambda clip: synthesize(clip, config))
+    clip_files: list[Path] = []
+    for clip in clips:
+        dest = clip_path(clip.digest)
+        if not dest.exists():
+            dest.write_bytes(producer(clip))
+            print(f"  wrote {_label(dest)}")
+        clip_files.append(dest)
+
+    joined = reading_path(essay)
+    join_clips(clip_files, joined)
+    written_manifest = write_manifest(essay, clips, config)
+    print(f"  wrote {_label(joined)}")
+    print(f"  wrote {_label(written_manifest)}")
     return 0
 
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(
-        description="Convert Grain of Salt essays to MP3 with Eleven Labs.",
+        description="Convert Grain of Salt essays to a Reading of hashed Clips.",
     )
     parser.add_argument(
         "paths",
@@ -233,7 +382,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument(
         "--dry-run",
         action="store_true",
-        help="Print paths and character counts; do not call Eleven Labs",
+        help="Print Clip cache hits and misses; do not call Eleven Labs",
     )
     args = parser.parse_args(argv)
 

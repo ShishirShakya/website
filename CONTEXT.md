@@ -22,7 +22,15 @@ _Avoid_: Download, Download PDF as if it were Canonical, scholarly full text
 
 **Grain of Salt essay**:
 A first-person reflective page on this site (memoir, meaning, craft of a life), not tied to a Publication, with no Facts block. The salt is that it is the author's view, not a research claim.
-_Avoid_: Blog post, Paper note, Publication, op-ed list entry
+_Avoid_: Blog post, Paper note, Publication, op-ed list entry, Reading
+
+**Reading**:
+A spoken rendering of one Grain of Salt essay, produced from the essay body after markup is stripped. It is private until a player exists on the page.
+_Avoid_: Podcast, episode, narration, blog audio, audiobook
+
+**Clip**:
+One cacheable spoken span inside a Reading, usually one blank-line paragraph, identified by a hash of voice, model, that span, and its previous and next spans.
+_Avoid_: Unique id, sentence id, chunk, slide notes
 
 **Facts block**:
 The fixed, human-verified claim fields on a Paper note (main finding, one caveat, policy hook, data and setting, plain-language design, Canonical PDF or DOI then Free PDF) that substantive narrative may rely on.
