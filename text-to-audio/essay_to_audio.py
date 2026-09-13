@@ -296,7 +296,7 @@ def synthesize(clip: Clip, config: dict) -> bytes:
     if clip.next_text:
         kwargs["next_text"] = clip.next_text
     audio = client.text_to_speech.convert(
-        voice_id=config.get("voice", "S752Nf8IeRCwuwzT3tiw"),
+        voice_id=config.get("voice", "nqXP0AHNhLuxYoxwhQxh"),
         model_id=config.get("model", "eleven_multilingual_v2"),
         output_format=config.get("output_format", "mp3_44100_128"),
         text=clip.text,
@@ -322,7 +322,7 @@ def convert_essay(
 
     max_chars = int(config.get("max_chars", 9000))
     paragraphs = speech_clips(speech, max_chars)
-    voice = str(config.get("voice", "S752Nf8IeRCwuwzT3tiw"))
+    voice = str(config.get("voice", "nqXP0AHNhLuxYoxwhQxh"))
     model = str(config.get("model", "eleven_multilingual_v2"))
     clips = clips_for_reading(paragraphs, voice=voice, model=model)
     clip_word = "Clip" if len(clips) == 1 else "Clips"
