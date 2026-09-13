@@ -17,6 +17,8 @@ project:
     - book/cv/revise-and-resubmit.md
     - book/cv/under-review.md
     - book/cv/current-projects.md
+    - audio
+    - text-to-audio
   # Omit repo link in article frontmatter (no GitHub badge on pages).
   github: null
   # thebe:

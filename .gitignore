@@ -123,7 +123,15 @@ book-*/images/
 *.xml
 *.gpkg
 *.mp4
+*.mp3
 *.zip
+
+# Grain of Salt TTS: generated audio stays local
+audio/**
+!audio/.gitkeep
+
+# Local TTS venv (root .env already ignores API keys)
+text-to-audio/.venv/
 
 # Private / local files
 private/

@@ -1,0 +1,5 @@
+# Voice and model copied from D:\Transcript2Slide2Audio\scholium.yaml
+voice: S752Nf8IeRCwuwzT3tiw
+model: eleven_multilingual_v2
+output_format: mp3_44100_128
+max_chars: 9000
