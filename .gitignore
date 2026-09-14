@@ -130,8 +130,8 @@ book-*/images/
 audio/**
 !audio/.gitkeep
 
-# Local TTS venv (root .env already ignores API keys)
-text-to-audio/.venv/
+# Local TTS tooling (scripts, venv, and keys stay local)
+text-to-audio/
 
 # Private / local files
 private/
