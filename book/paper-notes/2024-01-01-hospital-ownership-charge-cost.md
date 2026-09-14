@@ -22,7 +22,7 @@ Explainer of Beniwal et al. (2024), *Economics Letters*. Not the journal article
 
 ### Main finding
 
-For-profit hospitals exhibit charge-to-cost ratios approximately 161% higher than governmental hospitals and 99.7% higher than non-profit hospitals on average. When hospitals transition from governmental to for-profit ownership, their CCR increases by $1.611 per $1 of cost. When transitioning from non-profit to for-profit, CCR increases by $0.997 per $1 of cost. For-profit to governmental or non-profit transitions show significant CCR decreases. Approximately 147 hospitals in the sample charge CCRs above 1000% (more than 10 times cost).
+For-profit hospitals exhibit charge-to-cost ratios approximately 161% higher than governmental hospitals and 99.7% higher than non-profit hospitals on average. When hospitals transition from governmental to for-profit ownership, their CCR increases by \$1.611 per \$1 of cost. When transitioning from non-profit to for-profit, CCR increases by \$0.997 per \$1 of cost. For-profit to governmental or non-profit transitions show significant CCR decreases. Approximately 147 hospitals in the sample charge CCRs above 1000% (more than 10 times cost).
 
 ### One caveat
 

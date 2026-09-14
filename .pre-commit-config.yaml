@@ -9,7 +9,7 @@ repos:
       - id: trailing-whitespace
       - id: requirements-txt-fixer
       - id: check-added-large-files
-        args: ["--maxkb=3500"]
+        args: ["--maxkb=25000"]
 
   - repo: https://github.com/psf/black
     rev: 25.1.0
@@ -29,12 +29,3 @@ repos:
     rev: 0.8.1
     hooks:
       - id: nbstripout
-
-  - repo: local
-    hooks:
-      - id: generate-publications
-        name: Generate publication category pages
-        entry: python scripts/generate_publications_md.py --check
-        language: python
-        pass_filenames: false
-        files: book/cv/publications\.md

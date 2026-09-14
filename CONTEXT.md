@@ -25,7 +25,7 @@ A first-person reflective page on this site (memoir, meaning, craft of a life), 
 _Avoid_: Blog post, Paper note, Publication, op-ed list entry, Reading
 
 **Reading**:
-A spoken rendering of one Grain of Salt essay, produced from the essay body after markup is stripped. It is private until a player exists on the page.
+A spoken rendering of one Grain of Salt essay, produced from the essay body after markup is stripped. When a Reading exists, the essay page has a player.
 _Avoid_: Podcast, episode, narration, blog audio, audiobook
 
 **Clip**:

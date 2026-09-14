@@ -153,6 +153,29 @@ article.content > blockquote {
   max-width: var(--measure);
 }
 
+article.content audio,
+.reading-player {
+  display: block;
+  width: 100%;
+  max-width: var(--measure);
+  margin: 0.85rem 0 1rem;
+}
+
+.reading-player > div {
+  display: block !important;
+  width: 100% !important;
+  height: 52px;
+  padding-bottom: 0 !important;
+}
+
+.reading-player iframe {
+  position: static !important;
+  width: 100% !important;
+  height: 52px !important;
+  border: 0;
+  overflow: hidden;
+}
+
 a {
   color: var(--signal);
 }

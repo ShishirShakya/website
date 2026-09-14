@@ -22,7 +22,7 @@ Explainer of Scarcioffolo et al. (2024), *Applied Economics Letters*. Not the jo
 
 ### Main finding
 
-When jurisdictions increase drilling bonding requirements, firms respond by exiting the unconventional oil and gas industry rather than increasing compliance efforts. West Virginia's increase from $5,000 to $25,000 per well and $50,000 to $250,000 operator bonds led to industry contraction and abandonment of inactive wells. This creates a "judgment-proof" problem: firms exit, leaving environmental liabilities with insufficient financial resources to address them, ultimately shifting cleanup costs to state governments.
+When jurisdictions increase drilling bonding requirements, firms respond by exiting the unconventional oil and gas industry rather than increasing compliance efforts. West Virginia's increase from \$5,000 to \$25,000 per well and \$50,000 to \$250,000 operator bonds led to industry contraction and abandonment of inactive wells. This creates a "judgment-proof" problem: firms exit, leaving environmental liabilities with insufficient financial resources to address them, ultimately shifting cleanup costs to state governments.
 
 ### One caveat
 
@@ -34,7 +34,7 @@ Policy makers use bonding requirements (financial guarantees) to compel oil and 
 
 ### Data and setting
 
-West Virginia and Pennsylvania administrative drilling data, 2011-2013, capturing policy changes: West Virginia increased bonding in December 2011 (conventional $5,000→$25,000; unconventional $50,000→$250,000 operator bond); Pennsylvania adjusted requirements by well depth in 2012. Analysis covers new wells drilled and plugged in both conventional and unconventional drilling settings.
+West Virginia and Pennsylvania administrative drilling data, 2011-2013, capturing policy changes: West Virginia increased bonding in December 2011 (conventional \$5,000→\$25,000; unconventional \$50,000→\$250,000 operator bond); Pennsylvania adjusted requirements by well depth in 2012. Analysis covers new wells drilled and plugged in both conventional and unconventional drilling settings.
 
 ### Research design (plain language)
 

@@ -1,13 +1,12 @@
 ---
 description: GitHub Actions and what CI expects from this project
-globs: .github/**/*.yml,scripts/**
+globs: .github/**/*.yml
 alwaysApply: false
 ---
 
 # CI and workflows
 
-- **PRs (`build.yml`):** Node, global `mystmd`, `python scripts/generate_publications_md.py --check`, then `myst build --html`, then `python scripts/rewrite_myst_localhost_urls.py` and `python scripts/postprocess_html_seo.py`. Keep these steps in sync with local development.
-- **Deploy (`deploy.yml` on `main`):** `myst build --html` with **no** `BASE_URL` (apex user Pages is site root; setting `BASE_URL` breaks the MyST “wrong BASE_URL” dialog), rewrite localhost sitemap URLs, post-process canonical/JSON-LD, copy `files/` (including `404.html` to site root), then [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) with `personal_token` pushing `_build/html` to `ShishirShakya.github.io` on **`master`** (secret `GH_PAGES_DEPLOY_TOKEN`).
-- **Pre-commit (`.pre-commit-config.yaml`):** includes `generate_publications_md.py --check` when `book/cv/publications.md` changes. Do not remove that hook without a replacement check.
+- **PRs (`build.yml`):** Node, global `mystmd`, then `myst build --html`. Rewrite `http://localhost:3000` in `robots.txt` and `sitemap.xml` to `https://shishirshakya.github.io`. After the HTML build, copy `files/`, `fonts/`, and joined Readings `audio/*.mp3` into `_build/html`. Local Python under `scripts/` is not in the public repo.
+- **Deploy (`deploy.yml` on `main`):** `myst build --html` with **no** `BASE_URL` (apex user Pages is site root; setting `BASE_URL` breaks the MyST "wrong BASE_URL" dialog), rewrite localhost sitemap URLs, copy `files/` (including `404.html` to site root), copy joined Readings from `audio/*.mp3` to `_build/html/audio/`, then [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) with `personal_token` pushing `_build/html` to `ShishirShakya.github.io` on **`master`** (secret `GH_PAGES_DEPLOY_TOKEN`).
 
 If you add new required commands (linters, extra builds), add them to the same place in `build.yml` so PRs stay green with production behavior.

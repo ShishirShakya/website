@@ -105,10 +105,12 @@ ENV/
 # IDE settings
 .vscode/
 
-# Cursor: ignore local/editor-only paths; keep `.cursor/rules/` versioned
+# Cursor: keep site coding rules; leave agent slop lists and extra local files off GitHub
 .cursor/*
 !.cursor/rules/
 !.cursor/rules/**
+.cursor/rules/slop_list*.json
+.cursor/rules/banned-ai-slop-words.mdc
 
 # MyST / Jupyter Book build outputs
 _build/
@@ -123,24 +125,34 @@ book-*/images/
 *.xml
 *.gpkg
 *.mp4
-*.mp3
 *.zip
 
-# Grain of Salt TTS: generated audio stays local
-audio/**
-!audio/.gitkeep
+# --- Public site vs local-only ---
+# Public (do commit): myst.yml, index.md, custom.css, logo, fonts/,
+# book/ pages and images, files/ (404, downloads, reading-player.html),
+# joined Readings audio/*.mp3, .github/workflows.
+#
+# Local only (do not commit):
 
-# Local TTS tooling (scripts, venv, and keys stay local)
+# Clip cache and manifests. Joined Readings at audio/*.mp3 stay site assets.
+*.mp3
+!audio/*.mp3
+audio/clips/
+audio/*.json
+
+# TTS synthesis: API keys, venv, clip tooling
 text-to-audio/
 
-# Private / local files
+# Local Python (TTS helpers, publications generator, SEO postprocess)
+scripts/
+
+# Agent notes, ADRs, and research writeups
+AGENTS.md
+docs/
+
+# Editor / private
 private/
 legacy/
-
-
 .claude/
 .agents/
 .vault/
-.cursor/
-docs/
-AGENTS.md

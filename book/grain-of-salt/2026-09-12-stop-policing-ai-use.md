@@ -7,6 +7,12 @@ description: A personal essay on AI in teaching, covering access and literacy, u
 
 # Stop Policing AI Use. Observe Learning.
 
+:::{iframe} /files/reading-player.html?src=/audio/2026-09-12-stop-policing-ai-use.mp3
+:class: reading-player
+:width: 100%
+:title: Reading of this essay
+:::
+
 I have been puzzled about artificial intelligence (AI) use in education. I have been reading, watching talks, and talking with students, teachers, and people who hire. This post is my attempt to summarize what I think I have learned so far. These are only my thoughts and not a recommendation.
 
 ## Students do not start on the same line

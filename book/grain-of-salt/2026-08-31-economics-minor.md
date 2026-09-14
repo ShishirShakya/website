@@ -62,17 +62,17 @@ Highest- and lowest-paid college majors, synthetic work-life earnings for full-t
 
 Financial data indicates that while economists command substantial median salaries, the field exhibits a significant variance in earnings. This high standard deviation reflects the expanded agency professionals enjoy regarding their compensation structures. Increased productivity provides economists the leverage to prioritize personal fulfillment: such as family time or diverse intellectual interests, over maximum pecuniary gain. This narrative of professional autonomy and strategic trade-offs is clearly evidenced by the observed distribution metrics.
 
-According to 2024 data from the **US Bureau of Labor Statistics**, economists across various educational backgrounds command significant compensation. The median annual salary for professionals in the field reached **$115,440**, with earnings spanning from **$62,340** at the tenth percentile to over **$212,710** for the top 90th percentile of earners.
+According to 2024 data from the **US Bureau of Labor Statistics**, economists across various educational backgrounds command significant compensation. The median annual salary for professionals in the field reached **\$115,440**, with earnings spanning from **\$62,340** at the tenth percentile to over **\$212,710** for the top 90th percentile of earners.
 
 ### Median Annual Wages for Economists in May 2024 in the Top Five Industries Employing Economists (from the *Occupation Outlook Handbook*)
 
 | Industry | Annual Wage |
 | --- | --- |
-| Federal government, excluding postal service | $141,590 |
-| Scientific research and development services | $129,430 |
-| Management, scientific, and technical consulting services | $102,450 |
-| Local government, excluding education and hospitals | $92,440 |
-| State and local government, excluding education and hospitals | $74,520 |
+| Federal government, excluding postal service | \$141,590 |
+| Scientific research and development services | \$129,430 |
+| Management, scientific, and technical consulting services | \$102,450 |
+| Local government, excluding education and hospitals | \$92,440 |
+| State and local government, excluding education and hospitals | \$74,520 |
 
 *Source: Bureau of Labor Statistics, U.S. Department of Labor, [Occupational Outlook Handbook](http://www.bls.gov/ooh/life-physical-and-social-science/economists.htm), Economists. (Visited June 5, 2025).*
 

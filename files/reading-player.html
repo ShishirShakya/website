@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Reading</title>
+  <style>
+    :root {
+      --ink: #1b2a33;
+      --ink-soft: #4a5c66;
+      --rule: #c6d0d5;
+      --signal: #0e7c7b;
+      --font: Archivo, system-ui, sans-serif;
+    }
+
+    html.dark {
+      --ink: #e8edef;
+      --ink-soft: #a8b6bd;
+      --rule: #3a4a53;
+      --signal: #4fb3b1;
+    }
+
+    html, body {
+      margin: 0;
+      background: transparent;
+      color: var(--ink);
+      font-family: var(--font);
+    }
+
+    .bar {
+      display: grid;
+      grid-template-columns: auto 1fr auto;
+      grid-template-rows: auto 4px;
+      column-gap: 0.75rem;
+      row-gap: 0.4rem;
+      align-items: center;
+      min-height: 44px;
+    }
+
+    .play {
+      width: 2rem;
+      height: 2rem;
+      padding: 0;
+      border: 0;
+      border-radius: 50%;
+      background: var(--signal);
+      color: #fff;
+      cursor: pointer;
+      display: grid;
+      place-items: center;
+    }
+
+    .play:focus-visible {
+      outline: 2px solid var(--signal);
+      outline-offset: 2px;
+    }
+
+    .play:disabled {
+      cursor: default;
+      opacity: 0.45;
+    }
+
+    .play svg {
+      width: 0.85rem;
+      height: 0.85rem;
+      display: block;
+    }
+
+    .play svg[hidden] {
+      display: none !important;
+    }
+
+    .label {
+      font-size: 0.8125rem;
+      font-weight: 500;
+      letter-spacing: -0.015em;
+      line-height: 1.2;
+    }
+
+    .time {
+      font-size: 0.75rem;
+      color: var(--ink-soft);
+      font-variant-numeric: tabular-nums;
+      white-space: nowrap;
+    }
+
+    .progress {
+      grid-column: 1 / -1;
+      appearance: none;
+      -webkit-appearance: none;
+      width: 100%;
+      height: 4px;
+      margin: 0;
+      padding: 0;
+      border: 0;
+      border-radius: 0;
+      background: linear-gradient(
+        to right,
+        var(--signal) var(--played, 0%),
+        var(--rule) var(--played, 0%)
+      );
+      cursor: pointer;
+    }
+
+    .progress:disabled {
+      cursor: default;
+    }
+
+    .progress::-webkit-slider-runnable-track {
+      height: 4px;
+      background: transparent;
+    }
+
+    .progress::-webkit-slider-thumb {
+      appearance: none;
+      -webkit-appearance: none;
+      width: 0;
+      height: 0;
+    }
+
+    .progress::-moz-range-track {
+      height: 4px;
+      background: transparent;
+    }
+
+    .progress::-moz-range-thumb {
+      width: 0;
+      height: 0;
+      border: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="bar">
+    <button class="play" id="play" type="button" aria-label="Play Reading" disabled>
+      <svg id="icon-play" viewBox="0 0 12 12" aria-hidden="true">
+        <path fill="currentColor" d="M3 1.5v9l8-4.5z"/>
+      </svg>
+      <svg id="icon-pause" viewBox="0 0 12 12" aria-hidden="true" hidden>
+        <rect fill="currentColor" x="2" y="1.5" width="3" height="9"/>
+        <rect fill="currentColor" x="7" y="1.5" width="3" height="9"/>
+      </svg>
+    </button>
+    <div class="label" id="label">Reading</div>
+    <div class="time" id="time">0:00 / 0:00</div>
+    <input class="progress" id="progress" type="range" min="0" max="1000" value="0" step="1" disabled aria-label="Reading position" style="--played: 0%">
+  </div>
+  <audio id="reading" preload="metadata"></audio>
+  <script>
+    var audio = document.getElementById("reading");
+    var playBtn = document.getElementById("play");
+    var iconPlay = document.getElementById("icon-play");
+    var iconPause = document.getElementById("icon-pause");
+    var label = document.getElementById("label");
+    var timeEl = document.getElementById("time");
+    var progress = document.getElementById("progress");
+    var seeking = false;
+
+    function formatTime(seconds) {
+      if (!isFinite(seconds) || seconds < 0) return "0:00";
+      var total = Math.floor(seconds);
+      var h = Math.floor(total / 3600);
+      var m = Math.floor((total % 3600) / 60);
+      var s = total % 60;
+      var mm = h > 0 ? String(m).padStart(2, "0") : String(m);
+      var ss = String(s).padStart(2, "0");
+      return h > 0 ? h + ":" + mm + ":" + ss : mm + ":" + ss;
+    }
+
+    function syncTheme() {
+      var dark = false;
+      try {
+        dark = parent.document.documentElement.classList.contains("dark");
+      } catch (err) {
+        dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+      }
+      document.documentElement.classList.toggle("dark", dark);
+    }
+
+    function renderTime() {
+      var duration = audio.duration;
+      var current = audio.currentTime || 0;
+      timeEl.textContent = formatTime(current) + " / " + formatTime(duration);
+      var played = 0;
+      if (isFinite(duration) && duration > 0) {
+        played = (current / duration) * 100;
+        if (!seeking) {
+          progress.value = String(Math.round((current / duration) * 1000));
+        }
+      }
+      progress.style.setProperty("--played", played + "%");
+    }
+
+    function setPlaying(playing) {
+      if (playing) {
+        iconPlay.setAttribute("hidden", "");
+        iconPause.removeAttribute("hidden");
+      } else {
+        iconPlay.removeAttribute("hidden");
+        iconPause.setAttribute("hidden", "");
+      }
+      playBtn.setAttribute("aria-label", playing ? "Pause Reading" : "Play Reading");
+    }
+
+    function markUnavailable() {
+      label.textContent = "Reading unavailable";
+      playBtn.disabled = true;
+      progress.disabled = true;
+    }
+
+    syncTheme();
+    try {
+      new MutationObserver(syncTheme).observe(parent.document.documentElement, {
+        attributes: true,
+        attributeFilter: ["class"],
+      });
+    } catch (err) {}
+    window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", syncTheme);
+
+    var src = new URLSearchParams(location.search).get("src");
+    if (!src) {
+      markUnavailable();
+    } else {
+      audio.src = src;
+    }
+
+    audio.addEventListener("loadedmetadata", function () {
+      playBtn.disabled = false;
+      progress.disabled = false;
+      renderTime();
+    });
+    audio.addEventListener("timeupdate", renderTime);
+    audio.addEventListener("play", function () { setPlaying(true); });
+    audio.addEventListener("pause", function () { setPlaying(false); });
+    audio.addEventListener("ended", function () {
+      setPlaying(false);
+      renderTime();
+    });
+    audio.addEventListener("error", markUnavailable);
+
+    playBtn.addEventListener("click", function () {
+      if (audio.paused) {
+        audio.play().catch(markUnavailable);
+      } else {
+        audio.pause();
+      }
+    });
+
+    progress.addEventListener("pointerdown", function () { seeking = true; });
+    progress.addEventListener("pointerup", function () { seeking = false; });
+    progress.addEventListener("input", function () {
+      if (!isFinite(audio.duration) || audio.duration <= 0) return;
+      audio.currentTime = (Number(progress.value) / 1000) * audio.duration;
+      renderTime();
+    });
+  </script>
+</body>
+</html>

@@ -2,7 +2,7 @@
 title: The fracking boom and crime rates in rural American states
 short_title: Fracking and rural crime
 date: '2021-01-01'
-description: Fracking boom states (Arkansas, North Dakota, West Virginia) experienced significantly higher crime rates with estimated annual victimization cost of $15.68M; effect specific to rural states.
+description: Fracking boom states (Arkansas, North Dakota, West Virginia) experienced significantly higher crime rates with estimated annual victimization cost of \$15.68M; effect specific to rural states.
 tags:
   - energy
   - crime
@@ -21,7 +21,7 @@ Explainer of Shakya et al. (2021), *The Extractive Industries and Society*. Not 
 
 ### Main finding
 
-States experiencing intense fracking booms (Arkansas, North Dakota, West Virginia) encountered significantly more crimes than comparison states post-2007, with an estimated annual victimization cost of $15.68 million (2008 dollars). Critically, this crime-shale boom link is specific to rural American states; the effect disappears when including states with fewer rural populations, indicating the phenomenon is context-dependent.
+States experiencing intense fracking booms (Arkansas, North Dakota, West Virginia) encountered significantly more crimes than comparison states post-2007, with an estimated annual victimization cost of \$15.68 million (2008 dollars). Critically, this crime-shale boom link is specific to rural American states; the effect disappears when including states with fewer rural populations, indicating the phenomenon is context-dependent.
 
 ### One caveat
 
@@ -45,4 +45,4 @@ Generalized Synthetic Control (GSC) approach with post-double-selection LASSO (P
 
 ## Why it matters
 
-Natural resource booms create winners and losers. This paper reveals a significant downside: real crime increases in rural fracking communities. The $15.68 million annual victimization cost is substantial for small rural communities where per-capita crime damage is particularly acute. For resource-dependent rural economies, the finding suggests that boom-time growth comes with public safety costs that offset economic gains for residents. For policy makers approving extraction projects, it shows the need for community investment beyond royalties - law enforcement, social services, and housing infrastructure should scale with boom-time population influx. For federal Indian nations and rural counties considering resource extraction, the paper provides quantitative evidence of social costs. The rural-specificity is important: boom effects differ dramatically between rural and urban settings, suggesting that energy policy should distinguish between community types and their capacity to absorb rapid change.
+Natural resource booms create winners and losers. This paper reveals a significant downside: real crime increases in rural fracking communities. The \$15.68 million annual victimization cost is substantial for small rural communities where per-capita crime damage is particularly acute. For resource-dependent rural economies, the finding suggests that boom-time growth comes with public safety costs that offset economic gains for residents. For policy makers approving extraction projects, it shows the need for community investment beyond royalties - law enforcement, social services, and housing infrastructure should scale with boom-time population influx. For federal Indian nations and rural counties considering resource extraction, the paper provides quantitative evidence of social costs. The rural-specificity is important: boom effects differ dramatically between rural and urban settings, suggesting that energy policy should distinguish between community types and their capacity to absorb rapid change.

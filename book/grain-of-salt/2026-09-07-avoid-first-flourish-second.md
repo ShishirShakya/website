@@ -8,6 +8,12 @@ description: A letter on the three kinds of problems a young person faces, how t
 
 # What should a twenty-year-old do to be successful?
 
+:::{iframe} /files/reading-player.html?src=/audio/2026-09-07-avoid-first-flourish-second.mp3
+:class: reading-player
+:width: 100%
+:title: Reading of this essay
+:::
+
 On August 19, 2026, one of my younger friends and I ran our fastest miles of the day on the track. Mine was 7:19. His was about 6:15. I was still gasping for air when he asked, out of nowhere, what a twenty-year-old should do to be successful.
 
 I grew up in Nepal and came to the United States at thirty. That was ten years ago. My first answer was blunt. You are in a better institution than the one I came from. Do not screw up, and you should be fine.

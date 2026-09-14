@@ -24,29 +24,29 @@ jobs:
         with:
           node-version: 18.x
 
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
       - name: Install MyST Markdown
         run: npm install -g mystmd
-
-      - name: Check generated publication pages
-        run: python scripts/generate_publications_md.py --check
 
       - name: Build HTML Assets
         run: myst build --html
 
-      # MyST static HTML writes http://localhost:3000 into robots.txt and sitemap.xml
-      # (jupyter-book/mystmd#2695). Rewrite to the apex user Pages origin. Do not set BASE_URL.
+      # MyST writes http://localhost:3000 into robots.txt and sitemap.xml (mystmd#2695).
+      # Rewrite to the apex user Pages origin. Do not set BASE_URL.
       - name: Rewrite MyST localhost URLs
-        run: python scripts/rewrite_myst_localhost_urls.py
-
-      - name: Add canonical URLs and JSON-LD
-        run: python scripts/postprocess_html_seo.py
+        run: |
+          for f in _build/html/robots.txt _build/html/sitemap.xml _build/html/sitemap_style.xsl; do
+            if [ -f "$f" ]; then
+              sed -i 's|http://localhost:3000|https://shishirshakya.github.io|g' "$f"
+            fi
+          done
+          if grep -q 'http://localhost:3000' _build/html/robots.txt _build/html/sitemap.xml; then
+            echo "localhost URLs remain in sitemap or robots.txt"
+            exit 1
+          fi
 
       # Direct download URLs (not in TOC), e.g. /files/MessyData.xlsx
       # Self-hosted fonts referenced from custom.css at /fonts/...
+      # Joined Grain of Salt Readings at /audio/*.mp3
       # 404.html at site root for GitHub Pages. Optional google*.html for Search Console.
       - name: Copy static download files and fonts
         run: |
@@ -59,6 +59,9 @@ jobs:
           cp -r fonts _build/html/fonts
           test -f _build/html/fonts/archivo-latin-400-normal.woff2
           test -f _build/html/fonts/source-serif-4-latin-400-normal.woff2
+          mkdir -p _build/html/audio
+          cp audio/*.mp3 _build/html/audio/
+          test -f _build/html/audio/2026-09-12-stop-policing-ai-use.mp3
 
       # - name: Deploy to Netlify
       #   uses: nwtgck/actions-netlify@v3.0
