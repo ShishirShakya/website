@@ -21,6 +21,8 @@ project:
     - text-to-audio
   # Omit repo link in article frontmatter (no GitHub badge on pages).
   github: null
+  plugins:
+    - plugins/show-read.mjs
   # thebe:
   #   binder:
   #     repo: opengeos/myst-website-template
