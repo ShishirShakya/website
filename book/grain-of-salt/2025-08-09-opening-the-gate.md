@@ -27,19 +27,15 @@ The world advances through a complex interplay of intentionality, agency, contex
 
 While access and privilege undoubtedly shape opportunities, other factors also play significant roles in determining outcomes. Those factors include individual effort, chance, and evolving societal norms. For example, research from the Pew Charitable Trusts and Raj Chetty's studies on social mobility demonstrate that both structural factors and individual choices contribute to opportunity. Upward mobility is possible, though unevenly distributed.
 
-Like many, I was not handed a map. I learned in pieces, from books and leftover notes, but I tried to stay ready. Luck still mattered. A conversation I had not planned opened a door I could not have scheduled. The work I had already done let me walk through it.
+Like many, I was not handed a map. I learned in pieces, from books and leftover notes, but I tried to stay ready. Luck still mattered. A conversation I had not planned opened a door I could not have scheduled. However, the work I had already done let me walk through it.
 
-That is not a theory of fairness. Plenty of people prepare just as carefully and never get the chance. A success story can teach something. You cannot infer from one winner, or a few winners, that everyone had an equal shot.
+Howeve, plenty of people prepare just as carefully and never get the chance. A success story can teach something, but I caution not to infer from one winner, or a few winners, that everyone had an equal shot.
 
-Survivors are visible. The people who prepared and never got the opening are not. Using the winner as the test confuses a possible path with an even playing field.
+Survivors are visible. The people who prepared and never got the opening are not. So please remain cautious when you reflect upon my suggestions here.
 
-This essay is based on personal memoir. It is for anyone navigating systems: policy leaders, educators, young professionals, and anyone who has ever felt the rules were unwritten or the gate was locked. From the uneven map, I learned not just to walk, but how to navigate. Navigation requires principles. Those principles shape everything that follows.
+This essay is based on my personal memoir. It is for anyone navigating systems: policy leaders, educators, young professionals, and anyone who has ever felt the rules were unwritten or the gate was locked. From the uneven map, I am still learning how to navigate. Navigation requires principles. Those principles shape everything that follows.
 
-Many of us are not taught how to navigate the unwritten rules that influence opportunity. That is sometimes due to systemic barriers, sometimes due to circumstance, and sometimes simply by chance. These barriers are not distributed evenly. Systemic exclusion persists even when effort and preparation are present.
-
-I recognize that not everyone starts with the same resources or opportunities. That's why my unfinished map may still help someone else begin their path. The map is shaped by my own context and limitations. It may inspire them to chart their own.
-
-At the same time, some people have used the structures that were available to them and moved up. That shows more than one path is possible, even when the system is imperfect.
+Many of us are not taught how to navigate the unwritten rules that influence opportunity. That is sometimes due to systemic barriers, sometimes due to circumstance, and sometimes simply by chance. These barriers are not distributed evenly. Systemic exclusion persists even when effort and preparation are present. Be cautious, but, my unfinished map may still help someone else begin their path. The map is definitely shaped by my own context and limitations.
 
 ## Principles of Navigation
 
@@ -49,7 +45,9 @@ I am an economist by training, a teacher by nature, and a storyteller by necessi
 
 ### Chesterton's Fence
 
-Chesterton's Fence is one of my guiding principles. Before I challenge a system, I try to reconstruct the logic that built it. I cannot always interview the people who wrote the rules of play. I can still ask what failure the rule was built to stop, who still defends it, and what would break if it vanished overnight. Change should be principled rather than merely symbolic.
+Chesterton's Fence is one of my guiding principles. Before I challenge a system, which at first glance may seems unfair given where I come from, I try to reconstruct the logic that first built it. I cannot always interview the people who wrote the rules of play. I can still contemplate what failure the rule was built to stop, who still defends it, and what would break if that rule would vanish overnight.
+
+Change should be principled rather than merely symbolic.
 
 Principled change is guided by clear criteria. It weighs evidence. It considers the perspectives of both beneficiaries and those defending the status quo. It seeks to mitigate harm while pursuing improvement.
 
