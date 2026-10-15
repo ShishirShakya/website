@@ -22,4 +22,4 @@ Contact and selected record for **Shishir Shakya**. The [CV as PDF](cv.pdf) is t
 
 **Sections**: [Academic positions and teaching](academic-positions-and-teaching.md) · [Research affiliations](research-affiliations.md) · [Education](education.md) · [All publications](publications.md) · [External funding](external-funding.md) · [Awards](awards.md)
 
-_Last updated: September 12, 2026._
+_Last updated: October 14, 2026._
